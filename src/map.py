@@ -4,7 +4,7 @@
 	Map: Objects for representing Generals IO Map
 '''
 
-from play.tile import Tile, TILE_EMPTY, TILE_FOG, TILE_MOUNTAIN, TILE_OBSTACLE
+from tile import Tile, TILE_EMPTY, TILE_FOG, TILE_MOUNTAIN, TILE_OBSTACLE
 
 class Map(object):
 	def __init__(self, start_data, data):

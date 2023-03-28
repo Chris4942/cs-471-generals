@@ -1,3 +1,3 @@
 #!/bin/python
 from game_manager import GameManager
-game_manager = GameManager()
+game_manager = GameManager(lambda i: ())

@@ -1,0 +1,5 @@
+name: cs471generals
+dependencies:
+    - python=3.11.2
+    - websocket=0.2.1
+    - websocket-client=1.5.1

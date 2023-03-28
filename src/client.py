@@ -3,7 +3,7 @@ import time
 import json
 import threading
 from websocket import create_connection, WebSocketConnectionClosedException
-from play.map import Map
+from map import Map
 
 # A lot of the code for this client was pulled from Harris Christiansen's Python generals-bot
 # Can be found here: https://github.com/harrischristiansen/generals-bot/blob/e1b1fb1c51e9f249b974a89c3e3001df530f4619/base/client/generals.py

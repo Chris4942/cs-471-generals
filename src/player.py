@@ -1,5 +1,5 @@
 import torch
-import play.tile as tile
+import tile as tile
 import threading
 import random
 import time
@@ -19,10 +19,6 @@ INVALID_TURN_PENALTY = -1
 NO_PROGRESS_PENALTY = -0.1
 TERRITORY_REWARD = 5
 CONQUER_REWARD = 10
-
-torch.set_printoptions(threshold=10000)
-
-sigmoid = torch.nn.Sigmoid()
 
 class Player:
     def __init__(
@@ -197,6 +193,10 @@ class Player:
     
 
 ####### learning #######
+    torch.set_printoptions(threshold=10000)
+
+    sigmoid = torch.nn.Sigmoid()
+
 
     def remember(self, grid, action_dist):
         if len(self.memory) == 0:

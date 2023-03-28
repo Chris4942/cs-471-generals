@@ -9,10 +9,9 @@ class GameManager:
 
         updates_thread = threading.Thread(target = self.setup_update_thread(update_generator, update_handler))
 
-
         updates_thread.start()
 
-    def setup_client():
+    def setup_client(self):
         client = Client()
         updates_generator = client.get_updates()
         client.set_username(os.environ['USER_ID'], os.environ['USERNAME'])
@@ -33,6 +32,7 @@ class GameManager:
     
     def setup_update_thread(self, update_generator, update_handler):
         def thread():
+            print('executing update thread')
             for update in update_generator:
                 update_handler(self._client._map)
         return thread
