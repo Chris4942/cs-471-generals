@@ -2,20 +2,23 @@
 from client import Client
 import os
 import threading
+from time import sleep
 
 class GameManager:
     def __init__(self, update_handler):
-        self._client, update_generator = self.setup_client()
-
+        game = os.environ['GAME_ID']
+        self._client, update_generator = self.setup_client(game)
         updates_thread = threading.Thread(target = self.setup_update_thread(update_generator, update_handler))
 
         updates_thread.start()
 
-    def setup_client(self):
+        sleep(0.5)
+        self._client.set_force_start(game)
+
+    def setup_client(self, game):
         client = Client()
         updates_generator = client.get_updates()
         client.set_username(os.environ['USER_ID'], os.environ['USERNAME'])
-        game = os.environ['GAME_ID']
         client.join_game(game)
         return client, updates_generator
 
