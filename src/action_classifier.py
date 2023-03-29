@@ -1,20 +1,21 @@
 from action import Action, Direction, Goal
 import numpy as np
+from fuzzywuzzy import process
 
-pos = 0
-actions = [
-    Direction.UP,
-    Direction.UP,
-    Direction.LEFT,
-    Direction.LEFT,
-    Direction.DOWN,
-    Direction.DOWN,
-    Direction.RIGHT,
-    Direction.RIGHT,
+from word_lists import DOWN_WORDS, LEFT_WORDS, RIGHT_WORDS, UP_WORDS
+
+action_dirs = [
+    Action(Goal.MOVE, Direction.LEFT),
+    Action(Goal.MOVE, Direction.RIGHT),
+    Action(Goal.MOVE, Direction.DOWN),
+    Action(Goal.MOVE, Direction.UP),
 ]
 
 def classify_action(text) -> Action:
-    global pos, actions
-    action = Action(Goal.MOVE, direction=actions[pos])
-    pos += 1
-    return action
+    options = [
+        process.extractOne(text, LEFT_WORDS)[1],
+        process.extractOne(text, RIGHT_WORDS)[1],
+        process.extractOne(text, DOWN_WORDS)[1],
+        process.extractOne(text, UP_WORDS)[1],
+    ]
+    return action_dirs[np.argmax(options)]
