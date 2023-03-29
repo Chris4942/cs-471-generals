@@ -21,6 +21,7 @@ class Client():
         t.start()
     
     def set_username(self, userid, username):
+        print(f"setting userid: {userid}, username: {username}")
         self._send(["set_username", userid, username])
         self.username = username
         self.userid = userid
@@ -113,6 +114,7 @@ class Client():
         print(msg)
     
     def attack(self, y1, x1, y2, x2, move_half=False):
+        print(f"attacking {y1, x1, y2, x2}")
         if not self._seen_update:
             raise ValueError
         
