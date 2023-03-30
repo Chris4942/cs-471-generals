@@ -1,8 +1,9 @@
 name: cs471generals
 dependencies:
     - python=3.11.2
-    - websocket=0.2.1
-    - websocket-client=1.5.1
-    - PyAudio=0.2.13
-    - SpeechRecognition=3.10.0
-    - fuzzywuzzy=0.18.0
+    - pip:
+        - websocket-client
+        - PyAudio==0.2.13
+        - SpeechRecognition==3.10.0
+        - numpy
+        - fuzzywuzzy==0.18.0
