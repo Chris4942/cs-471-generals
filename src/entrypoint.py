@@ -8,3 +8,4 @@ game_manager = GameManager(
     update_handler = lambda i: (),
     listener=SpeechRecognitionListener(),
 )
+

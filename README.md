@@ -21,7 +21,7 @@ Create a file called `secrets.sh` and fill it with the following (replacing any 
 ```bash
 export GAME_ID="<game_id_from_the_url>"
 export USER_ID="<whatever you want>"
-export USERNAME="<whatever you want>"
+export USERNAME="Bot<whatever you want>"
 ```
 
 Now run

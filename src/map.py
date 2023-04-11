@@ -4,6 +4,7 @@
 	Map: Objects for representing Generals IO Map
 '''
 
+from colorama import Back, Fore, Style
 from tile import Tile, TILE_EMPTY, TILE_FOG, TILE_MOUNTAIN, TILE_OBSTACLE
 
 class Map(object):
@@ -251,6 +252,26 @@ class Map(object):
 		        for c in range(self.cols)
 		    ] for r in range(self.rows)
 		]
+
+	color_map = {
+		1: f"{Fore.WHITE}{Back.BLUE}",
+		0: f"{Fore.WHITE}{Back.RED}",
+		-1: f"{Fore.WHITE}{Back.GREEN}",
+		-2: f"{Fore.BLACK}{Back.BLACK}",
+		-3: f"{Fore.GREEN}{Back.MAGENTA}",
+		-4: f"{Fore.CYAN}{Back.CYAN}",
+	}
+
+	def __str__(self):
+		return '|\n|'.join([
+		    ' '.join([
+		        f"{Map.color_map[self._map_private[2 + r * self.cols + c + self.rows * self.cols]]}{self._map_private[2 + r * self.cols + c]:<4}" 
+		        for c in range(self.cols)
+		    ]) + Style.RESET_ALL for r in range(self.rows)
+		]) + '|'
+	
+	def __repr__(self):
+		return str(self)
 
 def _apply_diff(cache, diff):
 	i = 0

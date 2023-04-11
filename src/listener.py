@@ -16,11 +16,13 @@ class DumbListener(Listener):
         
 class SpeechRecognitionListener(Listener):
     def __init__(self):
+        print("setting up")
         self.r = sr.Recognizer()
 
     def listen(self):
         with sr.Microphone() as source:
             while True:
+                print("listening...")
                 try:
                     audio = self.r.listen(
                         source,

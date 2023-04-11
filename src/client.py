@@ -81,7 +81,7 @@ class Client():
             elif msg[0] == "chat_message":
                 None
             elif msg[0] == "error_set_username":
-                None
+                print(msg)
             elif msg[0] == "game_over":
                 None
             elif msg[0] == "notify":
