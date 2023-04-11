@@ -13,20 +13,31 @@ class ActionPrimitive:
     def __init__(self, position: tuple[int, int], direction: Direction):
         self.position = position
         self.direction = direction
+        
+class PointString:
+    def __init__(self, coord):
+        self.string = coord
+    
+    def __str__(self):
+        return f"PointString: {self.string}"
 
 class Action:
-    def __init__(self, goal: Goal, direction: Direction):
+    def __init__(
+                self,
+                goal: Goal,
+                direction: Direction = None,
+                pointString: PointString = None,
+                ):
         self.goal = goal
         self.direction = direction
-
-class Point:
-    def __init__(self, r, c):
-        self.r = r
-        self.c = c
+        self.pointString = pointString
+    
+    def __str__(self) -> str:
+        return f"Action ({self.goal}), ({self.direction}), ({self.pointString})"
 
 
 class Location:
-    def __init__(self, p: Point, n: int):
+    def __init__(self, p: PointString, n: int):
         self.p = p
         self.n = n
     

@@ -1,5 +1,5 @@
 
-from action import Location, Point
+from action import Location, PointString
 from client import Client
 import os
 import threading
@@ -45,7 +45,7 @@ class GameManager:
         for r in range(self._client._map.rows):
             for c in range(self._client._map.cols):
                 if grid[r][c].isSelf() and grid[r][c].army > 1:
-                    owned_territory.append(Location(Point(r, c), grid[r][c].army))
+                    owned_territory.append(Location(PointString(r, c), grid[r][c].army))
 
         return owned_territory
     
