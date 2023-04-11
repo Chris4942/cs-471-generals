@@ -5,5 +5,5 @@ dependencies:
         - websocket-client
         - PyAudio==0.2.13
         - SpeechRecognition==3.10.0
-        - numpy
+        - numpy==1.24.2
         - fuzzywuzzy==0.18.0
