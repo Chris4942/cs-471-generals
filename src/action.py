@@ -1,4 +1,5 @@
 from enum import Enum
+from string import ascii_uppercase
 
 class Direction(Enum):
     UP = 0
@@ -14,30 +15,41 @@ class ActionPrimitive:
         self.position = position
         self.direction = direction
         
-class PointString:
-    def __init__(self, coord):
-        self.string = coord
+class Point:
+    def __init__(self, r, c):
+        self.r = r
+        self.c = c
     
-    def __str__(self):
-        return f"PointString: {self.string}"
+    def __str__(self) -> str:
+        return f"Point: {self.r}, {self.c}"
+    
+    def __repr__(self) -> str:
+        return str(self)
+    
+    @staticmethod
+    def of(string) -> tuple[int, int]:
+        col = ascii_uppercase.find(string[0])
+        row = int(string[1:])
+        return Point(row, col)
+
 
 class Action:
     def __init__(
                 self,
                 goal: Goal,
                 direction: Direction = None,
-                pointString: PointString = None,
+                pointString: str = None,
                 ):
         self.goal = goal
         self.direction = direction
-        self.pointString = pointString
+        self.destination: Point = Point.of(pointString) if pointString is not None else None
     
     def __str__(self) -> str:
-        return f"Action ({self.goal}), ({self.direction}), ({self.pointString})"
+        return f"Action ({self.goal}), ({self.direction}), ({self.destination})"
 
 
 class Location:
-    def __init__(self, p: PointString, n: int):
+    def __init__(self, p: Point, n: int):
         self.p = p
         self.n = n
     

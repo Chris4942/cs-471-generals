@@ -6,7 +6,9 @@
 
 from colorama import Back, Fore, Style
 from tile import Tile, TILE_EMPTY, TILE_FOG, TILE_MOUNTAIN, TILE_OBSTACLE
+import string
 
+alphabet_array = list(string.ascii_uppercase)
 class Map(object):
 	def __init__(self, start_data, data):
 		# Start Data
@@ -263,12 +265,14 @@ class Map(object):
 	}
 
 	def __str__(self):
-		return '|\n|'.join([
-		    ' '.join([
+		return ('|    ' + ' '.join([f"{letter:<4}"  for letter in alphabet_array[:self.cols]])
+	  		+ '|\n|' + '|\n|'.join([
+			
+		    f"{r:<2} " + ' '.join([
 		        f"{Map.color_map[self._map_private[2 + r * self.cols + c + self.rows * self.cols]]}{self._map_private[2 + r * self.cols + c]:<4}" 
 		        for c in range(self.cols)
 		    ]) + Style.RESET_ALL for r in range(self.rows)
-		]) + '|'
+		]) + '|')
 	
 	def __repr__(self):
 		return str(self)
