@@ -265,14 +265,15 @@ class Map(object):
 	}
 
 	def __str__(self):
-		return ('|    ' + ' '.join([f"{letter:<4}"  for letter in alphabet_array[:self.cols]])
+		letters = '   ' + ' '.join([f"{letter:<4}"  for letter in alphabet_array[:self.cols]])
+		return ('|' + letters
 	  		+ '|\n|' + '|\n|'.join([
-			
 		    f"{r:<2} " + ' '.join([
-		        f"{Map.color_map[self._map_private[2 + r * self.cols + c + self.rows * self.cols]]}{self._map_private[2 + r * self.cols + c]:<4}" 
+		        f"{Map.color_map[self._map_private[2 + r * self.cols + c + self.rows * self.cols]]}{self._map_private[2 + r * self.cols + c]:<4}"
 		        for c in range(self.cols)
-		    ]) + Style.RESET_ALL for r in range(self.rows)
-		]) + '|')
+		    ]) 
+			+ Style.RESET_ALL + f"|{r:<1}" for r in range(self.rows)
+		]) + '|\n|' + letters + '|')
 	
 	def __repr__(self):
 		return str(self)

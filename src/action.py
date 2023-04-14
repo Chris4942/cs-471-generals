@@ -38,14 +38,17 @@ class Action:
                 self,
                 goal: Goal,
                 direction: Direction = None,
-                pointString: str = None,
+                destination_point: str = None,
+                starting_point: str = None,
                 ):
         self.goal = goal
         self.direction = direction
-        self.destination: Point = Point.of(pointString) if pointString is not None else None
+        self.destination: Point = Point.of(destination_point) if destination_point is not None else None
+        self.start: Point = Point.of(starting_point) if starting_point is not None else None
+
     
     def __str__(self) -> str:
-        return f"Action ({self.goal}), ({self.direction}), ({self.destination})"
+        return f"Action ({self.goal}), ({self.direction}), ({self.start}) -> ({self.destination})"
 
 
 class Location:

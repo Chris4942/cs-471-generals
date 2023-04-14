@@ -9,6 +9,6 @@ def push_attack(a, b):
     attacks.append((a, b))
 
 strategist = Strategist(find_all_owned_territory_coords=find_all_coords, push_attack=push_attack)
-strategist.execute(action=Action(Goal.MOVE, pointString="C3"))
+strategist.execute(action=Action(Goal.MOVE, destinationPoint="C3"))
 
 print(attacks)

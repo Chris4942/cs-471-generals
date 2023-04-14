@@ -22,8 +22,7 @@ class Strategist:
         No start coord is provided
         Goal is Goal.MOVE
         """
-        owned_points = self.find_all_owned_territoy_coords()
-        start: Point = max(owned_points).p
+        start: Point = action.start if action.start is not None else max(self.find_all_owned_territoy_coords()).p
         if action.destination is not None:
             current_point = start
             if current_point.r < action.destination.r:
