@@ -114,7 +114,6 @@ class Client():
         print(msg)
     
     def attack(self, y1, x1, y2, x2, move_half=False):
-        print(f"attacking {y1, x1, y2, x2}")
         if not self._seen_update:
             raise ValueError
         
@@ -123,7 +122,6 @@ class Client():
         b = y2 * cols + x2
         self._send(["attack", a, b, move_half])
         self._move_id += 1
-        # print(f'attacking from {(x1, y1)} to {(x2, y2)}')
     
     def leave(self):
         self._send(['leave_game'])

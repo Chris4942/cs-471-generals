@@ -60,9 +60,8 @@ class GameManager:
             self.voice_pipeline_thread = threading.Thread(target=self.voice_pipeline.run)
             self.voice_pipeline_thread.start()
             for update in update_generator:
-                print(f"map:\n{self._client._map}")
+                print(f"{self._client._map}")
                 update_handler(self._client._map)
-                print('checking if action queue is empty')
                 if not self.action_queue.empty():
                     action = self.action_queue.get()
                     start = action[0]

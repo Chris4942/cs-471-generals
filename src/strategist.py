@@ -1,3 +1,4 @@
+import os
 from typing import Callable
 from action import Action, Direction, Location, Point
 
@@ -10,8 +11,9 @@ class Strategist:
     }
 
     def __init__(self, push_attack, find_all_owned_territory_coords):
-        self.push_attack = push_attack
+        self.send_attack_to_gm = push_attack
         self.find_all_owned_territoy_coords = find_all_owned_territory_coords
+        self.log_file = os.environ['STRATEGIST_FILE']
 
     
     def execute(self, action: Action):
@@ -24,7 +26,6 @@ class Strategist:
         start: Point = max(owned_points).p
         if action.destination is not None:
             current_point = start
-            print(f"action destination c: {action.destination.c}")
             if current_point.r < action.destination.r:
                 for _ in range(action.destination.r - current_point.r):
                     next_point = Point(current_point.r + 1, current_point.c)
@@ -36,17 +37,13 @@ class Strategist:
                     self.push_attack(current_point, next_point)
                     current_point = next_point
             
-            print(f"current_point.c: {current_point.c}")
-            print(f"action.destination.c: {action.destination.c}")
             if current_point.c < action.destination.c:
                 for _ in range (action.destination.c - current_point.c):
-                    print("up")
                     next_point = Point(current_point.r, current_point.c + 1)
                     self.push_attack(current_point, next_point)
                     current_point = next_point
             else:
                 for _ in range(current_point.c - action.destination.c):
-                    print("down")
                     next_point = Point(current_point.r, current_point.c - 1)
                     self.push_attack(current_point, next_point)
                     current_point = next_point
@@ -56,8 +53,16 @@ class Strategist:
             self.push_attack(start, destination)
     
     def compute_destination(self, start: Point, direction: Direction) -> Point:
-        print(Strategist.movement_computers)
         return Strategist.movement_computers[direction](start)
+
+    def log(self, string):
+        with open(self.log_file, 'a') as f:
+            print(string, file=f)
+    
+    def push_attack(self, p1: Point, p2: Point):
+        self.log(f"Moving from {p1} to {p2}")
+        self.send_attack_to_gm(p1, p2)
+
 
 class DoNothingStrategist:
     def execute(self, action: Action):

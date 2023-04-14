@@ -12,13 +12,23 @@ action_dirs = [
     Action(Goal.MOVE, Direction.UP),
 ]
 
-coord_matcher = compile('[A-Z][0-9]+')
+coord_matcher = compile('[a-z] ?[0-9]+')
+
+def preprocess(text: str):
+    def replace_word(text, word, replacement):
+        text = text.replace(' ' + word, replacement)
+        text = text.replace(word + ' ', replacement)
+        return text
+    text = text.lower()
+    text = replace_word(text, 'are', 'R')
+    text = replace_word(text, 'zero', '0')
+    text = replace_word(text, 'too', '2')
+    text = replace_word(text, 'to', '2')
+    return text
 
 def classify_action(text) -> Action:
+    text = preprocess(text)
     matches = coord_matcher.match(text)
-    print(matches)
-    print(type(matches))
-    print(dir(matches))
     if matches is not None:
         return Action(Goal.MOVE, pointString = matches.string)
     options = [

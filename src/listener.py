@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
 from time import sleep
 import speech_recognition as sr
+import os
 
 class Listener(ABC):
     @abstractmethod
@@ -16,13 +17,13 @@ class DumbListener(Listener):
         
 class SpeechRecognitionListener(Listener):
     def __init__(self):
-        print("setting up")
+        self.output_file = os.environ['WORDS_FILE']
         self.r = sr.Recognizer()
 
     def listen(self):
         with sr.Microphone() as source:
             while True:
-                print("listening...")
+                self.log("listening...")
                 try:
                     audio = self.r.listen(
                         source,
@@ -30,8 +31,12 @@ class SpeechRecognitionListener(Listener):
                         phrase_time_limit=3,
                     )
                     text = self.r.recognize_google(audio)
-                    print(f"got text: {text}")
+                    self.log(f"got text: {text}")
                     yield text
                 except Exception as e:
-                    print('could not recognize text')
-                    print(e)
+                    self.log('could not recognize text')
+                    self.log(e)
+    
+    def log(self, string):
+        with open(self.output_file, 'a') as f:
+            print(string, file=f)

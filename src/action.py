@@ -1,5 +1,5 @@
 from enum import Enum
-from string import ascii_uppercase
+from string import ascii_lowercase
 
 class Direction(Enum):
     UP = 0
@@ -28,7 +28,7 @@ class Point:
     
     @staticmethod
     def of(string) -> tuple[int, int]:
-        col = ascii_uppercase.find(string[0])
+        col = ascii_lowercase.find(string[0])
         row = int(string[1:])
         return Point(row, col)
 
