@@ -64,11 +64,12 @@ class Action:
         self.direction = direction
         self.destination: Point = Point.of(destination_point) if destination_point is not None else None
         self.start: Point = Point.of(starting_point) if starting_point is not None else None
+        self.amount = 1
         self.group = None
 
     
     def __str__(self) -> str:
-        return f"Action ({self.goal}), ({self.direction}), ({self.start}/{self.group}) -> ({self.destination})"
+        return f"Action ({self.goal}), ({self.direction} {self.amount} spaces), ({self.start}/{self.group}) -> ({self.destination})"
 
 
 class Location:

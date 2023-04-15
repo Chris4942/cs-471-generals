@@ -66,8 +66,10 @@ class Strategist:
                         current_point = next_point
 
             if action.direction is not None:
-                destination = self.compute_destination(start, direction=action.direction)
-                self.push_attack(start, destination)
+                for i in range(action.amount):
+                    destination = self.compute_destination(start, direction=action.direction)
+                    self.push_attack(start, destination)
+                    start = destination
     
     def compute_destination(self, start: Point, direction: Direction) -> Point:
         return Strategist.movement_computers[direction](start)

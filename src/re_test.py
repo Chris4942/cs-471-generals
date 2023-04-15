@@ -1,7 +1,17 @@
 from re import compile
+from fuzzywuzzy import process
+from my_regex import spaces_regex, group_regex
 
-m = compile('(?<! \w) \d+(?= )')
+from word_lists import LEFT_WORDS
 
-print(m.findall(' the 200 '))
-print(m.findall(' the 35 '))
-print(m.findall(' all 200 '))
+# spaces_matcher = compile('(?<= )\d+(?= (?:space|tile|square|spot))')
+# group_matcher = compile('(?<= )\d+(?! (?:space|tile|square|spot))')
+
+spaces_matcher = compile(spaces_regex)
+group_matcher = compile(group_regex)
+
+test_string = ' move left 7 spaces '
+
+
+print(spaces_matcher.findall(test_string))
+print(group_matcher.findall(test_string))

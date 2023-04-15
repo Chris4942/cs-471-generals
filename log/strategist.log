@@ -859,3 +859,2023 @@ Moving from Point: 1, 18 to Point: 0, 18
 Moving from Point: 4, 19 to Point: 3, 19
 Moving from Point: 8, 1 to Point: 7, 1
 Moving from Point: 7, 1 to Point: 6, 1
+Moving from Point: 20, 7 to Point: 21, 7
+Moving from Point: 20, 7 to Point: 20, 8
+Moving from Point: 20, 7 to Point: 19, 7
+Moving from Point: 19, 7 to Point: 18, 7
+a group exists on the point. It's at Point: 19, 7
+Moving from Point: 19, 7 to Point: 19, 8
+a group exists on the point. It's at Point: 20, 7
+Moving from Point: 20, 7 to Point: 19, 7
+Moving from Point: 18, 7 to Point: 18, 8
+Moving from Point: 14, 1 to Point: 13, 1
+Moving from Point: 13, 1 to Point: 12, 1
+Moving from Point: 12, 1 to Point: 11, 1
+Moving from Point: 11, 1 to Point: 10, 1
+Moving from Point: 14, 1 to Point: 14, 2
+Moving from Point: 10, 1 to Point: 9, 1
+Moving from Point: 9, 1 to Point: 9, 2
+Moving from Point: 9, 2 to Point: 9, 3
+Moving from Point: 9, 3 to Point: 9, 4
+Moving from Point: 9, 4 to Point: 9, 5
+Moving from Point: 9, 5 to Point: 9, 6
+Moving from Point: 14, 1 to Point: 14, 2
+Moving from Point: 10, 1 to Point: 9, 1
+Moving from Point: 9, 1 to Point: 9, 2
+Moving from Point: 9, 2 to Point: 9, 3
+Moving from Point: 9, 3 to Point: 9, 4
+Moving from Point: 9, 4 to Point: 9, 5
+Moving from Point: 9, 5 to Point: 9, 6
+Moving from Point: 14, 2 to Point: 15, 2
+Moving from Point: 15, 2 to Point: 16, 2
+Moving from Point: 10, 16 to Point: 11, 16
+Moving from Point: 10, 16 to Point: 10, 15
+a group exists on the point. It's at Point: 10, 16
+Moving from Point: 10, 16 to Point: 10, 15
+Moving from Point: 10, 15 to Point: 9, 15
+Moving from Point: 9, 15 to Point: 9, 16
+a group exists on the point. It's at Point: 9, 15
+Moving from Point: 9, 15 to Point: 8, 15
+Moving from Point: 9, 16 to Point: 8, 16
+Moving from Point: 8, 16 to Point: 7, 16
+Moving from Point: 8, 16 to Point: 7, 16
+Moving from Point: 0, 17 to Point: 1, 17
+Moving from Point: 1, 17 to Point: 1, 16
+Moving from Point: 0, 17 to Point: 0, 16
+Moving from Point: 0, 16 to Point: 0, 17
+Moving from Point: 0, 17 to Point: 0, 18
+Moving from Point: 0, 18 to Point: 1, 18
+Moving from Point: 1, 18 to Point: 2, 18
+Moving from Point: 2, 18 to Point: 3, 18
+Moving from Point: 0, 17 to Point: 1, 17
+Moving from Point: 1, 17 to Point: 2, 17
+Moving from Point: 2, 17 to Point: 3, 17
+Moving from Point: 3, 17 to Point: 4, 17
+Moving from Point: 7, 16 to Point: 6, 16
+Moving from Point: 6, 16 to Point: 5, 16
+Moving from Point: 7, 16 to Point: 6, 16
+Moving from Point: 6, 16 to Point: 6, 15
+Moving from Point: 8, 16 to Point: 7, 16
+Moving from Point: 7, 16 to Point: 6, 16
+Moving from Point: 6, 16 to Point: 5, 16
+Moving from Point: 5, 16 to Point: 4, 16
+Moving from Point: 5, 16 to Point: 5, 15
+Moving from Point: 5, 15 to Point: 5, 14
+Moving from Point: 5, 14 to Point: 5, 13
+Moving from Point: 5, 13 to Point: 5, 12
+Moving from Point: 5, 12 to Point: 5, 11
+Moving from Point: 5, 11 to Point: 5, 10
+Moving from Point: 5, 10 to Point: 5, 9
+Moving from Point: 5, 9 to Point: 5, 8
+Moving from Point: 5, 8 to Point: 5, 7
+Moving from Point: 5, 7 to Point: 5, 6
+Moving from Point: 5, 6 to Point: 5, 5
+Moving from Point: 4, 16 to Point: 4, 15
+Moving from Point: 4, 15 to Point: 4, 14
+Moving from Point: 4, 14 to Point: 4, 13
+Moving from Point: 4, 13 to Point: 4, 12
+Moving from Point: 4, 12 to Point: 4, 11
+Moving from Point: 4, 11 to Point: 4, 10
+Moving from Point: 4, 10 to Point: 4, 9
+Moving from Point: 4, 9 to Point: 4, 8
+Moving from Point: 4, 8 to Point: 4, 7
+Moving from Point: 4, 7 to Point: 4, 6
+Moving from Point: 4, 6 to Point: 4, 5
+Moving from Point: 4, 16 to Point: 5, 16
+Moving from Point: 7, 8 to Point: 7, 9
+Moving from Point: 7, 9 to Point: 7, 10
+Moving from Point: 7, 10 to Point: 7, 11
+Moving from Point: 7, 11 to Point: 7, 12
+Moving from Point: 7, 12 to Point: 7, 13
+Moving from Point: 7, 13 to Point: 7, 14
+Moving from Point: 7, 14 to Point: 7, 15
+Moving from Point: 7, 15 to Point: 6, 15
+spreading out...
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4996a6150> -> Point: 5, 15
+Moving from Point: 6, 15 to Point: 5, 15
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499ae2cd0> -> Point: 7, 7
+Moving from Point: 7, 8 to Point: 7, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499ae2d10> -> Point: 7, 8
+Moving from Point: 7, 9 to Point: 7, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49bc0da50> -> Point: 6, 10
+Moving from Point: 7, 10 to Point: 6, 10
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd499adf250> -> Point: 7, 12
+Moving from Point: 7, 11 to Point: 7, 12
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4997cb9d0> -> Point: 7, 11
+Moving from Point: 7, 12 to Point: 7, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49bb80a50> -> Point: 7, 12
+Moving from Point: 7, 13 to Point: 7, 12
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49980efd0> -> Point: 6, 14
+Moving from Point: 7, 14 to Point: 6, 14
+spreading out...
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4999bb490> -> Point: 7, 10
+Moving from Point: 6, 10 to Point: 7, 10
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499818710> -> Point: 6, 14
+Moving from Point: 6, 15 to Point: 6, 14
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49bb80a10> -> Point: 6, 7
+Moving from Point: 7, 7 to Point: 6, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49980d310> -> Point: 6, 8
+Moving from Point: 7, 8 to Point: 6, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499ab1710> -> Point: 6, 11
+Moving from Point: 7, 11 to Point: 6, 11
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499ae2310> -> Point: 8, 12
+Moving from Point: 7, 12 to Point: 8, 12
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499ae2cd0> -> Point: 7, 13
+Moving from Point: 7, 14 to Point: 7, 13
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499adf150> -> Point: 7, 14
+Moving from Point: 7, 15 to Point: 7, 14
+spreading out...
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4996a6150> -> Point: 5, 7
+Moving from Point: 6, 7 to Point: 5, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499acf890> -> Point: 5, 8
+Moving from Point: 6, 8 to Point: 5, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499ab1710> -> Point: 5, 11
+Moving from Point: 6, 11 to Point: 5, 11
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd49980fe10> -> Point: 6, 16
+Moving from Point: 6, 15 to Point: 6, 16
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49bb80750> -> Point: 7, 7
+Moving from Point: 7, 8 to Point: 7, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49982d450> -> Point: 7, 9
+Moving from Point: 7, 10 to Point: 7, 9
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b04650> -> Point: 8, 12
+Moving from Point: 7, 12 to Point: 8, 12
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499b073d0> -> Point: 7, 12
+Moving from Point: 7, 13 to Point: 7, 12
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b07d10> -> Point: 8, 14
+Moving from Point: 7, 14 to Point: 8, 14
+spreading out...
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49bb9e350> -> Point: 4, 7
+Moving from Point: 5, 7 to Point: 4, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd499adf150> -> Point: 5, 9
+Moving from Point: 5, 8 to Point: 5, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4999bad90> -> Point: 5, 12
+Moving from Point: 5, 11 to Point: 5, 12
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4997cb650> -> Point: 6, 17
+Moving from Point: 6, 16 to Point: 6, 17
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4996ed890> -> Point: 8, 7
+Moving from Point: 7, 7 to Point: 8, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499ae3390> -> Point: 7, 7
+Moving from Point: 7, 8 to Point: 7, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499b05fd0> -> Point: 6, 9
+Moving from Point: 7, 9 to Point: 6, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499b04310> -> Point: 7, 11
+Moving from Point: 7, 12 to Point: 7, 11
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499b07750> -> Point: 6, 14
+Moving from Point: 7, 14 to Point: 6, 14
+spreading out...
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49bb80750> -> Point: 3, 7
+Moving from Point: 4, 7 to Point: 3, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499adf250> -> Point: 4, 7
+Moving from Point: 5, 7 to Point: 4, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4a459f510> -> Point: 4, 8
+Moving from Point: 5, 8 to Point: 4, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499819350> -> Point: 4, 9
+Moving from Point: 5, 9 to Point: 4, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd499ae36d0> -> Point: 5, 12
+Moving from Point: 5, 11 to Point: 5, 12
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49980dd50> -> Point: 5, 11
+Moving from Point: 5, 12 to Point: 5, 11
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd49980ee90> -> Point: 6, 8
+Moving from Point: 6, 7 to Point: 6, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49980ce50> -> Point: 5, 8
+Moving from Point: 6, 8 to Point: 5, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b07e10> -> Point: 7, 10
+Moving from Point: 6, 10 to Point: 7, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b04310> -> Point: 7, 11
+Moving from Point: 6, 11 to Point: 7, 11
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b06a90> -> Point: 7, 15
+Moving from Point: 6, 15 to Point: 7, 15
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b07310> -> Point: 7, 16
+Moving from Point: 6, 16 to Point: 7, 16
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b04650> -> Point: 7, 17
+Moving from Point: 6, 17 to Point: 7, 17
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499b04950> -> Point: 7, 6
+Moving from Point: 7, 7 to Point: 7, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499b07090> -> Point: 6, 8
+Moving from Point: 7, 8 to Point: 6, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4996ed890> -> Point: 7, 8
+Moving from Point: 7, 9 to Point: 7, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c7dd0> -> Point: 7, 9
+Moving from Point: 7, 10 to Point: 7, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995c7790> -> Point: 7, 12
+Moving from Point: 7, 11 to Point: 7, 12
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995c7fd0> -> Point: 7, 13
+Moving from Point: 7, 12 to Point: 7, 13
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995c7d50> -> Point: 8, 13
+Moving from Point: 7, 13 to Point: 8, 13
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995c7a10> -> Point: 7, 15
+Moving from Point: 7, 14 to Point: 7, 15
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c7f10> -> Point: 7, 14
+Moving from Point: 7, 15 to Point: 7, 14
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995c7e90> -> Point: 7, 7
+Moving from Point: 8, 7 to Point: 7, 7
+spreading out...
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49bbad950> -> Point: 3, 6
+Moving from Point: 3, 7 to Point: 3, 6
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49980d750> -> Point: 5, 7
+Moving from Point: 4, 7 to Point: 5, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49bca93d0> -> Point: 6, 8
+Moving from Point: 5, 8 to Point: 6, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49bb80890> -> Point: 6, 9
+Moving from Point: 5, 9 to Point: 6, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499adf150> -> Point: 5, 10
+Moving from Point: 5, 11 to Point: 5, 10
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49bb9e350> -> Point: 5, 16
+Moving from Point: 6, 16 to Point: 5, 16
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499b07690> -> Point: 5, 17
+Moving from Point: 6, 17 to Point: 5, 17
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b04310> -> Point: 8, 7
+Moving from Point: 7, 7 to Point: 8, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499b07310> -> Point: 7, 7
+Moving from Point: 7, 8 to Point: 7, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499b07750> -> Point: 6, 9
+Moving from Point: 7, 9 to Point: 6, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499ae2310> -> Point: 7, 9
+Moving from Point: 7, 10 to Point: 7, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499ae36d0> -> Point: 7, 10
+Moving from Point: 7, 11 to Point: 7, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49982fa10> -> Point: 8, 12
+Moving from Point: 7, 12 to Point: 8, 12
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49982fe90> -> Point: 8, 13
+Moving from Point: 7, 13 to Point: 8, 13
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c73d0> -> Point: 7, 13
+Moving from Point: 7, 14 to Point: 7, 13
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995c7e90> -> Point: 7, 16
+Moving from Point: 7, 15 to Point: 7, 16
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995c7e10> -> Point: 7, 7
+Moving from Point: 8, 7 to Point: 7, 7
+spreading out...
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4998b8a50> -> Point: 2, 7
+Moving from Point: 3, 7 to Point: 2, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4997cb890> -> Point: 5, 8
+Moving from Point: 5, 7 to Point: 5, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd49982fe90> -> Point: 5, 10
+Moving from Point: 5, 9 to Point: 5, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499ae36d0> -> Point: 6, 11
+Moving from Point: 5, 11 to Point: 6, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499b077d0> -> Point: 6, 7
+Moving from Point: 6, 8 to Point: 6, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49980dd50> -> Point: 7, 16
+Moving from Point: 6, 16 to Point: 7, 16
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49bb80c10> -> Point: 7, 5
+Moving from Point: 7, 6 to Point: 7, 5
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49bb80a90> -> Point: 8, 7
+Moving from Point: 7, 7 to Point: 8, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49bb80750> -> Point: 8, 8
+Moving from Point: 7, 8 to Point: 8, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c7f50> -> Point: 7, 8
+Moving from Point: 7, 9 to Point: 7, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995c7d50> -> Point: 8, 14
+Moving from Point: 7, 14 to Point: 8, 14
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995c7e10> -> Point: 7, 18
+Moving from Point: 7, 17 to Point: 7, 18
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995c7e90> -> Point: 9, 13
+Moving from Point: 8, 13 to Point: 9, 13
+spreading out...
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499718a10> -> Point: 1, 7
+Moving from Point: 2, 7 to Point: 1, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4998b8a10> -> Point: 6, 8
+Moving from Point: 5, 8 to Point: 6, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b04910> -> Point: 6, 9
+Moving from Point: 5, 9 to Point: 6, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499b07690> -> Point: 5, 9
+Moving from Point: 5, 10 to Point: 5, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd49bbaec50> -> Point: 6, 9
+Moving from Point: 6, 8 to Point: 6, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49980c510> -> Point: 6, 6
+Moving from Point: 7, 6 to Point: 6, 6
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499800190> -> Point: 7, 6
+Moving from Point: 7, 7 to Point: 7, 6
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49982d450> -> Point: 8, 8
+Moving from Point: 7, 8 to Point: 8, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499adf410> -> Point: 6, 9
+Moving from Point: 7, 9 to Point: 6, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd499adf250> -> Point: 7, 14
+Moving from Point: 7, 13 to Point: 7, 14
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c7ed0> -> Point: 7, 16
+Moving from Point: 7, 17 to Point: 7, 16
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995c7d90> -> Point: 9, 13
+Moving from Point: 8, 13 to Point: 9, 13
+Moving from Point: 2, 7 to Point: 2, 6
+Moving from Point: 2, 6 to Point: 2, 5
+Moving from Point: 2, 5 to Point: 2, 4
+Moving from Point: 2, 4 to Point: 2, 3
+Moving from Point: 2, 3 to Point: 2, 2
+Moving from Point: 2, 2 to Point: 2, 1
+spreading out...
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4996a66d0> -> Point: 2, 2
+Moving from Point: 2, 1 to Point: 2, 2
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49bb80a10> -> Point: 3, 6
+Moving from Point: 3, 7 to Point: 3, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49bb80750> -> Point: 3, 7
+Moving from Point: 4, 7 to Point: 3, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4999bad90> -> Point: 4, 7
+Moving from Point: 4, 8 to Point: 4, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499ae04d0> -> Point: 4, 7
+Moving from Point: 5, 7 to Point: 4, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49980ea10> -> Point: 4, 9
+Moving from Point: 5, 9 to Point: 4, 9
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49982d150> -> Point: 6, 11
+Moving from Point: 5, 11 to Point: 6, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49982fa10> -> Point: 5, 11
+Moving from Point: 5, 12 to Point: 5, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499b073d0> -> Point: 5, 15
+Moving from Point: 5, 16 to Point: 5, 15
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b055d0> -> Point: 7, 6
+Moving from Point: 6, 6 to Point: 7, 6
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b07e10> -> Point: 7, 7
+Moving from Point: 6, 7 to Point: 7, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c7750> -> Point: 6, 7
+Moving from Point: 6, 8 to Point: 6, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c7e90> -> Point: 6, 9
+Moving from Point: 6, 10 to Point: 6, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c7f90> -> Point: 6, 10
+Moving from Point: 6, 11 to Point: 6, 10
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995c7dd0> -> Point: 5, 15
+Moving from Point: 6, 15 to Point: 5, 15
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995c7210> -> Point: 7, 16
+Moving from Point: 6, 16 to Point: 7, 16
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c7790> -> Point: 6, 16
+Moving from Point: 6, 17 to Point: 6, 16
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995c7f50> -> Point: 8, 8
+Moving from Point: 7, 8 to Point: 8, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c6ed0> -> Point: 7, 9
+Moving from Point: 7, 10 to Point: 7, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995c73d0> -> Point: 7, 12
+Moving from Point: 7, 11 to Point: 7, 12
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995c7a10> -> Point: 7, 13
+Moving from Point: 7, 12 to Point: 7, 13
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995c7650> -> Point: 6, 14
+Moving from Point: 7, 14 to Point: 6, 14
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c7590> -> Point: 7, 14
+Moving from Point: 7, 15 to Point: 7, 14
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc6d0> -> Point: 7, 19
+Moving from Point: 7, 18 to Point: 7, 19
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc650> -> Point: 7, 7
+Moving from Point: 8, 7 to Point: 7, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc110> -> Point: 7, 8
+Moving from Point: 8, 8 to Point: 7, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc190> -> Point: 9, 12
+Moving from Point: 9, 13 to Point: 9, 12
+spreading out...
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4a459f510> -> Point: 3, 1
+Moving from Point: 2, 1 to Point: 3, 1
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49969fad0> -> Point: 1, 2
+Moving from Point: 2, 2 to Point: 1, 2
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd49bb80a10> -> Point: 2, 4
+Moving from Point: 2, 3 to Point: 2, 4
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49982d450> -> Point: 2, 3
+Moving from Point: 2, 4 to Point: 2, 3
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4996ee550> -> Point: 3, 5
+Moving from Point: 2, 5 to Point: 3, 5
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd499ae3390> -> Point: 2, 7
+Moving from Point: 2, 6 to Point: 2, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd499818710> -> Point: 2, 8
+Moving from Point: 2, 7 to Point: 2, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499b05d50> -> Point: 3, 6
+Moving from Point: 3, 7 to Point: 3, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995c7550> -> Point: 3, 7
+Moving from Point: 4, 7 to Point: 3, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995c7790> -> Point: 3, 8
+Moving from Point: 4, 8 to Point: 3, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c7f90> -> Point: 5, 6
+Moving from Point: 5, 7 to Point: 5, 6
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c6ed0> -> Point: 5, 7
+Moving from Point: 5, 8 to Point: 5, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995c6e90> -> Point: 5, 10
+Moving from Point: 5, 9 to Point: 5, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995c7dd0> -> Point: 6, 10
+Moving from Point: 5, 10 to Point: 6, 10
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995c7e90> -> Point: 5, 12
+Moving from Point: 5, 11 to Point: 5, 12
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995c7590> -> Point: 5, 13
+Moving from Point: 5, 12 to Point: 5, 13
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc3d0> -> Point: 5, 15
+Moving from Point: 5, 16 to Point: 5, 15
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc310> -> Point: 6, 5
+Moving from Point: 6, 6 to Point: 6, 5
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc410> -> Point: 5, 7
+Moving from Point: 6, 7 to Point: 5, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc190> -> Point: 6, 9
+Moving from Point: 6, 8 to Point: 6, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc110> -> Point: 6, 9
+Moving from Point: 6, 10 to Point: 6, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc790> -> Point: 5, 11
+Moving from Point: 6, 11 to Point: 5, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc6d0> -> Point: 6, 14
+Moving from Point: 6, 15 to Point: 6, 14
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dca50> -> Point: 6, 17
+Moving from Point: 6, 16 to Point: 6, 17
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dcad0> -> Point: 7, 17
+Moving from Point: 6, 17 to Point: 7, 17
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dca10> -> Point: 6, 6
+Moving from Point: 7, 6 to Point: 6, 6
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc390> -> Point: 7, 6
+Moving from Point: 7, 7 to Point: 7, 6
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc510> -> Point: 8, 8
+Moving from Point: 7, 8 to Point: 8, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc550> -> Point: 6, 9
+Moving from Point: 7, 9 to Point: 6, 9
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dcb90> -> Point: 8, 10
+Moving from Point: 7, 10 to Point: 8, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dcc10> -> Point: 8, 11
+Moving from Point: 7, 11 to Point: 8, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dcc90> -> Point: 7, 11
+Moving from Point: 7, 12 to Point: 7, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dcd10> -> Point: 7, 12
+Moving from Point: 7, 13 to Point: 7, 12
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dcd90> -> Point: 7, 13
+Moving from Point: 7, 14 to Point: 7, 13
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dce10> -> Point: 7, 14
+Moving from Point: 7, 15 to Point: 7, 14
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dce90> -> Point: 7, 18
+Moving from Point: 7, 17 to Point: 7, 18
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dcf10> -> Point: 7, 19
+Moving from Point: 7, 18 to Point: 7, 19
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dcf90> -> Point: 9, 7
+Moving from Point: 8, 7 to Point: 9, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dd010> -> Point: 9, 8
+Moving from Point: 8, 8 to Point: 9, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd090> -> Point: 8, 14
+Moving from Point: 8, 13 to Point: 8, 14
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd110> -> Point: 9, 14
+Moving from Point: 9, 13 to Point: 9, 14
+Moving from Point: 2, 2 to Point: 3, 2
+Moving from Point: 3, 2 to Point: 4, 2
+Moving from Point: 4, 2 to Point: 5, 2
+Moving from Point: 5, 2 to Point: 6, 2
+Moving from Point: 6, 2 to Point: 7, 2
+Moving from Point: 1, 2 to Point: 2, 2
+Moving from Point: 2, 2 to Point: 3, 2
+Moving from Point: 3, 2 to Point: 4, 2
+Moving from Point: 4, 2 to Point: 5, 2
+Moving from Point: 5, 2 to Point: 6, 2
+Moving from Point: 6, 2 to Point: 7, 2
+Moving from Point: 7, 8 to Point: 8, 8
+Moving from Point: 8, 8 to Point: 9, 8
+Moving from Point: 9, 8 to Point: 10, 8
+Moving from Point: 10, 8 to Point: 11, 8
+Moving from Point: 11, 8 to Point: 12, 8
+Moving from Point: 12, 8 to Point: 13, 8
+Moving from Point: 13, 8 to Point: 14, 8
+Moving from Point: 14, 8 to Point: 15, 8
+Moving from Point: 15, 8 to Point: 16, 8
+Moving from Point: 16, 8 to Point: 17, 8
+Moving from Point: 17, 8 to Point: 18, 8
+Moving from Point: 7, 8 to Point: 8, 8
+Moving from Point: 8, 8 to Point: 9, 8
+Moving from Point: 9, 8 to Point: 10, 8
+Moving from Point: 10, 8 to Point: 11, 8
+Moving from Point: 11, 8 to Point: 12, 8
+Moving from Point: 12, 8 to Point: 13, 8
+Moving from Point: 13, 8 to Point: 14, 8
+Moving from Point: 14, 8 to Point: 15, 8
+Moving from Point: 15, 8 to Point: 16, 8
+Moving from Point: 16, 8 to Point: 17, 8
+Moving from Point: 17, 8 to Point: 18, 8
+Moving from Point: 18, 8 to Point: 17, 8
+Moving from Point: 17, 8 to Point: 16, 8
+Moving from Point: 16, 8 to Point: 15, 8
+Moving from Point: 15, 8 to Point: 14, 8
+Moving from Point: 14, 8 to Point: 13, 8
+Moving from Point: 13, 8 to Point: 12, 8
+Moving from Point: 12, 8 to Point: 12, 9
+spreading out...
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49bbaef90> -> Point: 0, 2
+Moving from Point: 1, 2 to Point: 0, 2
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4997cb890> -> Point: 2, 2
+Moving from Point: 2, 1 to Point: 2, 2
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4999bad90> -> Point: 2, 1
+Moving from Point: 2, 2 to Point: 2, 1
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995c7d90> -> Point: 1, 3
+Moving from Point: 2, 3 to Point: 1, 3
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4996a66d0> -> Point: 2, 5
+Moving from Point: 2, 4 to Point: 2, 5
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd499b04d90> -> Point: 2, 6
+Moving from Point: 2, 5 to Point: 2, 6
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499b06110> -> Point: 3, 6
+Moving from Point: 2, 6 to Point: 3, 6
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd499ae36d0> -> Point: 2, 8
+Moving from Point: 2, 7 to Point: 2, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd499ab1450> -> Point: 3, 8
+Moving from Point: 2, 8 to Point: 3, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499ab1d10> -> Point: 2, 1
+Moving from Point: 3, 1 to Point: 2, 1
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dd690> -> Point: 4, 2
+Moving from Point: 3, 2 to Point: 4, 2
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dca50> -> Point: 3, 4
+Moving from Point: 3, 5 to Point: 3, 4
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dcd10> -> Point: 3, 8
+Moving from Point: 3, 7 to Point: 3, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dd7d0> -> Point: 4, 1
+Moving from Point: 4, 2 to Point: 4, 1
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd490> -> Point: 4, 8
+Moving from Point: 4, 7 to Point: 4, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dd850> -> Point: 5, 8
+Moving from Point: 4, 8 to Point: 5, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc790> -> Point: 4, 2
+Moving from Point: 5, 2 to Point: 4, 2
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc9d0> -> Point: 6, 7
+Moving from Point: 5, 7 to Point: 6, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc1d0> -> Point: 5, 9
+Moving from Point: 5, 8 to Point: 5, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995de150> -> Point: 5, 10
+Moving from Point: 5, 9 to Point: 5, 10
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc490> -> Point: 5, 9
+Moving from Point: 5, 10 to Point: 5, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dcdd0> -> Point: 5, 12
+Moving from Point: 5, 11 to Point: 5, 12
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dca90> -> Point: 5, 13
+Moving from Point: 5, 12 to Point: 5, 13
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ddc50> -> Point: 4, 13
+Moving from Point: 5, 13 to Point: 4, 13
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc910> -> Point: 5, 17
+Moving from Point: 5, 16 to Point: 5, 17
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dcb50> -> Point: 7, 2
+Moving from Point: 6, 2 to Point: 7, 2
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dccd0> -> Point: 6, 4
+Moving from Point: 6, 5 to Point: 6, 4
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd6d0> -> Point: 6, 7
+Moving from Point: 6, 6 to Point: 6, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dcc50> -> Point: 5, 7
+Moving from Point: 6, 7 to Point: 5, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc990> -> Point: 6, 9
+Moving from Point: 6, 8 to Point: 6, 9
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dcd50> -> Point: 7, 10
+Moving from Point: 6, 10 to Point: 7, 10
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc390> -> Point: 6, 12
+Moving from Point: 6, 11 to Point: 6, 12
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dd2d0> -> Point: 7, 15
+Moving from Point: 6, 15 to Point: 7, 15
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd510> -> Point: 6, 17
+Moving from Point: 6, 16 to Point: 6, 17
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd650> -> Point: 6, 18
+Moving from Point: 6, 17 to Point: 6, 18
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dd4d0> -> Point: 7, 1
+Moving from Point: 7, 2 to Point: 7, 1
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ddd50> -> Point: 6, 6
+Moving from Point: 7, 6 to Point: 6, 6
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de0d0> -> Point: 7, 6
+Moving from Point: 7, 7 to Point: 7, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dd050> -> Point: 6, 8
+Moving from Point: 7, 8 to Point: 6, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dced0> -> Point: 7, 10
+Moving from Point: 7, 9 to Point: 7, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dcf50> -> Point: 8, 10
+Moving from Point: 7, 10 to Point: 8, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dded0> -> Point: 8, 11
+Moving from Point: 7, 11 to Point: 8, 11
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dd750> -> Point: 8, 12
+Moving from Point: 7, 12 to Point: 8, 12
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dddd0> -> Point: 8, 13
+Moving from Point: 7, 13 to Point: 8, 13
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc350> -> Point: 6, 14
+Moving from Point: 7, 14 to Point: 6, 14
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd950> -> Point: 7, 16
+Moving from Point: 7, 15 to Point: 7, 16
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dd610> -> Point: 7, 16
+Moving from Point: 7, 17 to Point: 7, 16
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dd8d0> -> Point: 6, 18
+Moving from Point: 7, 18 to Point: 6, 18
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc250> -> Point: 6, 19
+Moving from Point: 7, 19 to Point: 6, 19
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dcad0> -> Point: 7, 7
+Moving from Point: 8, 7 to Point: 7, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dcd90> -> Point: 7, 8
+Moving from Point: 8, 8 to Point: 7, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc110> -> Point: 8, 12
+Moving from Point: 8, 13 to Point: 8, 12
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc7d0> -> Point: 10, 7
+Moving from Point: 9, 7 to Point: 10, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc810> -> Point: 10, 8
+Moving from Point: 9, 8 to Point: 10, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc8d0> -> Point: 9, 14
+Moving from Point: 9, 13 to Point: 9, 14
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc690> -> Point: 10, 14
+Moving from Point: 9, 14 to Point: 10, 14
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc050> -> Point: 10, 9
+Moving from Point: 10, 8 to Point: 10, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc610> -> Point: 10, 8
+Moving from Point: 11, 8 to Point: 10, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dce90> -> Point: 12, 7
+Moving from Point: 12, 8 to Point: 12, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de110> -> Point: 12, 8
+Moving from Point: 12, 9 to Point: 12, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dd150> -> Point: 14, 8
+Moving from Point: 13, 8 to Point: 14, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995de210> -> Point: 14, 9
+Moving from Point: 14, 8 to Point: 14, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de290> -> Point: 15, 7
+Moving from Point: 15, 8 to Point: 15, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995de310> -> Point: 17, 8
+Moving from Point: 16, 8 to Point: 17, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995de390> -> Point: 16, 8
+Moving from Point: 17, 8 to Point: 16, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de3d0> -> Point: 18, 7
+Moving from Point: 18, 8 to Point: 18, 7
+spreading out...
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995c7650> -> Point: 0, 1
+Moving from Point: 0, 2 to Point: 0, 1
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995c7f90> -> Point: 0, 2
+Moving from Point: 1, 2 to Point: 0, 2
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49980c910> -> Point: 2, 3
+Moving from Point: 1, 3 to Point: 2, 3
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4996ede50> -> Point: 2, 2
+Moving from Point: 2, 1 to Point: 2, 2
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49bca99d0> -> Point: 1, 2
+Moving from Point: 2, 2 to Point: 1, 2
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd49bb80c10> -> Point: 2, 4
+Moving from Point: 2, 3 to Point: 2, 4
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49bb80950> -> Point: 2, 3
+Moving from Point: 2, 4 to Point: 2, 3
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dcc10> -> Point: 3, 5
+Moving from Point: 2, 5 to Point: 3, 5
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc5d0> -> Point: 1, 6
+Moving from Point: 2, 6 to Point: 1, 6
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995df0d0> -> Point: 2, 8
+Moving from Point: 2, 7 to Point: 2, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dce50> -> Point: 3, 8
+Moving from Point: 2, 8 to Point: 3, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dd3d0> -> Point: 3, 0
+Moving from Point: 3, 1 to Point: 3, 0
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dd550> -> Point: 2, 2
+Moving from Point: 3, 2 to Point: 2, 2
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ddad0> -> Point: 2, 4
+Moving from Point: 3, 4 to Point: 2, 4
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995deb50> -> Point: 3, 6
+Moving from Point: 3, 5 to Point: 3, 6
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995de9d0> -> Point: 3, 8
+Moving from Point: 3, 7 to Point: 3, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd6d0> -> Point: 4, 2
+Moving from Point: 4, 1 to Point: 4, 2
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc1d0> -> Point: 3, 2
+Moving from Point: 4, 2 to Point: 3, 2
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dd490> -> Point: 5, 7
+Moving from Point: 4, 7 to Point: 5, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dcfd0> -> Point: 3, 8
+Moving from Point: 4, 8 to Point: 3, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995df150> -> Point: 4, 2
+Moving from Point: 5, 2 to Point: 4, 2
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995def50> -> Point: 4, 7
+Moving from Point: 5, 7 to Point: 4, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995def90> -> Point: 5, 7
+Moving from Point: 5, 8 to Point: 5, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dee90> -> Point: 5, 10
+Moving from Point: 5, 9 to Point: 5, 10
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc2d0> -> Point: 4, 10
+Moving from Point: 5, 10 to Point: 4, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995defd0> -> Point: 6, 11
+Moving from Point: 5, 11 to Point: 6, 11
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd350> -> Point: 5, 13
+Moving from Point: 5, 12 to Point: 5, 13
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc910> -> Point: 5, 14
+Moving from Point: 5, 13 to Point: 5, 14
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995df110> -> Point: 5, 15
+Moving from Point: 5, 16 to Point: 5, 15
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dccd0> -> Point: 6, 1
+Moving from Point: 6, 2 to Point: 6, 1
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dcc50> -> Point: 6, 5
+Moving from Point: 6, 4 to Point: 6, 5
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dcd50> -> Point: 7, 5
+Moving from Point: 6, 5 to Point: 7, 5
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ded10> -> Point: 5, 6
+Moving from Point: 6, 6 to Point: 5, 6
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dee10> -> Point: 6, 6
+Moving from Point: 6, 7 to Point: 6, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995deb90> -> Point: 5, 8
+Moving from Point: 6, 8 to Point: 5, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995deb10> -> Point: 6, 9
+Moving from Point: 6, 10 to Point: 6, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dec50> -> Point: 6, 10
+Moving from Point: 6, 11 to Point: 6, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dec10> -> Point: 7, 12
+Moving from Point: 6, 12 to Point: 7, 12
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de610> -> Point: 6, 17
+Moving from Point: 6, 18 to Point: 6, 17
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc890> -> Point: 5, 19
+Moving from Point: 6, 19 to Point: 5, 19
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ddd50> -> Point: 7, 3
+Moving from Point: 7, 2 to Point: 7, 3
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995de950> -> Point: 6, 6
+Moving from Point: 7, 6 to Point: 6, 6
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dea50> -> Point: 7, 8
+Moving from Point: 7, 7 to Point: 7, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de590> -> Point: 7, 7
+Moving from Point: 7, 8 to Point: 7, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dcb90> -> Point: 7, 11
+Moving from Point: 7, 10 to Point: 7, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc710> -> Point: 7, 11
+Moving from Point: 7, 12 to Point: 7, 11
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc410> -> Point: 6, 14
+Moving from Point: 7, 14 to Point: 6, 14
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de850> -> Point: 7, 14
+Moving from Point: 7, 15 to Point: 7, 14
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995de990> -> Point: 7, 18
+Moving from Point: 7, 17 to Point: 7, 18
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc550> -> Point: 7, 11
+Moving from Point: 8, 11 to Point: 7, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc090> -> Point: 8, 12
+Moving from Point: 8, 13 to Point: 8, 12
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc490> -> Point: 10, 7
+Moving from Point: 9, 7 to Point: 10, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd050> -> Point: 9, 9
+Moving from Point: 9, 8 to Point: 9, 9
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995de5d0> -> Point: 10, 13
+Moving from Point: 9, 13 to Point: 10, 13
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995de690> -> Point: 9, 15
+Moving from Point: 9, 14 to Point: 9, 15
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dca90> -> Point: 10, 9
+Moving from Point: 10, 8 to Point: 10, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995de410> -> Point: 10, 8
+Moving from Point: 11, 8 to Point: 10, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995de790> -> Point: 11, 8
+Moving from Point: 12, 8 to Point: 11, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd7d0> -> Point: 12, 10
+Moving from Point: 12, 9 to Point: 12, 10
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc9d0> -> Point: 13, 7
+Moving from Point: 13, 8 to Point: 13, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dcd10> -> Point: 15, 8
+Moving from Point: 14, 8 to Point: 15, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de4d0> -> Point: 15, 7
+Moving from Point: 15, 8 to Point: 15, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dced0> -> Point: 16, 9
+Moving from Point: 16, 8 to Point: 16, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dd9d0> -> Point: 17, 7
+Moving from Point: 17, 8 to Point: 17, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dded0> -> Point: 19, 8
+Moving from Point: 18, 8 to Point: 19, 8
+Moving from Point: 16, 12 to Point: 15, 12
+Moving from Point: 15, 12 to Point: 14, 12
+Moving from Point: 14, 12 to Point: 13, 12
+Moving from Point: 13, 12 to Point: 12, 12
+Moving from Point: 12, 12 to Point: 12, 11
+Moving from Point: 12, 11 to Point: 12, 10
+Moving from Point: 12, 10 to Point: 12, 9
+Moving from Point: 12, 9 to Point: 12, 8
+a group exists on the point. It's at Point: 1, 2
+Moving from Point: 1, 2 to Point: 2, 2
+Moving from Point: 2, 2 to Point: 3, 2
+Moving from Point: 3, 2 to Point: 4, 2
+Moving from Point: 4, 2 to Point: 5, 2
+Moving from Point: 5, 2 to Point: 6, 2
+Moving from Point: 6, 2 to Point: 7, 2
+Moving from Point: 7, 2 to Point: 8, 2
+Moving from Point: 8, 2 to Point: 9, 2
+Moving from Point: 9, 2 to Point: 10, 2
+Moving from Point: 10, 2 to Point: 11, 2
+Moving from Point: 11, 2 to Point: 12, 2
+Moving from Point: 12, 2 to Point: 13, 2
+Moving from Point: 13, 2 to Point: 14, 2
+Moving from Point: 14, 2 to Point: 15, 2
+Moving from Point: 15, 2 to Point: 16, 2
+Moving from Point: 16, 2 to Point: 16, 3
+Moving from Point: 16, 3 to Point: 16, 4
+Moving from Point: 16, 4 to Point: 16, 5
+Moving from Point: 16, 5 to Point: 16, 6
+Moving from Point: 16, 6 to Point: 16, 7
+Moving from Point: 16, 7 to Point: 16, 8
+a group exists on the point. It's at Point: 1, 2
+Moving from Point: 1, 2 to Point: 2, 2
+Moving from Point: 2, 2 to Point: 3, 2
+Moving from Point: 3, 2 to Point: 4, 2
+Moving from Point: 4, 2 to Point: 5, 2
+Moving from Point: 5, 2 to Point: 6, 2
+Moving from Point: 6, 2 to Point: 7, 2
+Moving from Point: 7, 2 to Point: 8, 2
+Moving from Point: 8, 2 to Point: 9, 2
+Moving from Point: 9, 2 to Point: 10, 2
+Moving from Point: 10, 2 to Point: 11, 2
+Moving from Point: 11, 2 to Point: 12, 2
+Moving from Point: 12, 2 to Point: 13, 2
+Moving from Point: 13, 2 to Point: 14, 2
+Moving from Point: 14, 2 to Point: 15, 2
+Moving from Point: 15, 2 to Point: 16, 2
+Moving from Point: 16, 2 to Point: 16, 3
+Moving from Point: 16, 3 to Point: 16, 4
+Moving from Point: 16, 4 to Point: 16, 5
+Moving from Point: 16, 5 to Point: 16, 6
+Moving from Point: 16, 6 to Point: 16, 7
+Moving from Point: 16, 7 to Point: 16, 8
+Moving from Point: 16, 8 to Point: 16, 9
+Moving from Point: 16, 9 to Point: 16, 10
+Moving from Point: 16, 10 to Point: 16, 11
+Moving from Point: 16, 11 to Point: 16, 12
+Moving from Point: 11, 8 to Point: 11, 7
+Moving from Point: 11, 7 to Point: 11, 6
+Moving from Point: 11, 6 to Point: 12, 6
+Moving from Point: 5, 8 to Point: 6, 8
+Moving from Point: 6, 8 to Point: 7, 8
+Moving from Point: 7, 8 to Point: 8, 8
+Moving from Point: 8, 8 to Point: 9, 8
+Moving from Point: 9, 8 to Point: 10, 8
+Moving from Point: 10, 8 to Point: 11, 8
+Moving from Point: 11, 8 to Point: 12, 8
+Moving from Point: 12, 8 to Point: 12, 7
+Moving from Point: 12, 7 to Point: 12, 6
+Moving from Point: 12, 6 to Point: 13, 6
+Moving from Point: 13, 6 to Point: 14, 6
+Moving from Point: 14, 6 to Point: 15, 6
+Moving from Point: 15, 6 to Point: 15, 7
+Moving from Point: 15, 7 to Point: 15, 8
+Moving from Point: 15, 8 to Point: 15, 9
+Moving from Point: 15, 9 to Point: 15, 10
+Moving from Point: 15, 10 to Point: 15, 11
+Moving from Point: 15, 11 to Point: 15, 12
+Moving from Point: 15, 12 to Point: 15, 13
+Moving from Point: 15, 13 to Point: 15, 14
+Moving from Point: 15, 14 to Point: 15, 15
+Moving from Point: 15, 15 to Point: 15, 16
+Moving from Point: 15, 16 to Point: 15, 17
+Moving from Point: 15, 17 to Point: 15, 18
+Moving from Point: 12, 8 to Point: 13, 8
+Moving from Point: 13, 8 to Point: 14, 8
+Moving from Point: 14, 8 to Point: 15, 8
+Moving from Point: 15, 8 to Point: 15, 9
+Moving from Point: 15, 9 to Point: 15, 10
+Moving from Point: 15, 10 to Point: 15, 11
+Moving from Point: 15, 11 to Point: 15, 12
+Moving from Point: 15, 12 to Point: 15, 13
+Moving from Point: 15, 13 to Point: 15, 14
+Moving from Point: 15, 14 to Point: 15, 15
+Moving from Point: 15, 15 to Point: 15, 16
+Moving from Point: 15, 16 to Point: 15, 17
+Moving from Point: 15, 17 to Point: 15, 18
+spreading out...
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4996edb10> -> Point: 1, 2
+Moving from Point: 0, 2 to Point: 1, 2
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499ae3390> -> Point: 0, 2
+Moving from Point: 1, 2 to Point: 0, 2
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd499ae1d10> -> Point: 1, 2
+Moving from Point: 1, 3 to Point: 1, 2
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49980d750> -> Point: 2, 0
+Moving from Point: 2, 1 to Point: 2, 0
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd49bca99d0> -> Point: 3, 2
+Moving from Point: 2, 2 to Point: 3, 2
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd499b07750> -> Point: 2, 4
+Moving from Point: 2, 3 to Point: 2, 4
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dde50> -> Point: 1, 4
+Moving from Point: 2, 4 to Point: 1, 4
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dfed0> -> Point: 1, 5
+Moving from Point: 2, 5 to Point: 1, 5
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dff90> -> Point: 3, 6
+Moving from Point: 2, 6 to Point: 3, 6
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd950> -> Point: 2, 8
+Moving from Point: 2, 7 to Point: 2, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc090> -> Point: 2, 9
+Moving from Point: 2, 8 to Point: 2, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995df110> -> Point: 2, 0
+Moving from Point: 3, 0 to Point: 2, 0
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd690> -> Point: 3, 2
+Moving from Point: 3, 1 to Point: 3, 2
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dd450> -> Point: 4, 2
+Moving from Point: 3, 2 to Point: 4, 2
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dff10> -> Point: 2, 4
+Moving from Point: 3, 4 to Point: 2, 4
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc350> -> Point: 3, 6
+Moving from Point: 3, 5 to Point: 3, 6
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dfb10> -> Point: 4, 7
+Moving from Point: 3, 7 to Point: 4, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dfdd0> -> Point: 5, 1
+Moving from Point: 4, 1 to Point: 5, 1
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995df1d0> -> Point: 5, 2
+Moving from Point: 4, 2 to Point: 5, 2
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dfd90> -> Point: 5, 7
+Moving from Point: 4, 7 to Point: 5, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dcc90> -> Point: 3, 8
+Moving from Point: 4, 8 to Point: 3, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995df2d0> -> Point: 4, 9
+Moving from Point: 4, 10 to Point: 4, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dfe90> -> Point: 4, 2
+Moving from Point: 5, 2 to Point: 4, 2
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dd7d0> -> Point: 4, 7
+Moving from Point: 5, 7 to Point: 4, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de550> -> Point: 5, 7
+Moving from Point: 5, 8 to Point: 5, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995de510> -> Point: 5, 10
+Moving from Point: 5, 9 to Point: 5, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc710> -> Point: 6, 10
+Moving from Point: 5, 10 to Point: 6, 10
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995de950> -> Point: 5, 12
+Moving from Point: 5, 11 to Point: 5, 12
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995de6d0> -> Point: 5, 13
+Moving from Point: 5, 12 to Point: 5, 13
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de910> -> Point: 5, 12
+Moving from Point: 5, 13 to Point: 5, 12
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc2d0> -> Point: 4, 14
+Moving from Point: 5, 14 to Point: 4, 14
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dfb50> -> Point: 4, 16
+Moving from Point: 5, 16 to Point: 4, 16
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de390> -> Point: 5, 18
+Moving from Point: 5, 19 to Point: 5, 18
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995de110> -> Point: 7, 1
+Moving from Point: 6, 1 to Point: 7, 1
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dcd50> -> Point: 6, 1
+Moving from Point: 6, 2 to Point: 6, 1
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ded10> -> Point: 5, 4
+Moving from Point: 6, 4 to Point: 5, 4
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dee10> -> Point: 6, 4
+Moving from Point: 6, 5 to Point: 6, 4
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de710> -> Point: 6, 5
+Moving from Point: 6, 6 to Point: 6, 5
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc390> -> Point: 5, 7
+Moving from Point: 6, 7 to Point: 5, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995de050> -> Point: 7, 8
+Moving from Point: 6, 8 to Point: 7, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995de490> -> Point: 5, 10
+Moving from Point: 6, 10 to Point: 5, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dfa50> -> Point: 7, 11
+Moving from Point: 6, 11 to Point: 7, 11
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995df950> -> Point: 5, 12
+Moving from Point: 6, 12 to Point: 5, 12
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dfc10> -> Point: 7, 15
+Moving from Point: 6, 15 to Point: 7, 15
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995df910> -> Point: 6, 15
+Moving from Point: 6, 16 to Point: 6, 15
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995df990> -> Point: 6, 16
+Moving from Point: 6, 17 to Point: 6, 16
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc950> -> Point: 6, 19
+Moving from Point: 6, 18 to Point: 6, 19
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dded0> -> Point: 6, 20
+Moving from Point: 6, 19 to Point: 6, 20
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc8d0> -> Point: 8, 2
+Moving from Point: 7, 2 to Point: 8, 2
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dca10> -> Point: 7, 4
+Moving from Point: 7, 3 to Point: 7, 4
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995df810> -> Point: 8, 6
+Moving from Point: 7, 6 to Point: 8, 6
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995df090> -> Point: 7, 8
+Moving from Point: 7, 7 to Point: 7, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ddc50> -> Point: 8, 8
+Moving from Point: 7, 8 to Point: 8, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995de310> -> Point: 8, 9
+Moving from Point: 7, 9 to Point: 8, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ded50> -> Point: 7, 11
+Moving from Point: 7, 10 to Point: 7, 11
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc990> -> Point: 6, 11
+Moving from Point: 7, 11 to Point: 6, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de210> -> Point: 7, 11
+Moving from Point: 7, 12 to Point: 7, 11
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc250> -> Point: 8, 13
+Moving from Point: 7, 13 to Point: 8, 13
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ddbd0> -> Point: 7, 13
+Moving from Point: 7, 14 to Point: 7, 13
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995df6d0> -> Point: 6, 15
+Moving from Point: 7, 15 to Point: 6, 15
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc110> -> Point: 6, 17
+Moving from Point: 7, 17 to Point: 6, 17
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd8d0> -> Point: 7, 19
+Moving from Point: 7, 18 to Point: 7, 19
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dd0d0> -> Point: 6, 19
+Moving from Point: 7, 19 to Point: 6, 19
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc810> -> Point: 8, 6
+Moving from Point: 8, 7 to Point: 8, 6
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dc050> -> Point: 8, 7
+Moving from Point: 8, 8 to Point: 8, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dee90> -> Point: 9, 11
+Moving from Point: 8, 11 to Point: 9, 11
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc750> -> Point: 9, 13
+Moving from Point: 8, 13 to Point: 9, 13
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dcd90> -> Point: 8, 7
+Moving from Point: 9, 7 to Point: 8, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995df350> -> Point: 8, 8
+Moving from Point: 9, 8 to Point: 8, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995df290> -> Point: 9, 10
+Moving from Point: 9, 9 to Point: 9, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995de350> -> Point: 10, 13
+Moving from Point: 9, 13 to Point: 10, 13
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995def90> -> Point: 9, 15
+Moving from Point: 9, 14 to Point: 9, 15
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995df150> -> Point: 11, 7
+Moving from Point: 10, 7 to Point: 11, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995df3d0> -> Point: 10, 9
+Moving from Point: 10, 8 to Point: 10, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995df5d0> -> Point: 9, 9
+Moving from Point: 10, 9 to Point: 9, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de250> -> Point: 10, 13
+Moving from Point: 10, 14 to Point: 10, 13
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dd3d0> -> Point: 11, 7
+Moving from Point: 11, 6 to Point: 11, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc850> -> Point: 11, 8
+Moving from Point: 11, 7 to Point: 11, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc5d0> -> Point: 11, 9
+Moving from Point: 11, 8 to Point: 11, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995de610> -> Point: 11, 6
+Moving from Point: 12, 6 to Point: 11, 6
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dd490> -> Point: 13, 8
+Moving from Point: 12, 8 to Point: 13, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ddd50> -> Point: 12, 10
+Moving from Point: 12, 9 to Point: 12, 10
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ec550> -> Point: 12, 11
+Moving from Point: 12, 10 to Point: 12, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ec3d0> -> Point: 13, 5
+Moving from Point: 13, 6 to Point: 13, 5
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ec5d0> -> Point: 13, 6
+Moving from Point: 13, 7 to Point: 13, 6
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ece50> -> Point: 13, 7
+Moving from Point: 13, 8 to Point: 13, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ecdd0> -> Point: 14, 7
+Moving from Point: 14, 6 to Point: 14, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995eccd0> -> Point: 15, 8
+Moving from Point: 14, 8 to Point: 15, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ec490> -> Point: 13, 9
+Moving from Point: 14, 9 to Point: 13, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ecb50> -> Point: 15, 7
+Moving from Point: 15, 6 to Point: 15, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ec9d0> -> Point: 16, 7
+Moving from Point: 15, 7 to Point: 16, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ecb10> -> Point: 15, 9
+Moving from Point: 15, 8 to Point: 15, 9
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ecbd0> -> Point: 16, 9
+Moving from Point: 15, 9 to Point: 16, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995eced0> -> Point: 15, 11
+Moving from Point: 15, 10 to Point: 15, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ec590> -> Point: 15, 10
+Moving from Point: 15, 11 to Point: 15, 10
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ecc90> -> Point: 15, 13
+Moving from Point: 15, 12 to Point: 15, 13
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ec2d0> -> Point: 15, 17
+Moving from Point: 15, 18 to Point: 15, 17
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ecd90> -> Point: 15, 8
+Moving from Point: 16, 8 to Point: 15, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ec1d0> -> Point: 15, 9
+Moving from Point: 16, 9 to Point: 15, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ec690> -> Point: 15, 10
+Moving from Point: 16, 10 to Point: 15, 10
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ec410> -> Point: 16, 12
+Moving from Point: 16, 11 to Point: 16, 12
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ec710> -> Point: 17, 12
+Moving from Point: 16, 12 to Point: 17, 12
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ec790> -> Point: 16, 7
+Moving from Point: 17, 7 to Point: 16, 7
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ec810> -> Point: 17, 9
+Moving from Point: 17, 8 to Point: 17, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ec890> -> Point: 17, 7
+Moving from Point: 18, 7 to Point: 17, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ec910> -> Point: 19, 8
+Moving from Point: 18, 8 to Point: 19, 8
+spreading out...
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd49bbaef90> -> Point: 0, 1
+Moving from Point: 0, 2 to Point: 0, 1
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd49bb80950> -> Point: 1, 3
+Moving from Point: 1, 2 to Point: 1, 3
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd499b04310> -> Point: 1, 5
+Moving from Point: 1, 4 to Point: 1, 5
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd499962090> -> Point: 2, 2
+Moving from Point: 2, 1 to Point: 2, 2
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd49982d150> -> Point: 1, 5
+Moving from Point: 2, 5 to Point: 1, 5
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd499818a90> -> Point: 1, 6
+Moving from Point: 2, 6 to Point: 1, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995c7790> -> Point: 1, 9
+Moving from Point: 2, 9 to Point: 1, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dce50> -> Point: 2, 0
+Moving from Point: 3, 0 to Point: 2, 0
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dee10> -> Point: 4, 2
+Moving from Point: 3, 2 to Point: 4, 2
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc350> -> Point: 2, 4
+Moving from Point: 3, 4 to Point: 2, 4
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de510> -> Point: 3, 4
+Moving from Point: 3, 5 to Point: 3, 4
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995dd950> -> Point: 3, 6
+Moving from Point: 3, 7 to Point: 3, 6
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995de050> -> Point: 5, 1
+Moving from Point: 4, 1 to Point: 5, 1
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995de490> -> Point: 5, 2
+Moving from Point: 4, 2 to Point: 5, 2
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dfc10> -> Point: 3, 7
+Moving from Point: 4, 7 to Point: 3, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995de110> -> Point: 3, 8
+Moving from Point: 4, 8 to Point: 3, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dfa50> -> Point: 3, 10
+Moving from Point: 4, 10 to Point: 3, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc8d0> -> Point: 6, 2
+Moving from Point: 5, 2 to Point: 6, 2
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995df810> -> Point: 5, 6
+Moving from Point: 5, 7 to Point: 5, 6
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995df990> -> Point: 5, 9
+Moving from Point: 5, 8 to Point: 5, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dc090> -> Point: 5, 10
+Moving from Point: 5, 9 to Point: 5, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dfb10> -> Point: 6, 10
+Moving from Point: 5, 10 to Point: 6, 10
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995df2d0> -> Point: 5, 10
+Moving from Point: 5, 11 to Point: 5, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995de6d0> -> Point: 6, 12
+Moving from Point: 5, 12 to Point: 6, 12
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dfed0> -> Point: 4, 13
+Moving from Point: 5, 13 to Point: 4, 13
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995de810> -> Point: 5, 13
+Moving from Point: 5, 14 to Point: 5, 13
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995df1d0> -> Point: 5, 17
+Moving from Point: 5, 16 to Point: 5, 17
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dde50> -> Point: 6, 19
+Moving from Point: 5, 19 to Point: 6, 19
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ddc50> -> Point: 7, 1
+Moving from Point: 6, 1 to Point: 7, 1
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995dca90> -> Point: 6, 3
+Moving from Point: 6, 2 to Point: 6, 3
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ded50> -> Point: 7, 4
+Moving from Point: 6, 4 to Point: 7, 4
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995de210> -> Point: 6, 6
+Moving from Point: 6, 5 to Point: 6, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ddbd0> -> Point: 5, 6
+Moving from Point: 6, 6 to Point: 5, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc110> -> Point: 5, 7
+Moving from Point: 6, 7 to Point: 5, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dd0d0> -> Point: 5, 8
+Moving from Point: 6, 8 to Point: 5, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dc050> -> Point: 5, 10
+Moving from Point: 6, 10 to Point: 5, 10
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc750> -> Point: 7, 11
+Moving from Point: 6, 11 to Point: 7, 11
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995df350> -> Point: 7, 12
+Moving from Point: 6, 12 to Point: 7, 12
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995de350> -> Point: 6, 16
+Moving from Point: 6, 15 to Point: 6, 16
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995df150> -> Point: 5, 16
+Moving from Point: 6, 16 to Point: 5, 16
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995df5d0> -> Point: 6, 18
+Moving from Point: 6, 17 to Point: 6, 18
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dd3d0> -> Point: 5, 18
+Moving from Point: 6, 18 to Point: 5, 18
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995dc5d0> -> Point: 7, 19
+Moving from Point: 6, 19 to Point: 7, 19
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995dd490> -> Point: 6, 2
+Moving from Point: 7, 2 to Point: 6, 2
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ed210> -> Point: 8, 3
+Moving from Point: 7, 3 to Point: 8, 3
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ed090> -> Point: 6, 6
+Moving from Point: 7, 6 to Point: 6, 6
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ed150> -> Point: 7, 6
+Moving from Point: 7, 7 to Point: 7, 6
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ed0d0> -> Point: 7, 7
+Moving from Point: 7, 8 to Point: 7, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ed010> -> Point: 8, 9
+Moving from Point: 7, 9 to Point: 8, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995eca90> -> Point: 6, 10
+Moving from Point: 7, 10 to Point: 6, 10
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ecf90> -> Point: 7, 12
+Moving from Point: 7, 11 to Point: 7, 12
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ec510> -> Point: 8, 12
+Moving from Point: 7, 12 to Point: 8, 12
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ec550> -> Point: 7, 12
+Moving from Point: 7, 13 to Point: 7, 12
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ec5d0> -> Point: 8, 14
+Moving from Point: 7, 14 to Point: 8, 14
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ecdd0> -> Point: 8, 15
+Moving from Point: 7, 15 to Point: 8, 15
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ec490> -> Point: 6, 17
+Moving from Point: 7, 17 to Point: 6, 17
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ec9d0> -> Point: 7, 19
+Moving from Point: 7, 18 to Point: 7, 19
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ecbd0> -> Point: 7, 18
+Moving from Point: 7, 19 to Point: 7, 18
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ec590> -> Point: 7, 7
+Moving from Point: 8, 7 to Point: 7, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ec2d0> -> Point: 8, 7
+Moving from Point: 8, 8 to Point: 8, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ec1d0> -> Point: 7, 11
+Moving from Point: 8, 11 to Point: 7, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ec410> -> Point: 8, 12
+Moving from Point: 8, 13 to Point: 8, 12
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ec790> -> Point: 9, 8
+Moving from Point: 9, 7 to Point: 9, 8
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995ec890> -> Point: 9, 9
+Moving from Point: 9, 8 to Point: 9, 9
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995eef50> -> Point: 10, 9
+Moving from Point: 9, 9 to Point: 10, 9
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995eef10> -> Point: 10, 13
+Moving from Point: 9, 13 to Point: 10, 13
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995eefd0> -> Point: 8, 14
+Moving from Point: 9, 14 to Point: 8, 14
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ef050> -> Point: 11, 7
+Moving from Point: 10, 7 to Point: 11, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ef0d0> -> Point: 10, 7
+Moving from Point: 10, 8 to Point: 10, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ef150> -> Point: 11, 9
+Moving from Point: 10, 9 to Point: 11, 9
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ef1d0> -> Point: 11, 14
+Moving from Point: 10, 14 to Point: 11, 14
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ef250> -> Point: 12, 6
+Moving from Point: 11, 6 to Point: 12, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ef2d0> -> Point: 10, 7
+Moving from Point: 11, 7 to Point: 10, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ef350> -> Point: 11, 7
+Moving from Point: 11, 8 to Point: 11, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ef3d0> -> Point: 13, 6
+Moving from Point: 12, 6 to Point: 13, 6
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ef450> -> Point: 13, 8
+Moving from Point: 12, 8 to Point: 13, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ef4d0> -> Point: 13, 9
+Moving from Point: 12, 9 to Point: 13, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ef550> -> Point: 12, 9
+Moving from Point: 12, 10 to Point: 12, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ef5d0> -> Point: 12, 6
+Moving from Point: 13, 6 to Point: 12, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ef650> -> Point: 12, 7
+Moving from Point: 13, 7 to Point: 12, 7
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ef6d0> -> Point: 14, 8
+Moving from Point: 13, 8 to Point: 14, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ef750> -> Point: 13, 6
+Moving from Point: 14, 6 to Point: 13, 6
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ef7d0> -> Point: 15, 8
+Moving from Point: 14, 8 to Point: 15, 8
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ef850> -> Point: 15, 9
+Moving from Point: 14, 9 to Point: 15, 9
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995ef8d0> -> Point: 15, 5
+Moving from Point: 15, 6 to Point: 15, 5
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995ef950> -> Point: 16, 7
+Moving from Point: 15, 7 to Point: 16, 7
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995ef9d0> -> Point: 14, 8
+Moving from Point: 15, 8 to Point: 14, 8
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995efa50> -> Point: 14, 9
+Moving from Point: 15, 9 to Point: 14, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995efad0> -> Point: 15, 11
+Moving from Point: 15, 10 to Point: 15, 11
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995efb50> -> Point: 14, 11
+Moving from Point: 15, 11 to Point: 14, 11
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995efbd0> -> Point: 16, 12
+Moving from Point: 15, 12 to Point: 16, 12
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995efc50> -> Point: 15, 17
+Moving from Point: 15, 18 to Point: 15, 17
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995efcd0> -> Point: 16, 9
+Moving from Point: 16, 8 to Point: 16, 9
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fd4995efd50> -> Point: 15, 9
+Moving from Point: 16, 9 to Point: 15, 9
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995efdd0> -> Point: 16, 11
+Moving from Point: 16, 10 to Point: 16, 11
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995efe50> -> Point: 17, 11
+Moving from Point: 16, 11 to Point: 17, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995efed0> -> Point: 16, 11
+Moving from Point: 16, 12 to Point: 16, 11
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995eff50> -> Point: 17, 6
+Moving from Point: 17, 7 to Point: 17, 6
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fd4995effd0> -> Point: 18, 8
+Moving from Point: 17, 8 to Point: 18, 8
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fd4995f0090> -> Point: 18, 6
+Moving from Point: 18, 7 to Point: 18, 6
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fd4995f0110> -> Point: 18, 9
+Moving from Point: 18, 8 to Point: 18, 9
+Moving from Point: 15, 18 to Point: 15, 17
+Moving from Point: 15, 18 to Point: 15, 19
+Moving from Point: 15, 18 to Point: 15, 17
+Moving from Point: 15, 17 to Point: 15, 16
+Moving from Point: 15, 16 to Point: 15, 15
+Moving from Point: 15, 15 to Point: 15, 14
+Moving from Point: 15, 14 to Point: 15, 13
+Moving from Point: 15, 13 to Point: 15, 12
+Moving from Point: 15, 12 to Point: 15, 11
+Moving from Point: 15, 11 to Point: 15, 10
+Moving from Point: 15, 10 to Point: 15, 9
+Moving from Point: 15, 9 to Point: 15, 8
+Moving from Point: 15, 8 to Point: 15, 7
+Moving from Point: 15, 7 to Point: 15, 6
+Moving from Point: 15, 6 to Point: 15, 5
+Moving from Point: 15, 5 to Point: 15, 4
+Moving from Point: 15, 4 to Point: 15, 3
+Moving from Point: 15, 3 to Point: 15, 2
+Moving from Point: 15, 2 to Point: 15, 1
+Moving from Point: 15, 18 to Point: 14, 18
+Moving from Point: 14, 18 to Point: 13, 18
+Moving from Point: 13, 18 to Point: 12, 18
+Moving from Point: 12, 18 to Point: 12, 17
+Moving from Point: 12, 17 to Point: 12, 16
+Moving from Point: 12, 16 to Point: 12, 15
+Moving from Point: 12, 15 to Point: 12, 14
+Moving from Point: 12, 14 to Point: 12, 13
+Moving from Point: 12, 13 to Point: 12, 12
+Moving from Point: 12, 11 to Point: 12, 12
+a group exists on the point. It's at Point: 6, 1
+Moving from Point: 6, 1 to Point: 6, 0
+Moving from Point: 12, 11 to Point: 12, 12
+a group exists on the point. It's at Point: 10, 14
+Moving from Point: 10, 14 to Point: 11, 14
+Moving from Point: 11, 14 to Point: 12, 14
+Moving from Point: 12, 14 to Point: 12, 13
+Moving from Point: 12, 13 to Point: 12, 12
+Moving from Point: 12, 11 to Point: 12, 12
+Moving from Point: 15, 4 to Point: 15, 5
+Moving from Point: 15, 5 to Point: 15, 6
+Moving from Point: 15, 6 to Point: 15, 7
+Moving from Point: 15, 7 to Point: 15, 8
+Moving from Point: 15, 8 to Point: 15, 9
+Moving from Point: 15, 9 to Point: 15, 10
+Moving from Point: 15, 10 to Point: 15, 11
+Moving from Point: 15, 11 to Point: 15, 12
+Moving from Point: 15, 12 to Point: 15, 13
+Moving from Point: 15, 13 to Point: 15, 14
+Moving from Point: 15, 14 to Point: 15, 15
+Moving from Point: 15, 15 to Point: 15, 16
+Moving from Point: 15, 16 to Point: 15, 17
+Moving from Point: 15, 17 to Point: 15, 18
+Moving from Point: 15, 18 to Point: 15, 19
+Moving from Point: 4, 16 to Point: 5, 16
+Moving from Point: 5, 16 to Point: 6, 16
+Moving from Point: 6, 16 to Point: 6, 17
+Moving from Point: 6, 17 to Point: 6, 18
+Moving from Point: 6, 18 to Point: 6, 19
+Moving from Point: 6, 19 to Point: 7, 19
+Moving from Point: 7, 19 to Point: 8, 19
+Moving from Point: 8, 19 to Point: 9, 19
+Moving from Point: 9, 19 to Point: 10, 19
+Moving from Point: 10, 19 to Point: 11, 19
+Moving from Point: 7, 7 to Point: 7, 8
+Moving from Point: 7, 8 to Point: 7, 9
+Moving from Point: 7, 9 to Point: 7, 10
+Moving from Point: 7, 10 to Point: 7, 11
+Moving from Point: 7, 11 to Point: 7, 12
+Moving from Point: 7, 12 to Point: 7, 13
+Moving from Point: 7, 13 to Point: 7, 14
+Moving from Point: 7, 14 to Point: 7, 15
+Moving from Point: 7, 15 to Point: 7, 14
+Moving from Point: 7, 14 to Point: 7, 13
+Moving from Point: 7, 13 to Point: 7, 12
+Moving from Point: 7, 12 to Point: 7, 11
+Moving from Point: 7, 11 to Point: 7, 10
+Moving from Point: 7, 10 to Point: 7, 9
+Moving from Point: 7, 9 to Point: 7, 8
+Moving from Point: 7, 8 to Point: 7, 7
+Moving from Point: 7, 7 to Point: 7, 6
+Moving from Point: 7, 6 to Point: 7, 5
+Moving from Point: 7, 5 to Point: 7, 4
+Moving from Point: 7, 8 to Point: 7, 9
+Moving from Point: 7, 9 to Point: 7, 10
+Moving from Point: 7, 10 to Point: 7, 11
+Moving from Point: 7, 11 to Point: 7, 12
+Moving from Point: 7, 12 to Point: 7, 13
+Moving from Point: 7, 13 to Point: 7, 14
+Moving from Point: 7, 14 to Point: 7, 15
+Moving from Point: 7, 1 to Point: 8, 1
+Moving from Point: 8, 1 to Point: 9, 1
+Moving from Point: 9, 1 to Point: 10, 1
+Moving from Point: 10, 1 to Point: 11, 1
+Moving from Point: 11, 1 to Point: 12, 1
+Moving from Point: 12, 1 to Point: 12, 2
+Moving from Point: 12, 2 to Point: 12, 3
+Moving from Point: 12, 3 to Point: 12, 4
+Moving from Point: 12, 4 to Point: 12, 5
+Moving from Point: 12, 5 to Point: 12, 6
+Moving from Point: 7, 6 to Point: 8, 6
+Moving from Point: 8, 6 to Point: 9, 6
+Moving from Point: 9, 6 to Point: 10, 6
+Moving from Point: 10, 6 to Point: 11, 6
+Moving from Point: 11, 6 to Point: 12, 6
+Moving from Point: 12, 6 to Point: 13, 6
+Moving from Point: 13, 6 to Point: 14, 6
+Moving from Point: 14, 6 to Point: 15, 6
+Moving from Point: 15, 6 to Point: 15, 7
+Moving from Point: 15, 7 to Point: 15, 8
+Moving from Point: 15, 8 to Point: 15, 9
+Moving from Point: 15, 9 to Point: 15, 10
+Moving from Point: 15, 10 to Point: 15, 11
+Moving from Point: 15, 11 to Point: 15, 12
+Moving from Point: 15, 12 to Point: 15, 13
+Moving from Point: 15, 13 to Point: 15, 14
+Moving from Point: 15, 14 to Point: 15, 15
+Moving from Point: 15, 15 to Point: 15, 16
+Moving from Point: 15, 16 to Point: 15, 17
+Moving from Point: 15, 17 to Point: 15, 18
+Moving from Point: 15, 18 to Point: 15, 19
+Moving from Point: 15, 19 to Point: 15, 18
+Moving from Point: 15, 18 to Point: 15, 17
+Moving from Point: 15, 17 to Point: 15, 16
+Moving from Point: 15, 16 to Point: 15, 15
+Moving from Point: 15, 15 to Point: 15, 14
+Moving from Point: 15, 14 to Point: 15, 13
+Moving from Point: 15, 13 to Point: 15, 12
+Moving from Point: 15, 12 to Point: 15, 11
+Moving from Point: 15, 11 to Point: 15, 10
+Moving from Point: 15, 10 to Point: 15, 9
+Moving from Point: 15, 9 to Point: 15, 8
+Moving from Point: 15, 8 to Point: 15, 7
+Moving from Point: 15, 7 to Point: 15, 6
+a group exists on the point. It's at Point: 4, 8
+Moving from Point: 4, 8 to Point: 4, 7
+Moving from Point: 15, 6 to Point: 15, 7
+Moving from Point: 15, 7 to Point: 15, 8
+Moving from Point: 15, 8 to Point: 15, 9
+Moving from Point: 15, 9 to Point: 15, 10
+Moving from Point: 15, 10 to Point: 15, 11
+Moving from Point: 15, 11 to Point: 15, 12
+Moving from Point: 15, 12 to Point: 15, 13
+Moving from Point: 15, 13 to Point: 15, 14
+Moving from Point: 15, 14 to Point: 15, 15
+Moving from Point: 15, 15 to Point: 15, 16
+Moving from Point: 15, 16 to Point: 15, 17
+Moving from Point: 15, 17 to Point: 15, 18
+Moving from Point: 15, 18 to Point: 15, 19
+Moving from Point: 15, 19 to Point: 14, 19
+Moving from Point: 14, 19 to Point: 13, 19
+a group exists on the point. It's at Point: 0, 15
+a group exists on the point. It's at Point: 14, 17
+a group exists on the point. It's at Point: 14, 17
+a group exists on the point. It's at Point: 14, 17
+a group exists on the point. It's at Point: 17, 2
+Moving from Point: 17, 2 to Point: 17, 3
+a group exists on the point. It's at Point: 1, 15
+Moving from Point: 1, 15 to Point: 1, 14
+Moving from Point: 1, 14 to Point: 1, 13
+Moving from Point: 1, 13 to Point: 1, 12
+a group exists on the point. It's at Point: 1, 12
+Moving from Point: 1, 12 to Point: 1, 11
+Moving from Point: 1, 11 to Point: 1, 10
+Moving from Point: 1, 10 to Point: 1, 9
+Moving from Point: 1, 15 to Point: 1, 16
+a group exists on the point. It's at Point: 1, 13
+Moving from Point: 1, 13 to Point: 1, 14
+Moving from Point: 1, 14 to Point: 1, 15
+Moving from Point: 1, 15 to Point: 1, 16
+a group exists on the point. It's at Point: 1, 16
+Moving from Point: 1, 16 to Point: 1, 17
+Moving from Point: 1, 17 to Point: 1, 18
+Moving from Point: 1, 18 to Point: 1, 19
+Moving from Point: 1, 19 to Point: 1, 20
+Moving from Point: 1, 20 to Point: 1, 21
+Moving from Point: 1, 21 to Point: 1, 22
+Moving from Point: 1, 22 to Point: 1, 23
+Moving from Point: 1, 23 to Point: 1, 24
+Moving from Point: 1, 24 to Point: 1, 25
+Moving from Point: 1, 25 to Point: 1, 26
+Moving from Point: 1, 26 to Point: 1, 27
+Moving from Point: 1, 27 to Point: 1, 28
+Moving from Point: 1, 28 to Point: 1, 29
+Moving from Point: 1, 29 to Point: 1, 30
+Moving from Point: 1, 30 to Point: 1, 31
+Moving from Point: 1, 31 to Point: 1, 32
+Moving from Point: 1, 32 to Point: 1, 33
+Moving from Point: 1, 33 to Point: 1, 34
+Moving from Point: 1, 34 to Point: 1, 35
+Moving from Point: 1, 35 to Point: 1, 36
+a group exists on the point. It's at Point: 1, 15
+Moving from Point: 1, 15 to Point: 0, 15
+Moving from Point: 0, 15 to Point: -1, 15
+Moving from Point: -1, 15 to Point: -2, 15
+Moving from Point: -2, 15 to Point: -3, 15
+Moving from Point: -3, 15 to Point: -4, 15
+Moving from Point: -4, 15 to Point: -5, 15
+Moving from Point: -5, 15 to Point: -6, 15
+Moving from Point: -6, 15 to Point: -7, 15
+Moving from Point: -7, 15 to Point: -8, 15
+Moving from Point: -8, 15 to Point: -9, 15
+Moving from Point: -9, 15 to Point: -10, 15
+Moving from Point: -10, 15 to Point: -11, 15
+Moving from Point: -11, 15 to Point: -12, 15
+Moving from Point: -12, 15 to Point: -13, 15
+Moving from Point: -13, 15 to Point: -14, 15
+Moving from Point: -14, 15 to Point: -15, 15
+Moving from Point: -15, 15 to Point: -16, 15
+Moving from Point: -16, 15 to Point: -17, 15
+Moving from Point: -17, 15 to Point: -18, 15
+Moving from Point: -18, 15 to Point: -19, 15
+a group exists on the point. It's at Point: 12, 10
+Moving from Point: 12, 10 to Point: 11, 10
+Moving from Point: 11, 10 to Point: 10, 10
+Moving from Point: 10, 10 to Point: 9, 10
+Moving from Point: 9, 10 to Point: 8, 10
+Moving from Point: 8, 10 to Point: 7, 10
+Moving from Point: 7, 10 to Point: 6, 10
+Moving from Point: 6, 10 to Point: 5, 10
+a group exists on the point. It's at Point: 7, 10
+Moving from Point: 7, 10 to Point: 7, 11
+Moving from Point: 7, 11 to Point: 7, 12
+Moving from Point: 7, 12 to Point: 7, 13
+a group exists on the point. It's at Point: 12, 10
+Moving from Point: 12, 10 to Point: 12, 9
+Moving from Point: 12, 9 to Point: 12, 10
+Moving from Point: 12, 10 to Point: 12, 9
+Moving from Point: 12, 9 to Point: 12, 8
+Moving from Point: 12, 9 to Point: 12, 8
+Moving from Point: 16, 15 to Point: 15, 15
+a group exists on the point. It's at Point: 15, 15
+Moving from Point: 15, 15 to Point: 15, 16
+a group exists on the point. It's at Point: 16, 10
+Moving from Point: 16, 10 to Point: 15, 10
+Moving from Point: 15, 10 to Point: 14, 10
+Moving from Point: 14, 10 to Point: 13, 10
+a group exists on the point. It's at Point: 16, 10
+Moving from Point: 16, 10 to Point: 16, 9
+Moving from Point: 16, 9 to Point: 16, 8
+Moving from Point: 16, 8 to Point: 16, 7
+Moving from Point: 16, 7 to Point: 16, 6
+Moving from Point: 16, 6 to Point: 16, 5
+a group exists on the point. It's at Point: 14, 10
+Moving from Point: 16, 10 to Point: 16, 11
+Moving from Point: 10, 1 to Point: 10, 2
+Moving from Point: 10, 1 to Point: 10, 2
+Moving from Point: 1, 5 to Point: 1, 4
+Moving from Point: 7, 18 to Point: 6, 18
+a group exists on the point. It's at Point: 6, 18
+Moving from Point: 6, 18 to Point: 6, 17
+Moving from Point: 6, 17 to Point: 6, 16
+Moving from Point: 6, 16 to Point: 6, 15
+Moving from Point: 6, 15 to Point: 6, 14
+Moving from Point: 6, 14 to Point: 6, 13
+a group exists on the point. It's at Point: 6, 14
+a group exists on the point. It's at Point: 6, 14
+a group exists on the point. It's at Point: 6, 14
+a group exists on the point. It's at Point: 6, 14

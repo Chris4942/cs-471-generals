@@ -3,6 +3,7 @@ from action import Action, Direction, Goal, Group, Point
 import numpy as np
 from fuzzywuzzy import process
 from re import compile
+from my_regex import spaces_regex, group_regex, coord_regex
 
 from word_lists import DOWN_WORDS, LEFT_WORDS, RIGHT_WORDS, SPREAD_OUT_WORDS, UP_WORDS
 
@@ -13,8 +14,9 @@ action_dirs = [
     Direction.UP,
 ]
 
-coord_matcher = compile('(?<= )[a-z] ?[0-9]+')
-group_matcher = compile('(?<! \w) \d+(?= )')
+coord_matcher = compile(coord_regex)
+spaces_matcher = compile(spaces_regex) # ChatGPT wrote this one
+group_matcher = compile(group_regex) # ChatGPT also wrote this one...
 
 letter_o_matcher = compile('(^| )0(?=\d)')
 ignore_matcher = compile('[-]')
@@ -34,7 +36,7 @@ def preprocess(text: str):
     text = replace_word(text, 'too', '2')
     text = replace_word(text, 'easier', 'e0')
     text = replace_word(text, 'ask', 's')
-    text = replace_word(text, 'for', '4')
+    text = text.replace('for', '4')
     text = replace_word(text, 'spell', 'L')
     text = text.replace('use your', 'u0')
     text = text.replace('and', 'n')
@@ -64,6 +66,7 @@ def classify_action(text) -> Action:
         text = preprocess(text)
         coord_matches = coord_matcher.findall(text)
         group_matches = group_matcher.findall(text)
+        space_matches = spaces_matcher.findall(text)
         if len(group_matches) > 0:
             action.group = Group.of(group_matches[0])
         if len(coord_matches) > 1:
@@ -71,14 +74,21 @@ def classify_action(text) -> Action:
             action.start = Point.of(coord_matches[0])
         if len(coord_matches) == 1:
             action.destination = Point.of(coord_matches[0])
-        if action.destination is None:
-            options = [
-                process.extractOne(text, LEFT_WORDS)[1],
-                process.extractOne(text, RIGHT_WORDS)[1],
-                process.extractOne(text, DOWN_WORDS)[1],
-                process.extractOne(text, UP_WORDS)[1],
-            ]
+        options = [
+            process.extractOne(text, LEFT_WORDS)[1],
+            process.extractOne(text, RIGHT_WORDS)[1],
+            process.extractOne(text, DOWN_WORDS)[1],
+            process.extractOne(text, UP_WORDS)[1],
+        ]
+        m = np.max(options)
+        if m > 80:
             action.direction = action_dirs[np.argmax(options)]
+        log(f"space_matches {space_matches}")
+        if len(space_matches) > 0:
+            action.amount = int(space_matches[0])
+
+
+
         return action
     output = help(text)
     log(f"action classified as:{output}")
