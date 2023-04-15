@@ -33,7 +33,7 @@ class Tile(object):
 		self._dirtyUpdateTime = 0	# Last time Tile was updated by bot, not server
 
 	def __repr__(self):
-		return "(%2d,%2d)[%2d,%3d]" % (self.x, self.y, self.tile, self.army)
+		return "tile: (%2d,%2d)[%2d,%3d]" % (self.x, self.y, self.tile, self.army)
 
 	'''def __eq__(self, other):
 			return (other != None and self.x==other.x and self.y==other.y)'''

@@ -26,7 +26,7 @@ class Map(object):
 		self._setSwamps()
 		self.turn = data['turn']														# Integer Turn # (1 turn / 0.5 seconds)
 		self.tiles = [[] for x in range(12)]											# List of 8 (+ extra) Players Tiles
-		self.cities = []																# List of City Tiles
+		self.cities: list[Tile] = []																# List of City Tiles
 		self.generals = [None for x in range(12)]										# List of 8 (+ extra) Generals (None if not found)
 		self._setGenerals()
 		self.stars = []																	# List of Player Star Ratings
@@ -265,11 +265,18 @@ class Map(object):
 	}
 
 	def __str__(self):
-		letters = '   ' + ' '.join([f"{letter:<4}"  for letter in alphabet_array[:self.cols]])
+		city_coords = set([(t.x, t.y) for t in self.cities])
+		general_coords = set([(t.x, t.y) for t in self.generals if t is not None])
+		def get_tile_string(c, r):
+			self.grid[r][c]
+			accent = '|' if self.grid[r][c].isCity else '$' if self.grid[r][c].isGeneral else ' '
+			# accent = '|' if (c, r) in (city_coords) else '$' if (c, r) in general_coords else ' '
+			return f"{Map.color_map[self._map_private[2 + r * self.cols + c + self.rows * self.cols]]}{accent}{self._map_private[2 + r * self.cols + c]:<4}"
+		letters = '   ' + ' '.join([f"{letter:<5}"  for letter in alphabet_array[:self.cols]])
 		return ('|' + letters
 	  		+ '|\n|' + '|\n|'.join([
 		    f"{r:<2} " + ' '.join([
-		        f"{Map.color_map[self._map_private[2 + r * self.cols + c + self.rows * self.cols]]}{self._map_private[2 + r * self.cols + c]:<4}"
+				get_tile_string(c, r)
 		        for c in range(self.cols)
 		    ]) 
 			+ Style.RESET_ALL + f"|{r:<1}" for r in range(self.rows)

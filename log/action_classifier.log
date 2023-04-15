@@ -183,3 +183,270 @@ action classified as:Action (Goal.MOVE), (None), (Point: 2, 16) -> (Point: 3, 16
 prepreprocessed text:"40 to l0"
 post_preprocessed_text:"40 to l0"
 action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 0, 11)
+prepreprocessed text:"down"
+post_preprocessed_text:"down"
+action classified as:Action (Goal.MOVE), (Direction.DOWN), (None) -> (None)
+prepreprocessed text:"B3"
+post_preprocessed_text:"b3"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 3, 1)
+prepreprocessed text:"B3 to b0"
+post_preprocessed_text:"b3 to b0"
+action classified as:Action (Goal.MOVE), (None), (Point: 3, 1) -> (Point: 0, 1)
+prepreprocessed text:"I zero"
+post_preprocessed_text:"i0"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 0, 8)
+prepreprocessed text:"Jay zero"
+post_preprocessed_text:"jay0"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 0, 24)
+prepreprocessed text:"K1"
+post_preprocessed_text:"k1"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 1, 10)
+prepreprocessed text:"K3"
+post_preprocessed_text:"k3"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 3, 10)
+prepreprocessed text:"move up"
+post_preprocessed_text:"move up"
+action classified as:Action (Goal.MOVE), (Direction.UP), (None) -> (None)
+prepreprocessed text:"move up"
+post_preprocessed_text:"move up"
+action classified as:Action (Goal.MOVE), (Direction.UP), (None) -> (None)
+prepreprocessed text:"move down"
+post_preprocessed_text:"move down"
+action classified as:Action (Goal.MOVE), (Direction.DOWN), (None) -> (None)
+prepreprocessed text:"c16"
+post_preprocessed_text:"c16"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 16, 2)
+prepreprocessed text:"E15"
+post_preprocessed_text:"e15"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 15, 4)
+prepreprocessed text:"all right now we got a city and that's"
+post_preprocessed_text:"all right now we got a city n that's"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT), (None) -> (None)
+prepreprocessed text:"t13"
+post_preprocessed_text:"t13"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 13, 19)
+prepreprocessed text:"T15"
+post_preprocessed_text:"t15"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 15, 19)
+prepreprocessed text:"T15"
+post_preprocessed_text:"t15"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 15, 19)
+prepreprocessed text:"N17"
+post_preprocessed_text:"n17"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 17, 13)
+prepreprocessed text:"I am 18"
+post_preprocessed_text:"i am 18"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 18, 12)
+prepreprocessed text:"M18"
+post_preprocessed_text:"m18"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 18, 12)
+prepreprocessed text:"all right"
+post_preprocessed_text:"all right"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT), (None) -> (None)
+prepreprocessed text:"R12"
+post_preprocessed_text:"r12"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 12, 17)
+prepreprocessed text:"left"
+post_preprocessed_text:"left"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None) -> (None)
+prepreprocessed text:"Keaton"
+post_preprocessed_text:"keaton"
+action classified as:Action (Goal.MOVE), (Direction.DOWN), (None) -> (None)
+prepreprocessed text:"P10"
+post_preprocessed_text:"p10"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 10, 15)
+prepreprocessed text:"p8"
+post_preprocessed_text:"p8"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 8, 15)
+prepreprocessed text:"create"
+post_preprocessed_text:"create"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None) -> (None)
+prepreprocessed text:"T10 to p8"
+post_preprocessed_text:"t10 to p8"
+action classified as:Action (Goal.MOVE), (None), (Point: 10, 19) -> (Point: 8, 15)
+prepreprocessed text:"p"
+post_preprocessed_text:"p"
+action classified as:Action (Goal.MOVE), (Direction.UP), (None) -> (None)
+prepreprocessed text:"P10 to p8"
+post_preprocessed_text:"p10 to p8"
+action classified as:Action (Goal.MOVE), (None), (Point: 10, 15) -> (Point: 8, 15)
+prepreprocessed text:"p8 to"
+post_preprocessed_text:"p8 to"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 8, 15)
+prepreprocessed text:"p8"
+post_preprocessed_text:"p8"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 8, 15)
+prepreprocessed text:"p8"
+post_preprocessed_text:"p8"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 8, 15)
+prepreprocessed text:"p8 to R8"
+post_preprocessed_text:"p8 to r8"
+action classified as:Action (Goal.MOVE), (None), (Point: 8, 15) -> (Point: 8, 17)
+prepreprocessed text:"R8 to R6"
+post_preprocessed_text:"r8 to r6"
+action classified as:Action (Goal.MOVE), (None), (Point: 8, 17) -> (Point: 6, 17)
+prepreprocessed text:"N15"
+post_preprocessed_text:"n15"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 15, 13)
+prepreprocessed text:"all right"
+post_preprocessed_text:"all right"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT), (None) -> (None)
+prepreprocessed text:"n16"
+post_preprocessed_text:"n16"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 16, 13)
+prepreprocessed text:"1016"
+post_preprocessed_text:"1016"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None) -> (None)
+prepreprocessed text:"n16"
+post_preprocessed_text:"n16"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 16, 13)
+prepreprocessed text:"move up"
+post_preprocessed_text:"move up"
+action classified as:Action (Goal.MOVE), (Direction.UP), (None) -> (None)
+prepreprocessed text:"M15"
+post_preprocessed_text:"m15"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 15, 12)
+prepreprocessed text:"N15"
+post_preprocessed_text:"n15"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 15, 13)
+prepreprocessed text:"move up"
+post_preprocessed_text:"move up"
+action classified as:Action (Goal.MOVE), (Direction.UP), (None) -> (None)
+prepreprocessed text:"move up"
+post_preprocessed_text:"move up"
+action classified as:Action (Goal.MOVE), (Direction.UP), (None) -> (None)
+prepreprocessed text:"all right that's going"
+post_preprocessed_text:"all right that's going"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT), (None) -> (None)
+prepreprocessed text:"R6 to q6"
+post_preprocessed_text:"r6 to q6"
+action classified as:Action (Goal.MOVE), (None), (Point: 6, 17) -> (Point: 6, 16)
+prepreprocessed text:"Q"
+post_preprocessed_text:"q"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None) -> (None)
+prepreprocessed text:"20"
+post_preprocessed_text:"20"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None) -> (None)
+prepreprocessed text:"q6 to q0"
+post_preprocessed_text:"q6 to q0"
+action classified as:Action (Goal.MOVE), (None), (Point: 6, 16) -> (Point: 0, 16)
+prepreprocessed text:"there it is on a type"
+post_preprocessed_text:"there it is on a type"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT), (None) -> (None)
+prepreprocessed text:"S3"
+post_preprocessed_text:"s3"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 3, 18)
+prepreprocessed text:"S1"
+post_preprocessed_text:"s1"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 1, 18)
+prepreprocessed text:"q1"
+post_preprocessed_text:"q1"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 1, 16)
+prepreprocessed text:"T5"
+post_preprocessed_text:"t5"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 5, 19)
+prepreprocessed text:"q1 to q6"
+post_preprocessed_text:"q1 to q6"
+action classified as:Action (Goal.MOVE), (None), (Point: 1, 16) -> (Point: 6, 16)
+prepreprocessed text:"q6 to P6"
+post_preprocessed_text:"q6 to p6"
+action classified as:Action (Goal.MOVE), (None), (Point: 6, 16) -> (Point: 6, 15)
+prepreprocessed text:"five to T2"
+post_preprocessed_text:"five to t2"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 2, 19)
+prepreprocessed text:"t"
+post_preprocessed_text:"t"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None) -> (None)
+prepreprocessed text:"T5 to T2"
+post_preprocessed_text:"t5 to t2"
+action classified as:Action (Goal.MOVE), (None), (Point: 5, 19) -> (Point: 2, 19)
+prepreprocessed text:"T2 to S2"
+post_preprocessed_text:"t2 to s2"
+action classified as:Action (Goal.MOVE), (None), (Point: 2, 19) -> (Point: 2, 18)
+prepreprocessed text:"S1 S2 to"
+post_preprocessed_text:"s1 s2 to"
+action classified as:Action (Goal.MOVE), (None), (Point: 1, 18) -> (Point: 2, 18)
+prepreprocessed text:"as to the"
+post_preprocessed_text:"as to the"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None) -> (None)
+prepreprocessed text:"S2 to S1"
+post_preprocessed_text:"s2 to s1"
+action classified as:Action (Goal.MOVE), (None), (Point: 2, 18) -> (Point: 1, 18)
+prepreprocessed text:"left"
+post_preprocessed_text:"left"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None) -> (None)
+prepreprocessed text:"m0"
+post_preprocessed_text:"m0"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 0, 12)
+prepreprocessed text:"M2"
+post_preprocessed_text:"m2"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 2, 12)
+prepreprocessed text:"K2"
+post_preprocessed_text:"k2"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 2, 10)
+prepreprocessed text:"K1"
+post_preprocessed_text:"k1"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 1, 10)
+prepreprocessed text:"phone all right"
+post_preprocessed_text:"ph1 all right"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 1, 7)
+prepreprocessed text:"G10"
+post_preprocessed_text:"g10"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 10, 6)
+prepreprocessed text:"G10"
+post_preprocessed_text:"g10"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 10, 6)
+prepreprocessed text:"correct F10"
+post_preprocessed_text:"correct f10"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 10, 5)
+prepreprocessed text:"G10 to F10"
+post_preprocessed_text:"g10 to f10"
+action classified as:Action (Goal.MOVE), (None), (Point: 10, 6) -> (Point: 10, 5)
+prepreprocessed text:"F10 to F2"
+post_preprocessed_text:"f10 to f2"
+action classified as:Action (Goal.MOVE), (None), (Point: 10, 5) -> (Point: 2, 5)
+prepreprocessed text:"F2 to H2"
+post_preprocessed_text:"f2 to h2"
+action classified as:Action (Goal.MOVE), (None), (Point: 2, 5) -> (Point: 2, 7)
+prepreprocessed text:"210"
+post_preprocessed_text:"210"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None) -> (None)
+prepreprocessed text:"do it to F10"
+post_preprocessed_text:"do it to f10"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 10, 5)
+prepreprocessed text:"yeah there it is"
+post_preprocessed_text:"yeah there it is"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT), (None) -> (None)
+prepreprocessed text:"oh I could do something way better than that"
+post_preprocessed_text:"oh i could do something way better than that"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT), (None) -> (None)
+prepreprocessed text:"014"
+post_preprocessed_text:"o14"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 14, 14)
+prepreprocessed text:"415"
+post_preprocessed_text:"415"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None) -> (None)
+prepreprocessed text:"4:15"
+post_preprocessed_text:"4:15"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None) -> (None)
+prepreprocessed text:"017"
+post_preprocessed_text:"o17"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 17, 14)
+prepreprocessed text:"j17"
+post_preprocessed_text:"j17"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 17, 9)
+prepreprocessed text:"j14"
+post_preprocessed_text:"j14"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 14, 9)
+prepreprocessed text:"015"
+post_preprocessed_text:"o15"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 15, 14)
+prepreprocessed text:"q15 to 015"
+post_preprocessed_text:"q15 too15"
+action classified as:Action (Goal.MOVE), (None), (Point: 15, 16) -> (Point: 15, 14)
+prepreprocessed text:"4:15 to j14"
+post_preprocessed_text:"4:15 to j14"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 14, 9)
+prepreprocessed text:"j13"
+post_preprocessed_text:"j13"
+action classified as:Action (Goal.MOVE), (None), (None) -> (Point: 13, 9)
