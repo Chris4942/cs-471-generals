@@ -369,3 +369,153 @@ action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 4, 7)
 prepreprocessed text:"H3"
 post_preprocessed_text:"h3"
 action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 3, 7)
+prepreprocessed text:"left left"
+post_preprocessed_text:"left left"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None/None) -> (None)
+prepreprocessed text:"M1"
+post_preprocessed_text:"m1"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 1, 12)
+prepreprocessed text:"m"
+post_preprocessed_text:"m"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None/None) -> (None)
+prepreprocessed text:"M1 to M6"
+post_preprocessed_text:"m1 to m6"
+action classified as:Action (Goal.MOVE), (None), (Point: 1, 12/None) -> (Point: 6, 12)
+prepreprocessed text:"don't forget to"
+post_preprocessed_text:"don't4get to"
+action classified as:Action (Goal.MOVE), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"accessories"
+post_preprocessed_text:"accessories"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT), (None/None) -> (None)
+prepreprocessed text:"right"
+post_preprocessed_text:"right"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT), (None/None) -> (None)
+prepreprocessed text:"what the random player put the random player in"
+post_preprocessed_text:"what the rnom player put the rnom player in"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None/None) -> (None)
+prepreprocessed text:"nothing fancy"
+post_preprocessed_text:"nothing fancy"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT), (None/None) -> (None)
+prepreprocessed text:"06"
+post_preprocessed_text:" o6"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 6, 14)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"j7"
+post_preprocessed_text:"j7"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 7, 9)
+prepreprocessed text:"he text to j7"
+post_preprocessed_text:"he text to j7"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 7, 9)
+prepreprocessed text:"j7 up"
+post_preprocessed_text:"j7 up"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 7, 9)
+prepreprocessed text:"and C7 up"
+post_preprocessed_text:"n c7 up"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 7, 2)
+prepreprocessed text:"j7 to j6"
+post_preprocessed_text:"j7 to j6"
+action classified as:Action (Goal.MOVE), (None), (Point: 7, 9/None) -> (Point: 6, 9)
+prepreprocessed text:"listen to j6 C7 to C6"
+post_preprocessed_text:"listen to j6 c7 to c6"
+action classified as:Action (Goal.MOVE), (None), (Point: 6, 9/None) -> (Point: 7, 2)
+prepreprocessed text:"E7 to E6"
+post_preprocessed_text:"e7 to e6"
+action classified as:Action (Goal.MOVE), (None), (Point: 7, 4/None) -> (Point: 6, 4)
+prepreprocessed text:"C7 to C6"
+post_preprocessed_text:"c7 to c6"
+action classified as:Action (Goal.MOVE), (None), (Point: 7, 2/None) -> (Point: 6, 2)
+prepreprocessed text:"106"
+post_preprocessed_text:"106"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None/group: 106) -> (None)
+prepreprocessed text:"Asics to M6"
+post_preprocessed_text:"asics to m6"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 6, 12)
+prepreprocessed text:"M6 to K8"
+post_preprocessed_text:"m6 to k8"
+action classified as:Action (Goal.MOVE), (None), (Point: 6, 12/None) -> (Point: 8, 10)
+prepreprocessed text:"K8 to N8"
+post_preprocessed_text:"k8 to n8"
+action classified as:Action (Goal.MOVE), (None), (Point: 8, 10/None) -> (Point: 8, 13)
+prepreprocessed text:"k-88"
+post_preprocessed_text:"ka8"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None/None) -> (None)
+prepreprocessed text:"K8 to h8"
+post_preprocessed_text:"k8 to h8"
+action classified as:Action (Goal.MOVE), (None), (Point: 8, 10/None) -> (Point: 8, 7)
+prepreprocessed text:"88 M8 to h8"
+post_preprocessed_text:"a8 m8 to h8"
+action classified as:Action (Goal.MOVE), (None), (Point: 8, 0/None) -> (Point: 8, 12)
+prepreprocessed text:"M8 to h8"
+post_preprocessed_text:"m8 to h8"
+action classified as:Action (Goal.MOVE), (None), (Point: 8, 12/None) -> (Point: 8, 7)
+prepreprocessed text:"hh5 and H5"
+post_preprocessed_text:"hh5 n h5"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 5, 7)
+prepreprocessed text:"65 to G5 H5 to G5"
+post_preprocessed_text:"65 to g5 h5 to g5"
+action classified as:Action (Goal.MOVE), (None), (Point: 5, 6/group: 65) -> (Point: 5, 7)
+prepreprocessed text:"G5"
+post_preprocessed_text:"g5"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 5, 6)
+prepreprocessed text:"G5"
+post_preprocessed_text:"g5"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 5, 6)
+prepreprocessed text:"text"
+post_preprocessed_text:"text"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None/None) -> (None)
+prepreprocessed text:"G6"
+post_preprocessed_text:"g6"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 6, 6)
+prepreprocessed text:"C5 to"
+post_preprocessed_text:"c5 to"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 5, 2)
+prepreprocessed text:"C5 to"
+post_preprocessed_text:"c5 to"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 5, 2)
+prepreprocessed text:"C5 to G6"
+post_preprocessed_text:"c5 to g6"
+action classified as:Action (Goal.MOVE), (None), (Point: 5, 2/None) -> (Point: 6, 6)
+prepreprocessed text:"F5 to G5"
+post_preprocessed_text:"f5 to g5"
+action classified as:Action (Goal.MOVE), (None), (Point: 5, 5/None) -> (Point: 5, 6)
+prepreprocessed text:"G6 to G5"
+post_preprocessed_text:"g6 to g5"
+action classified as:Action (Goal.MOVE), (None), (Point: 6, 6/None) -> (Point: 5, 6)
+prepreprocessed text:"L5"
+post_preprocessed_text:"l5"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 5, 11)
+prepreprocessed text:"spell sex"
+post_preprocessed_text:"spell sex"
+action classified as:Action (Goal.MOVE), (Direction.UP), (None/None) -> (None)
+prepreprocessed text:"up"
+post_preprocessed_text:"up"
+action classified as:Action (Goal.MOVE), (Direction.UP), (None/None) -> (None)
+prepreprocessed text:"l0"
+post_preprocessed_text:"l0"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 0, 11)
+prepreprocessed text:"q0"
+post_preprocessed_text:"q0"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 0, 16)
+prepreprocessed text:"q1"
+post_preprocessed_text:"q1"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 1, 16)
+prepreprocessed text:"R1"
+post_preprocessed_text:"r1"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 1, 17)
+prepreprocessed text:"S1"
+post_preprocessed_text:"s1"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 1, 18)
+prepreprocessed text:"s0"
+post_preprocessed_text:"s0"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 0, 18)
+prepreprocessed text:"hello beautiful"
+post_preprocessed_text:"hello beautiful"
+action classified as:Action (Goal.MOVE), (Direction.UP), (None/None) -> (None)
+prepreprocessed text:"B6"
+post_preprocessed_text:"b6"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 6, 1)
+prepreprocessed text:"B6"
+post_preprocessed_text:"b6"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 6, 1)
