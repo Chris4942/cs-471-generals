@@ -22,7 +22,15 @@ class Strategist:
         No start coord is provided
         Goal is Goal.MOVE
         """
-        start: Point = action.start if action.start is not None else max(self.find_all_owned_territoy_coords()).p
+        def find_closest_match(locations, num_to_match):
+            return min(locations, key=lambda i: abs(i.n - num_to_match.amount)).p
+
+        owned_coords = self.find_all_owned_territoy_coords()
+        start: Point = (action.start if action.start is not None else 
+                        find_closest_match(owned_coords, action.group) if action.group is not None else
+                        max(owned_coords).p)
+        if action.group is not None:
+            self.log(f"a group exists on the point. It's at {start}")
         if action.destination is not None:
             current_point = start
             if current_point.r < action.destination.r:

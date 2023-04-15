@@ -32,11 +32,21 @@ class Point:
         row = int(string[1:])
         return Point(row, col)
 
+class Group:
+    def __init__(self, amount):
+        self.amount = amount
+
+    def __repr__(self):
+        return f"group: {self.amount}"
+    
+    @staticmethod
+    def of(string):
+        return Group(int(string))
 
 class Action:
     def __init__(
                 self,
-                goal: Goal,
+                goal: Goal = None,
                 direction: Direction = None,
                 destination_point: str = None,
                 starting_point: str = None,
@@ -45,10 +55,11 @@ class Action:
         self.direction = direction
         self.destination: Point = Point.of(destination_point) if destination_point is not None else None
         self.start: Point = Point.of(starting_point) if starting_point is not None else None
+        self.group = None
 
     
     def __str__(self) -> str:
-        return f"Action ({self.goal}), ({self.direction}), ({self.start}) -> ({self.destination})"
+        return f"Action ({self.goal}), ({self.direction}), ({self.start}/{self.group}) -> ({self.destination})"
 
 
 class Location:

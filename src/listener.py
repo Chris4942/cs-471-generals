@@ -27,8 +27,8 @@ class SpeechRecognitionListener(Listener):
                 try:
                     audio = self.r.listen(
                         source,
-                        timeout=3,
-                        phrase_time_limit=3,
+                        timeout=6,
+                        phrase_time_limit=6,
                     )
                     text = self.r.recognize_google(audio)
                     self.log(f"got text: {text}")
