@@ -1,6 +1,7 @@
 import os
 from typing import Callable
-from action import Action, Direction, Location, Point
+from action import Action, Direction, Goal, Location, Point, directions
+from random import choice
 
 class Strategist:
     movement_computers: dict[Direction, Callable[[Location], Location]] = {
@@ -26,38 +27,47 @@ class Strategist:
             return min(locations, key=lambda i: abs(i.n - num_to_match.amount)).p
 
         owned_coords = self.find_all_owned_territoy_coords()
-        start: Point = (action.start if action.start is not None else 
+        if action.goal == Goal.SPREAD_OUT:
+            self.log(f"spreading out...")
+            for coord in owned_coords:
+                direction = choice(directions)
+                self.log(f"direction = {direction}")
+                destination = self.compute_destination(coord.p, direction)
+                self.log(f"pushing attack: {coord} -> {destination}")
+                self.push_attack(coord.p, destination)
+        else:
+            start: Point = (action.start if action.start is not None else 
                         find_closest_match(owned_coords, action.group) if action.group is not None else
                         max(owned_coords).p)
-        if action.group is not None:
-            self.log(f"a group exists on the point. It's at {start}")
-        if action.destination is not None:
-            current_point = start
-            if current_point.r < action.destination.r:
-                for _ in range(action.destination.r - current_point.r):
-                    next_point = Point(current_point.r + 1, current_point.c)
-                    self.push_attack(current_point, next_point)
-                    current_point = next_point
-            else:
-                for _ in range(current_point.r - action.destination.r):
-                    next_point = Point(current_point.r - 1, current_point.c)
-                    self.push_attack(current_point, next_point)
-                    current_point = next_point
-            
-            if current_point.c < action.destination.c:
-                for _ in range (action.destination.c - current_point.c):
-                    next_point = Point(current_point.r, current_point.c + 1)
-                    self.push_attack(current_point, next_point)
-                    current_point = next_point
-            else:
-                for _ in range(current_point.c - action.destination.c):
-                    next_point = Point(current_point.r, current_point.c - 1)
-                    self.push_attack(current_point, next_point)
-                    current_point = next_point
+            if action.group is not None:
+                self.log(f"a group exists on the point. It's at {start}")
+            if action.destination is not None:
+                current_point = start
+                if current_point.r < action.destination.r:
+                    for _ in range(action.destination.r - current_point.r):
+                        next_point = Point(current_point.r + 1, current_point.c)
+                        self.push_attack(current_point, next_point)
+                        current_point = next_point
+                else:
+                    for _ in range(current_point.r - action.destination.r):
+                        next_point = Point(current_point.r - 1, current_point.c)
+                        self.push_attack(current_point, next_point)
+                        current_point = next_point
 
-        if action.direction is not None:
-            destination = self.compute_destination(start, direction=action.direction)
-            self.push_attack(start, destination)
+                if current_point.c < action.destination.c:
+                    for _ in range (action.destination.c - current_point.c):
+                        next_point = Point(current_point.r, current_point.c + 1)
+                        self.push_attack(current_point, next_point)
+                        current_point = next_point
+                else:
+                    for _ in range(current_point.c - action.destination.c):
+                        next_point = Point(current_point.r, current_point.c - 1)
+                        self.push_attack(current_point, next_point)
+                        current_point = next_point
+
+            if action.direction is not None:
+                destination = self.compute_destination(start, direction=action.direction)
+                self.push_attack(start, destination)
     
     def compute_destination(self, start: Point, direction: Direction) -> Point:
         return Strategist.movement_computers[direction](start)

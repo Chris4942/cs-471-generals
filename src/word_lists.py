@@ -13,3 +13,7 @@ DOWN_WORDS = [
 UP_WORDS = [
     'up'
 ]
+
+SPREAD_OUT_WORDS = [
+    'spread out'
+]

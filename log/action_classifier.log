@@ -212,3 +212,160 @@ action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 2, 2)
 prepreprocessed text:"okay"
 post_preprocessed_text:"okay"
 action classified as:Action (Goal.MOVE), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"D15"
+post_preprocessed_text:"d15"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 15, 3)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.MOVE), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.MOVE), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.MOVE), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"easier"
+post_preprocessed_text:"easier"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.LEFT), (None/None) -> (None)
+prepreprocessed text:"easier"
+post_preprocessed_text:"easier"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.LEFT), (None/None) -> (None)
+prepreprocessed text:"e0"
+post_preprocessed_text:"e0"
+action classified as:Action (Goal.SPREAD_OUT), (None), (None/None) -> (Point: 0, 4)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"q14"
+post_preprocessed_text:"q14"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 14, 16)
+prepreprocessed text:"spread out spread out"
+post_preprocessed_text:"spread out spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"F10"
+post_preprocessed_text:"f10"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 10, 5)
+prepreprocessed text:"S10"
+post_preprocessed_text:"s10"
+action classified as:Action (Goal.SPREAD_OUT), (None), (None/None) -> (Point: 10, 18)
+prepreprocessed text:"moved to S10"
+post_preprocessed_text:"moved to s10"
+action classified as:Action (Goal.SPREAD_OUT), (None), (None/None) -> (Point: 10, 18)
+prepreprocessed text:"my goodness"
+post_preprocessed_text:"my goodness"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"oh right"
+post_preprocessed_text:"oh right"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.RIGHT), (None/None) -> (None)
+prepreprocessed text:"c16"
+post_preprocessed_text:"c16"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 16, 2)
+prepreprocessed text:"oh right"
+post_preprocessed_text:"oh right"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.RIGHT), (None/None) -> (None)
+prepreprocessed text:"06"
+post_preprocessed_text:" o6"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 6, 14)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"j14"
+post_preprocessed_text:"j14"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 14, 9)
+prepreprocessed text:"j14 spread out"
+post_preprocessed_text:"j14 spread out"
+action classified as:Action (Goal.SPREAD_OUT), (None), (None/None) -> (Point: 14, 9)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"okay"
+post_preprocessed_text:"okay"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"14 to g12 G13 to"
+post_preprocessed_text:"14 to g12 g13 to"
+action classified as:Action (Goal.SPREAD_OUT), (None), (Point: 12, 6/group: 14) -> (Point: 13, 6)
+prepreprocessed text:"oh is"
+post_preprocessed_text:"oh is"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.RIGHT), (None/None) -> (None)
+prepreprocessed text:"oh"
+post_preprocessed_text:"oh"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.RIGHT), (None/None) -> (None)
+spread out match: ('spread out', 21)
+prepreprocessed text:"q6 to q17"
+post_preprocessed_text:"q6 to q17"
+action classified as:Action (Goal.SPREAD_OUT), (None), (Point: 6, 16/None) -> (Point: 17, 16)
+spread out match: ('spread out', 0)
+prepreprocessed text:"q16"
+post_preprocessed_text:"q16"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 16, 16)
+spread out match: ('spread out', 21)
+prepreprocessed text:"q6 to q16"
+post_preprocessed_text:"q6 to q16"
+action classified as:Action (Goal.SPREAD_OUT), (None), (Point: 6, 16/None) -> (Point: 16, 16)
+spread out match: ('spread out', 45)
+prepreprocessed text:"reprocessed text"
+post_preprocessed_text:"reprocessed text"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.LEFT), (None/None) -> (None)
+spread out match: ('spread out', 15)
+prepreprocessed text:"q6 q16"
+post_preprocessed_text:"q6 q16"
+action classified as:Action (Goal.SPREAD_OUT), (None), (Point: 6, 16/None) -> (Point: 16, 16)
+spread out match: ('spread out', 100)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+spread out match: ('spread out', 90)
+prepreprocessed text:"spread out all right so it needs to be greater than 90"
+post_preprocessed_text:"spread out all right so it needs to be greater than 90"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.RIGHT), (None/group: 90) -> (None)
+prepreprocessed text:"ask for"
+post_preprocessed_text:"ask for"
+action classified as:Action (Goal.MOVE), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"all right"
+post_preprocessed_text:"all right"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT), (None/None) -> (None)
+prepreprocessed text:"S4"
+post_preprocessed_text:"s4"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 4, 18)
+prepreprocessed text:"S4"
+post_preprocessed_text:"s4"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 4, 18)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"nothing"
+post_preprocessed_text:"nothing"
+action classified as:Action (Goal.MOVE), (Direction.LEFT), (None/None) -> (None)
+prepreprocessed text:"head out"
+post_preprocessed_text:"head out"
+action classified as:Action (Goal.MOVE), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"before H4"
+post_preprocessed_text:"before h4"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 4, 7)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (Direction.DOWN), (None/None) -> (None)
+prepreprocessed text:"H4"
+post_preprocessed_text:"h4"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 4, 7)
+prepreprocessed text:"H3"
+post_preprocessed_text:"h3"
+action classified as:Action (Goal.MOVE), (None), (None/None) -> (Point: 3, 7)

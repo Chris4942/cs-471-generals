@@ -1,14 +1,23 @@
 from enum import Enum
 from string import ascii_lowercase
 
+
 class Direction(Enum):
     UP = 0
     DOWN = 1
     LEFT = 2
     RIGHT = 3
 
+directions = [
+    Direction.UP,
+    Direction.DOWN,
+    Direction.LEFT,
+    Direction.RIGHT,
+]
+
 class Goal(Enum):
     MOVE = 0
+    SPREAD_OUT = 1
 
 class ActionPrimitive:
     def __init__(self, position: tuple[int, int], direction: Direction):

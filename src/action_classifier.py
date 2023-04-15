@@ -4,7 +4,7 @@ import numpy as np
 from fuzzywuzzy import process
 from re import compile
 
-from word_lists import DOWN_WORDS, LEFT_WORDS, RIGHT_WORDS, UP_WORDS
+from word_lists import DOWN_WORDS, LEFT_WORDS, RIGHT_WORDS, SPREAD_OUT_WORDS, UP_WORDS
 
 action_dirs = [
     Direction.LEFT,
@@ -32,6 +32,9 @@ def preprocess(text: str):
     text = replace_word(text, 'are', 'R')
     text = replace_word(text, 'zero', '0')
     text = replace_word(text, 'too', '2')
+    text = replace_word(text, 'easier', 'e0')
+    text = replace_word(text, 'ask', 's')
+    text = replace_word(text, 'for', '4')
     text = text.replace('use your', 'u0')
     text = text.replace('and', 'n')
     text = text.replace('one', '1')
@@ -52,7 +55,10 @@ def preprocess(text: str):
 def classify_action(text) -> Action:
     def help(text):
         action = Action()
-        action.goal = Goal.MOVE
+        if process.extractOne(text, SPREAD_OUT_WORDS)[1] > 80:
+            action.goal = Goal.SPREAD_OUT
+        else:
+            action.goal = Goal.MOVE
         text = preprocess(text)
         coord_matches = coord_matcher.findall(text)
         group_matches = group_matcher.findall(text)
