@@ -1,17 +1,28 @@
 LEFT_WORDS = [
-    'left'
+    'left',
+    'west',
 ]
 
 RIGHT_WORDS = [
-    'right'
+    'right',
+    'east',
 ]
 
 DOWN_WORDS = [
-    'down'
+    'down',
+    'south',
 ]
 
 UP_WORDS = [
-    'up'
+    'up',
+    'north',
+]
+
+DIRECTION_WORDS = [
+    *LEFT_WORDS,
+    *RIGHT_WORDS,
+    *DOWN_WORDS,
+    *UP_WORDS,
 ]
 
 SPREAD_OUT_WORDS = [

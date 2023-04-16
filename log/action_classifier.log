@@ -999,3 +999,2584 @@ prepreprocessed text:"move the six up but in the"
 post_preprocessed_text:"move the 6 up but in the"
 space_matches []
 action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 6) -> (None)
+prepreprocessed text:"move left three spaces"
+post_preprocessed_text:"move left 3 spaces"
+space_matches ['3']
+action classified as:Action (Goal.MOVE), (Direction.LEFT 3 spaces), (None/None) -> (None)
+prepreprocessed text:"move up four spaces"
+post_preprocessed_text:"move up 4 spaces"
+space_matches ['4']
+action classified as:Action (Goal.MOVE), (Direction.UP 4 spaces), (None/None) -> (None)
+prepreprocessed text:"move the five right"
+post_preprocessed_text:"move the 5 right"
+space_matches []
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 5) -> (None)
+prepreprocessed text:"move the five right six spaces"
+post_preprocessed_text:"move the 5 right 6 spaces"
+space_matches ['6']
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 6 spaces), (None/group: 5) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"left five move five"
+post_preprocessed_text:"left 5 move 5"
+space_matches []
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 5) -> (None)
+prepreprocessed text:"move up six"
+post_preprocessed_text:"move up 6"
+space_matches []
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 6) -> (None)
+prepreprocessed text:"move up six"
+post_preprocessed_text:"move up 6"
+space_matches []
+got an exception while looking for words 'left' is not in list
+got an exception while looking for words 'west' is not in list
+got an exception while looking for words 'right' is not in list
+got an exception while looking for words 'east' is not in list
+got an exception while looking for words 'down' is not in list
+got an exception while looking for words 'south' is not in list
+got an exception while looking for words 'up' is not in list
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 6) -> (None)
+prepreprocessed text:"move"
+post_preprocessed_text:"move"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move right to"
+post_preprocessed_text:"move right to"
+space_matches []
+words: [' ']
+got an exception while looking for words 'left' is not in list
+words: [' ']
+got an exception while looking for words 'west' is not in list
+words: [' ']
+got an exception while looking for words 'right' is not in list
+words: [' ']
+got an exception while looking for words 'east' is not in list
+words: [' ']
+got an exception while looking for words 'down' is not in list
+words: [' ']
+got an exception while looking for words 'south' is not in list
+words: [' ']
+got an exception while looking for words 'up' is not in list
+words: [' ']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move right to"
+post_preprocessed_text:"move right to"
+space_matches []
+words: ['', 'move', 'right', 'to', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'right', 'to', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'right', 'to', '']
+got an exception while looking for words invalid literal for int() with base 10: 'to'
+words: ['', 'move', 'right', 'to', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'right', 'to', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'right', 'to', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'right', 'to', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'right', 'to', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move right three"
+post_preprocessed_text:"move right 3"
+space_matches []
+words: ['', 'move', 'right', '3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'right', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'right', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'right', '3', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'right', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'right', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'right', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 3 spaces), (None/group: 3) -> (None)
+prepreprocessed text:"we got it"
+post_preprocessed_text:"we got it"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"up to"
+post_preprocessed_text:"up to"
+space_matches []
+words: ['', 'up', 'to', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'up', 'to', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'up', 'to', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'up', 'to', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'up', 'to', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'up', 'to', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'up', 'to', '']
+got an exception while looking for words invalid literal for int() with base 10: 'to'
+words: ['', 'up', 'to', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move left too"
+post_preprocessed_text:"move left2"
+space_matches []
+words: ['', 'move', 'left2', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'left2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'left2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'left2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'left2', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'left2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'left2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'left2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move left for"
+post_preprocessed_text:"move left 4"
+space_matches []
+words: ['', 'move', 'left', '4', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'left', '4', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'left', '4', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'left', '4', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'left', '4', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'left', '4', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'left', '4', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 4 spaces), (None/group: 4) -> (None)
+prepreprocessed text:"move down to"
+post_preprocessed_text:"move down 2"
+space_matches []
+words: ['', 'move', 'down', '2', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'down', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'down', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'down', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'down', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'down', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'down', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/group: 2) -> (None)
+prepreprocessed text:"move e"
+post_preprocessed_text:"move e"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move e0 left for"
+post_preprocessed_text:"move e0 left 4"
+space_matches []
+words: ['', 'move', 'e0', 'left', '4', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'e0', 'left', '4', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'e0', 'left', '4', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'e0', 'left', '4', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'e0', 'left', '4', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'e0', 'left', '4', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'e0', 'left', '4', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 4 spaces), (None/group: 4) -> (Point: 0, 4)
+prepreprocessed text:"black one"
+post_preprocessed_text:"black 1"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 1) -> (None)
+prepreprocessed text:"move left one"
+post_preprocessed_text:"move left 1"
+space_matches []
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 1) -> (None)
+prepreprocessed text:"move up one"
+post_preprocessed_text:"move up 1"
+space_matches []
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 1) -> (None)
+prepreprocessed text:"move up one"
+post_preprocessed_text:"move up 1"
+space_matches []
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'up', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 1) -> (None)
+prepreprocessed text:"move the 20 left 7"
+post_preprocessed_text:"move the 20 left 7"
+space_matches []
+words: ['', 'move', 'the', '20', 'left', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '20', 'left', '7', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '20', 'left', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '20', 'left', '7', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '20', 'left', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '20', 'left', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '20', 'left', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 7 spaces), (None/group: 20) -> (None)
+prepreprocessed text:"move the 20 up one"
+post_preprocessed_text:"move the 20 up 1"
+space_matches []
+words: ['', 'move', 'the', '20', 'up', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '20', 'up', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '20', 'up', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '20', 'up', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '20', 'up', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '20', 'up', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '20', 'up', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 20) -> (None)
+prepreprocessed text:"move the 16 left to"
+post_preprocessed_text:"move the 16 left 2"
+space_matches []
+words: ['', 'move', 'the', '16', 'left', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '16', 'left', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '16', 'left', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '16', 'left', '2', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '16', 'left', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '16', 'left', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '16', 'left', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 2 spaces), (None/group: 16) -> (None)
+prepreprocessed text:"move left one"
+post_preprocessed_text:"move left 1"
+space_matches []
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'left', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 1) -> (None)
+prepreprocessed text:"016 right 3"
+post_preprocessed_text:" o16 right 3"
+space_matches []
+words: ['', '', 'o16', 'right', '3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', '', 'o16', 'right', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', '', 'o16', 'right', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', '', 'o16', 'right', '3', '']
+got an exception while looking for words 'down' is not in list
+words: ['', '', 'o16', 'right', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', '', 'o16', 'right', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', '', 'o16', 'right', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 3 spaces), (Point: 16, 14/group: 3) -> (None)
+prepreprocessed text:"R16 up for"
+post_preprocessed_text:"r16 up 4"
+space_matches []
+words: ['', 'r16', 'up', '4', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'r16', 'up', '4', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'r16', 'up', '4', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'r16', 'up', '4', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'r16', 'up', '4', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'r16', 'up', '4', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'r16', 'up', '4', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 4 spaces), (Point: 16, 17/group: 4) -> (None)
+prepreprocessed text:"R12 left 12"
+post_preprocessed_text:"r12 left 12"
+space_matches []
+words: ['', 'r12', 'left', '12', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'r12', 'left', '12', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'r12', 'left', '12', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'r12', 'left', '12', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'r12', 'left', '12', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'r12', 'left', '12', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'r12', 'left', '12', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 12 spaces), (Point: 12, 17/group: 12) -> (None)
+prepreprocessed text:"p16 right one"
+post_preprocessed_text:"p16 right 1"
+space_matches []
+words: ['', 'p16', 'right', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'p16', 'right', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'p16', 'right', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'p16', 'right', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'p16', 'right', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'p16', 'right', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'p16', 'right', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (Point: 16, 15/group: 1) -> (None)
+prepreprocessed text:"p16 up3"
+post_preprocessed_text:"p16 up3"
+space_matches []
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (Point: 16, 15/None) -> (None)
+prepreprocessed text:"p16 up3"
+post_preprocessed_text:"p16 up3"
+space_matches []
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'p16', 'up3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (Point: 16, 15/None) -> (None)
+prepreprocessed text:"p16 up3 spaces"
+post_preprocessed_text:"p16 up3 spaces"
+space_matches []
+words: ['', 'p16', 'up3', 'spaces', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'p16', 'up3', 'spaces', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'p16', 'up3', 'spaces', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'p16', 'up3', 'spaces', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'p16', 'up3', 'spaces', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'p16', 'up3', 'spaces', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'p16', 'up3', 'spaces', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'p16', 'up3', 'spaces', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (Point: 16, 15/None) -> (None)
+prepreprocessed text:"p16 up to"
+post_preprocessed_text:"p16 up 2"
+space_matches []
+words: ['', 'p16', 'up', '2', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'p16', 'up', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'p16', 'up', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'p16', 'up', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'p16', 'up', '2', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'p16', 'up', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'p16', 'up', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 2 spaces), (Point: 16, 15/group: 2) -> (None)
+prepreprocessed text:"oh no that'll be fine p16 Up 3 for that Q"
+post_preprocessed_text:"oh no that'll be fine p16 up 3 4 that q"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 3) -> (Point: 16, 15)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"spread out spread out"
+post_preprocessed_text:"spread out spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move to 61 right to"
+post_preprocessed_text:"move to 61 right 2"
+space_matches []
+words: ['', 'move', 'to', '61', 'right', '2', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'to', '61', 'right', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'to', '61', 'right', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'to', '61', 'right', '2', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'to', '61', 'right', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'to', '61', 'right', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'to', '61', 'right', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 2 spaces), (None/group: 61) -> (None)
+prepreprocessed text:"move to 34 left"
+post_preprocessed_text:"move to 34 left"
+space_matches []
+words: ['', 'move', 'to', '34', 'left', '']
+got an exception while looking for words invalid literal for int() with base 10: ''
+words: ['', 'move', 'to', '34', 'left', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'to', '34', 'left', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'to', '34', 'left', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'to', '34', 'left', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'to', '34', 'left', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'to', '34', 'left', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'to', '34', 'left', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 34) -> (None)
+prepreprocessed text:"hundred of three"
+post_preprocessed_text:"hundred of 3"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 3) -> (None)
+prepreprocessed text:"move the hundred up three"
+post_preprocessed_text:"move the hundred up 3"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 3) -> (None)
+prepreprocessed text:"move the 200 Up 3"
+post_preprocessed_text:"move the 200 up 3"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 200) -> (None)
+prepreprocessed text:"move up three"
+post_preprocessed_text:"move up 3"
+space_matches []
+words: ['', 'move', 'up', '3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'up', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'up', '3', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'up', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'up', '3', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'up', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'up', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 3 spaces), (None/group: 3) -> (None)
+prepreprocessed text:"oh yeah"
+post_preprocessed_text:"oh yeah"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"okay"
+post_preprocessed_text:"okay"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"if"
+post_preprocessed_text:"if"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"if"
+post_preprocessed_text:"if"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"spring action the amount is not in"
+post_preprocessed_text:"spring action the amount is not in"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"words"
+post_preprocessed_text:"words"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"if amount"
+post_preprocessed_text:"if amount"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"and I am not equal to action dot group dot amount"
+post_preprocessed_text:"n i am not equal to action dot group dot amount"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"princess is greater than that equals equals 1 then"
+post_preprocessed_text:"princess is greater than that equals equals 1 then"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 1) -> (None)
+prepreprocessed text:"action.group.mount equal"
+post_preprocessed_text:"action.group.mount equal"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"three"
+post_preprocessed_text:"3"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 3) -> (None)
+prepreprocessed text:"move right three move right three"
+post_preprocessed_text:"move right 3 move right 3"
+space_matches []
+words: ['', 'move', 'right', '3', 'move', 'right', '3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'right', '3', 'move', 'right', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'right', '3', 'move', 'right', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'right', '3', 'move', 'right', '3', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'right', '3', 'move', 'right', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'right', '3', 'move', 'right', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'right', '3', 'move', 'right', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 3 spaces), (None/group: 3) -> (None)
+prepreprocessed text:"move the 20 up five"
+post_preprocessed_text:"move the 20 up 5"
+space_matches []
+words: ['', 'move', 'the', '20', 'up', '5', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '20', 'up', '5', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '20', 'up', '5', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '20', 'up', '5', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '20', 'up', '5', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '20', 'up', '5', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '20', 'up', '5', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 5 spaces), (None/group: 20) -> (None)
+prepreprocessed text:"move right seven"
+post_preprocessed_text:"move right 7"
+space_matches []
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 7 spaces), (None/group: None) -> (None)
+prepreprocessed text:"move left seven"
+post_preprocessed_text:"move left 7"
+space_matches []
+words: ['', 'move', 'left', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'left', '7', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'left', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'left', '7', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'left', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'left', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'left', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 7 spaces), (None/None) -> (None)
+prepreprocessed text:"move the four up one"
+post_preprocessed_text:"move the 4 up 1"
+space_matches []
+words: ['', 'move', 'the', '4', 'up', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '4', 'up', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '4', 'up', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '4', 'up', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '4', 'up', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '4', 'up', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '4', 'up', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 4) -> (None)
+prepreprocessed text:"move the four right one"
+post_preprocessed_text:"move the 4 right 1"
+space_matches []
+words: ['', 'move', 'the', '4', 'right', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '4', 'right', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '4', 'right', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '4', 'right', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '4', 'right', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '4', 'right', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '4', 'right', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 4) -> (None)
+prepreprocessed text:"move the three down three"
+post_preprocessed_text:"move the 3 down 3"
+space_matches []
+words: ['', 'move', 'the', '3', 'down', '3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '3', 'down', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '3', 'down', '3', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '3', 'down', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '3', 'down', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '3', 'down', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '3', 'down', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 3 spaces), (None/group: 3) -> (None)
+prepreprocessed text:"move the 34 to E3"
+post_preprocessed_text:"move the 34 to e3"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 34) -> (Point: 3, 4)
+prepreprocessed text:"move the"
+post_preprocessed_text:"move the"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the 23 up one"
+post_preprocessed_text:"move the 23 up 1"
+space_matches []
+words: ['', 'move', 'the', '23', 'up', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '23', 'up', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '23', 'up', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '23', 'up', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '23', 'up', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '23', 'up', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '23', 'up', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 23) -> (None)
+prepreprocessed text:"move the 25 left one"
+post_preprocessed_text:"move the 25 left 1"
+space_matches []
+words: ['', 'move', 'the', '25', 'left', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '25', 'left', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '25', 'left', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '25', 'left', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '25', 'left', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '25', 'left', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '25', 'left', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 25) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the 57 to iPhone 2"
+post_preprocessed_text:"move the 57 to iph1 2"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 57) -> (None)
+prepreprocessed text:"57 to I2"
+post_preprocessed_text:"57 to i2"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 57) -> (Point: 2, 8)
+prepreprocessed text:"move the 30 to I2"
+post_preprocessed_text:"move the 30 to i2"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 30) -> (Point: 2, 8)
+prepreprocessed text:"move the hundred down for"
+post_preprocessed_text:"move the hundred down 4"
+space_matches []
+words: ['', 'move', 'the', 'hundred', 'down', '4', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '4', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '4', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '4', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '4', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '4', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '4', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 4 spaces), (None/None) -> (None)
+prepreprocessed text:"move the hundred left one"
+post_preprocessed_text:"move the hundred left 1"
+space_matches []
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the hundred down three"
+post_preprocessed_text:"move the hundred down 3"
+space_matches []
+words: ['', 'move', 'the', 'hundred', 'down', '3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '3', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 3 spaces), (None/None) -> (None)
+prepreprocessed text:"move the hundred down to"
+post_preprocessed_text:"move the hundred down 2"
+space_matches []
+words: ['', 'move', 'the', 'hundred', 'down', '2', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the hundred right three"
+post_preprocessed_text:"move the hundred right 3"
+space_matches []
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 3 spaces), (None/None) -> (None)
+prepreprocessed text:"move the hundred down one"
+post_preprocessed_text:"move the hundred down 1"
+space_matches []
+words: ['', 'move', 'the', 'hundred', 'down', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', 'hundred', 'down', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the hundred right three"
+post_preprocessed_text:"move the hundred right 3"
+space_matches []
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', 'hundred', 'right', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 3 spaces), (None/None) -> (None)
+prepreprocessed text:"move the hundred left one"
+post_preprocessed_text:"move the hundred left 1"
+space_matches []
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', 'hundred', 'left', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/None) -> (None)
+prepreprocessed text:"j9 to j8"
+post_preprocessed_text:"j9 to j8"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (Point: 9, 9/None) -> (Point: 8, 9)
+prepreprocessed text:"move the 50 right one"
+post_preprocessed_text:"move the 50 right 1"
+space_matches []
+words: ['', 'move', 'the', '50', 'right', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '50', 'right', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '50', 'right', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '50', 'right', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '50', 'right', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '50', 'right', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '50', 'right', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 50) -> (None)
+prepreprocessed text:"okay spread out"
+post_preprocessed_text:"okay spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the 130 right 7"
+post_preprocessed_text:"move the 130 right 7"
+space_matches []
+words: ['', 'move', 'the', '130', 'right', '7', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '130', 'right', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '130', 'right', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '130', 'right', '7', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '130', 'right', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '130', 'right', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '130', 'right', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 7 spaces), (None/group: 130) -> (None)
+prepreprocessed text:"move the 200 right 6"
+post_preprocessed_text:"move the 200 right 6"
+space_matches []
+words: ['', 'move', 'the', '200', 'right', '6', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '200', 'right', '6', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '200', 'right', '6', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '200', 'right', '6', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '200', 'right', '6', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '200', 'right', '6', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '200', 'right', '6', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 6 spaces), (None/group: 200) -> (None)
+prepreprocessed text:"move the 200 right one"
+post_preprocessed_text:"move the 200 right 1"
+space_matches []
+words: ['', 'move', 'the', '200', 'right', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '200', 'right', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '200', 'right', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '200', 'right', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '200', 'right', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '200', 'right', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '200', 'right', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 200) -> (None)
+prepreprocessed text:"move the 200 up one"
+post_preprocessed_text:"move the 200 up 1"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 200) -> (None)
+prepreprocessed text:"move move"
+post_preprocessed_text:"move move"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"S3 up one"
+post_preprocessed_text:"s3 up 1"
+space_matches []
+words: ['', 's3', 'up', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 's3', 'up', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 's3', 'up', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 's3', 'up', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 's3', 'up', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 's3', 'up', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 's3', 'up', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (Point: 3, 18/None) -> (None)
+prepreprocessed text:"I one left for"
+post_preprocessed_text:"i 1 left 4"
+space_matches []
+words: ['', 'i', '1', 'left', '4', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'i', '1', 'left', '4', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'i', '1', 'left', '4', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'i', '1', 'left', '4', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'i', '1', 'left', '4', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'i', '1', 'left', '4', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'i', '1', 'left', '4', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 4 spaces), (Point: 1, 8/group: 1) -> (None)
+prepreprocessed text:"I too left for"
+post_preprocessed_text:"i 2 left 4"
+space_matches []
+words: ['', 'i', '2', 'left', '4', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'i', '2', 'left', '4', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'i', '2', 'left', '4', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'i', '2', 'left', '4', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'i', '2', 'left', '4', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'i', '2', 'left', '4', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'i', '2', 'left', '4', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 4 spaces), (Point: 2, 8/group: 2) -> (None)
+prepreprocessed text:"down one"
+post_preprocessed_text:"down 1"
+space_matches []
+words: ['', 'down', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'down', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'down', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'down', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'down', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'down', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'down', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/None) -> (None)
+prepreprocessed text:"write three"
+post_preprocessed_text:"write 3"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 3) -> (None)
+prepreprocessed text:"wow that's a new year"
+post_preprocessed_text:"wow that's a new year"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the 140 down 7"
+post_preprocessed_text:"move the 140 down 7"
+space_matches []
+words: ['', 'move', 'the', '140', 'down', '7', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '140', 'down', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '140', 'down', '7', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '140', 'down', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '140', 'down', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '140', 'down', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '140', 'down', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 7 spaces), (None/group: 140) -> (None)
+prepreprocessed text:"move the 140 left 6"
+post_preprocessed_text:"move the 140 left 6"
+space_matches []
+words: ['', 'move', 'the', '140', 'left', '6', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '140', 'left', '6', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '140', 'left', '6', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '140', 'left', '6', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '140', 'left', '6', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '140', 'left', '6', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '140', 'left', '6', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 6 spaces), (None/group: 140) -> (None)
+prepreprocessed text:"move the 140"
+post_preprocessed_text:"move the 140"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 140) -> (None)
+prepreprocessed text:"move to 140 left to"
+post_preprocessed_text:"move to 140 left 2"
+space_matches []
+words: ['', 'move', 'to', '140', 'left', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'to', '140', 'left', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'to', '140', 'left', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'to', '140', 'left', '2', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'to', '140', 'left', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'to', '140', 'left', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'to', '140', 'left', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 2 spaces), (None/group: 140) -> (None)
+prepreprocessed text:"move the 500 left to"
+post_preprocessed_text:"move the 500 left 2"
+space_matches []
+words: ['', 'move', 'the', '500', 'left', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '500', 'left', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '500', 'left', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '500', 'left', '2', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '500', 'left', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '500', 'left', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '500', 'left', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 2 spaces), (None/group: 500) -> (None)
+prepreprocessed text:"move the 600 down 7"
+post_preprocessed_text:"move the 600 down 7"
+space_matches []
+words: ['', 'move', 'the', '600', 'down', '7', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '600', 'down', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '600', 'down', '7', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '600', 'down', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '600', 'down', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '600', 'down', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '600', 'down', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 7 spaces), (None/group: 600) -> (None)
+prepreprocessed text:"the 600 write for"
+post_preprocessed_text:"the 600 write 4"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 600) -> (None)
+prepreprocessed text:"move the 600 to the right four spaces"
+post_preprocessed_text:"move the 600 to the right 4 spaces"
+space_matches ['4']
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 4 spaces), (None/group: 600) -> (None)
+prepreprocessed text:"move the 550 down seven"
+post_preprocessed_text:"move the 550 down 7"
+space_matches []
+words: ['', 'move', 'the', '550', 'down', '7', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '550', 'down', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '550', 'down', '7', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '550', 'down', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '550', 'down', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '550', 'down', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '550', 'down', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 7 spaces), (None/group: 550) -> (None)
+prepreprocessed text:"move the 500 left 7"
+post_preprocessed_text:"move the 500 left 7"
+space_matches []
+words: ['', 'move', 'the', '500', 'left', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '500', 'left', '7', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '500', 'left', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '500', 'left', '7', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '500', 'left', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '500', 'left', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '500', 'left', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 7 spaces), (None/group: 500) -> (None)
+prepreprocessed text:"move the 300 down to"
+post_preprocessed_text:"move the 300 down 2"
+space_matches []
+words: ['', 'move', 'the', '300', 'down', '2', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '300', 'down', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '300', 'down', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '300', 'down', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '300', 'down', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '300', 'down', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '300', 'down', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/group: 300) -> (None)
+prepreprocessed text:"move the 500 right one"
+post_preprocessed_text:"move the 500 right 1"
+space_matches []
+words: ['', 'move', 'the', '500', 'right', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '500', 'right', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '500', 'right', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '500', 'right', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '500', 'right', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '500', 'right', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '500', 'right', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 500) -> (None)
+prepreprocessed text:"move the 500 down 7"
+post_preprocessed_text:"move the 500 down 7"
+space_matches []
+words: ['', 'move', 'the', '500', 'down', '7', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '500', 'down', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '500', 'down', '7', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '500', 'down', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '500', 'down', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '500', 'down', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '500', 'down', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 7 spaces), (None/group: 500) -> (None)
+prepreprocessed text:"the 600 down three"
+post_preprocessed_text:"the 600 down 3"
+space_matches []
+words: ['', 'the', '600', 'down', '3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'the', '600', 'down', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'the', '600', 'down', '3', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'the', '600', 'down', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'the', '600', 'down', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'the', '600', 'down', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'the', '600', 'down', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 3 spaces), (None/group: 600) -> (None)
+prepreprocessed text:"500 down one"
+post_preprocessed_text:"500 down 1"
+space_matches []
+words: ['', '500', 'down', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', '500', 'down', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', '500', 'down', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', '500', 'down', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', '500', 'down', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', '500', 'down', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', '500', 'down', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/group: 500) -> (None)
+prepreprocessed text:"move the 500 right 7"
+post_preprocessed_text:"move the 500 right 7"
+space_matches []
+words: ['', 'move', 'the', '500', 'right', '7', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '500', 'right', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '500', 'right', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '500', 'right', '7', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '500', 'right', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '500', 'right', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '500', 'right', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 7 spaces), (None/group: 500) -> (None)
+prepreprocessed text:"move the 480 left for oh that"
+post_preprocessed_text:"move the 4a0 left 4 oh that"
+space_matches []
+words: ['', 'move', 'the', '4a0', 'left', '4', 'oh', 'that', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '4a0', 'left', '4', 'oh', 'that', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '4a0', 'left', '4', 'oh', 'that', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '4a0', 'left', '4', 'oh', 'that', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '4a0', 'left', '4', 'oh', 'that', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '4a0', 'left', '4', 'oh', 'that', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '4a0', 'left', '4', 'oh', 'that', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 4 spaces), (None/None) -> (None)
+prepreprocessed text:"to left for my visit well okay"
+post_preprocessed_text:"to left 4 my visit well okay"
+space_matches []
+words: ['', 'to', 'left', '4', 'my', 'visit', 'well', 'okay', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'to', 'left', '4', 'my', 'visit', 'well', 'okay', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'to', 'left', '4', 'my', 'visit', 'well', 'okay', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'to', 'left', '4', 'my', 'visit', 'well', 'okay', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'to', 'left', '4', 'my', 'visit', 'well', 'okay', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'to', 'left', '4', 'my', 'visit', 'well', 'okay', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'to', 'left', '4', 'my', 'visit', 'well', 'okay', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 4 spaces), (None/None) -> (None)
+prepreprocessed text:"G2 to L2"
+post_preprocessed_text:"g2 to l2"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (Point: 2, 6/None) -> (Point: 2, 11)
+prepreprocessed text:"481 right 7"
+post_preprocessed_text:"4a1 right 7"
+space_matches []
+words: ['', '4a1', 'right', '7', '']
+got an exception while looking for words 'left' is not in list
+words: ['', '4a1', 'right', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', '4a1', 'right', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', '4a1', 'right', '7', '']
+got an exception while looking for words 'down' is not in list
+words: ['', '4a1', 'right', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', '4a1', 'right', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', '4a1', 'right', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 7 spaces), (None/group: 4) -> (None)
+prepreprocessed text:"what"
+post_preprocessed_text:"what"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"480 right 5 unless it's not going to work"
+post_preprocessed_text:"4a0 right 5 unless it's not going to work"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 4) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"465 down five"
+post_preprocessed_text:"465 down 5"
+space_matches []
+words: ['', '465', 'down', '5', '']
+got an exception while looking for words 'left' is not in list
+words: ['', '465', 'down', '5', '']
+got an exception while looking for words 'west' is not in list
+words: ['', '465', 'down', '5', '']
+got an exception while looking for words 'right' is not in list
+words: ['', '465', 'down', '5', '']
+got an exception while looking for words 'east' is not in list
+words: ['', '465', 'down', '5', '']
+got an exception while looking for words 'south' is not in list
+words: ['', '465', 'down', '5', '']
+got an exception while looking for words 'up' is not in list
+words: ['', '465', 'down', '5', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 5 spaces), (None/group: 465) -> (None)
+prepreprocessed text:"475 right one 14"
+post_preprocessed_text:"475 right 1 14"
+space_matches []
+words: ['', '475', 'right', '1', '14', '']
+got an exception while looking for words 'left' is not in list
+words: ['', '475', 'right', '1', '14', '']
+got an exception while looking for words 'west' is not in list
+words: ['', '475', 'right', '1', '14', '']
+got an exception while looking for words 'east' is not in list
+words: ['', '475', 'right', '1', '14', '']
+got an exception while looking for words 'down' is not in list
+words: ['', '475', 'right', '1', '14', '']
+got an exception while looking for words 'south' is not in list
+words: ['', '475', 'right', '1', '14', '']
+got an exception while looking for words 'up' is not in list
+words: ['', '475', 'right', '1', '14', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 475) -> (None)
+prepreprocessed text:"29 left one 489 down 3"
+post_preprocessed_text:"29 left 1 4a9 down 3"
+space_matches []
+words: ['', '29', 'left', '1', '4a9', 'down', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', '29', 'left', '1', '4a9', 'down', '3', '']
+got an exception while looking for words 'right' is not in list
+words: ['', '29', 'left', '1', '4a9', 'down', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', '29', 'left', '1', '4a9', 'down', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', '29', 'left', '1', '4a9', 'down', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', '29', 'left', '1', '4a9', 'down', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 3 spaces), (None/group: 29) -> (None)
+prepreprocessed text:"85 down 7"
+post_preprocessed_text:"a5 down 7"
+space_matches []
+words: ['', 'a5', 'down', '7', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'a5', 'down', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'a5', 'down', '7', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'a5', 'down', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'a5', 'down', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'a5', 'down', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'a5', 'down', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 7 spaces), (Point: 5, 0/None) -> (None)
+prepreprocessed text:"and left to 26 right to 41 left to"
+post_preprocessed_text:"n left to 26 right to 41 left 2"
+space_matches []
+words: ['', 'n', 'left', 'to', '26', 'right', 'to', '41', 'left', '2', '']
+got an exception while looking for words invalid literal for int() with base 10: 'to'
+words: ['', 'n', 'left', 'to', '26', 'right', 'to', '41', 'left', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'n', 'left', 'to', '26', 'right', 'to', '41', 'left', '2', '']
+got an exception while looking for words invalid literal for int() with base 10: 'to'
+words: ['', 'n', 'left', 'to', '26', 'right', 'to', '41', 'left', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'n', 'left', 'to', '26', 'right', 'to', '41', 'left', '2', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'n', 'left', 'to', '26', 'right', 'to', '41', 'left', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'n', 'left', 'to', '26', 'right', 'to', '41', 'left', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'n', 'left', 'to', '26', 'right', 'to', '41', 'left', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 26) -> (None)
+prepreprocessed text:"113 down one 41 left 7"
+post_preprocessed_text:"113 down 1 41 left 7"
+space_matches []
+words: ['', '113', 'down', '1', '41', 'left', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', '113', 'down', '1', '41', 'left', '7', '']
+got an exception while looking for words 'right' is not in list
+words: ['', '113', 'down', '1', '41', 'left', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', '113', 'down', '1', '41', 'left', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', '113', 'down', '1', '41', 'left', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', '113', 'down', '1', '41', 'left', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 113) -> (None)
+prepreprocessed text:"403 right one"
+post_preprocessed_text:"403 right 1"
+space_matches []
+words: ['', '403', 'right', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', '403', 'right', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', '403', 'right', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', '403', 'right', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', '403', 'right', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', '403', 'right', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', '403', 'right', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 403) -> (None)
+prepreprocessed text:"hey"
+post_preprocessed_text:"hey"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"update"
+post_preprocessed_text:"update"
+space_matches []
+words: ['', 'update', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'update', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'update', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'update', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'update', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'update', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'update', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'update', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move up"
+post_preprocessed_text:"move up"
+space_matches []
+words: ['', 'move', 'up', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'up', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'up', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'up', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'up', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'up', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'up', '']
+got an exception while looking for words invalid literal for int() with base 10: ''
+words: ['', 'move', 'up', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move up eight"
+post_preprocessed_text:"move up 8"
+space_matches []
+words: ['', 'move', 'up', '8', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'up', '8', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'up', '8', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'up', '8', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'up', '8', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'up', '8', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'up', '8', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 8 spaces), (None/None) -> (None)
+prepreprocessed text:"move right 12"
+post_preprocessed_text:"move right 12"
+space_matches []
+words: ['', 'move', 'right', '12', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'right', '12', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'right', '12', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'right', '12', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'right', '12', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'right', '12', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'right', '12', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 12 spaces), (None/None) -> (None)
+prepreprocessed text:"move down one"
+post_preprocessed_text:"move down 1"
+space_matches []
+words: ['', 'move', 'down', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'down', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'down', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'down', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'down', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'down', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'down', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move right seven"
+post_preprocessed_text:"move right 7"
+space_matches []
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'right', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 7 spaces), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"ate up one spread out"
+post_preprocessed_text:"ate up 1 spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/group: 1) -> (None)
+prepreprocessed text:"wow that is that's a new one"
+post_preprocessed_text:"wow that is that's a new 1"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 1) -> (None)
+prepreprocessed text:"8 8"
+post_preprocessed_text:"8 8"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 8) -> (None)
+prepreprocessed text:"move up five"
+post_preprocessed_text:"move up 5"
+space_matches []
+words: ['', 'move', 'up', '5', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'up', '5', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'up', '5', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'up', '5', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'up', '5', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'up', '5', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'up', '5', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 5 spaces), (None/None) -> (None)
+prepreprocessed text:"move for one left"
+post_preprocessed_text:"move 4 1 left"
+space_matches []
+words: ['', 'move', '4', '1', 'left', '']
+got an exception while looking for words invalid literal for int() with base 10: ''
+words: ['', 'move', '4', '1', 'left', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', '4', '1', 'left', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', '4', '1', 'left', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', '4', '1', 'left', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', '4', '1', 'left', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', '4', '1', 'left', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', '4', '1', 'left', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 4) -> (None)
+prepreprocessed text:"up one"
+post_preprocessed_text:"up 1"
+space_matches []
+words: ['', 'up', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'up', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'up', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'up', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'up', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'up', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'up', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/None) -> (None)
+prepreprocessed text:"left five"
+post_preprocessed_text:"left 5"
+space_matches []
+words: ['', 'left', '5', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'left', '5', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'left', '5', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'left', '5', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'left', '5', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'left', '5', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'left', '5', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 5 spaces), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the 23 down 4"
+post_preprocessed_text:"move the 23 down 4"
+space_matches []
+words: ['', 'move', 'the', '23', 'down', '4', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '23', 'down', '4', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '23', 'down', '4', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '23', 'down', '4', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '23', 'down', '4', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '23', 'down', '4', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '23', 'down', '4', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 4 spaces), (None/group: 23) -> (None)
+prepreprocessed text:"move the 23 up to"
+post_preprocessed_text:"move the 23 up 2"
+space_matches []
+words: ['', 'move', 'the', '23', 'up', '2', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '23', 'up', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '23', 'up', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '23', 'up', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '23', 'up', '2', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '23', 'up', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '23', 'up', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 2 spaces), (None/group: 23) -> (None)
+prepreprocessed text:"move the 40 left one"
+post_preprocessed_text:"move the 40 left 1"
+space_matches []
+words: ['', 'move', 'the', '40', 'left', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '40', 'left', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '40', 'left', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '40', 'left', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '40', 'left', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '40', 'left', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '40', 'left', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 40) -> (None)
+prepreprocessed text:"move the 47 down one"
+post_preprocessed_text:"move the 47 down 1"
+space_matches []
+words: ['', 'move', 'the', '47', 'down', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '47', 'down', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '47', 'down', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '47', 'down', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '47', 'down', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '47', 'down', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '47', 'down', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/group: 47) -> (None)
+prepreprocessed text:"07"
+post_preprocessed_text:" o7"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (Point: 7, 14)
+prepreprocessed text:"move up one oh it doesn't work"
+post_preprocessed_text:"move up 1 oh it doesn't work"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 1) -> (None)
+prepreprocessed text:"text up one"
+post_preprocessed_text:"text up 1"
+space_matches []
+words: ['', 'text', 'up', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'text', 'up', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'text', 'up', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'text', 'up', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'text', 'up', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'text', 'up', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'text', 'up', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the 47 up one"
+post_preprocessed_text:"move the 47 up 1"
+space_matches []
+words: ['', 'move', 'the', '47', 'up', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '47', 'up', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '47', 'up', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '47', 'up', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '47', 'up', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '47', 'up', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '47', 'up', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 47) -> (None)
+prepreprocessed text:"move the 49 left to"
+post_preprocessed_text:"move the 49 left 2"
+space_matches []
+words: ['', 'move', 'the', '49', 'left', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '49', 'left', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '49', 'left', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '49', 'left', '2', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '49', 'left', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '49', 'left', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '49', 'left', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 2 spaces), (None/group: 49) -> (None)
+prepreprocessed text:"move the 22 right one"
+post_preprocessed_text:"move the 22 right 1"
+space_matches []
+words: ['', 'move', 'the', '22', 'right', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '22', 'right', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '22', 'right', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '22', 'right', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '22', 'right', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '22', 'right', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '22', 'right', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 22) -> (None)
+prepreprocessed text:"move the 63 left Spore"
+post_preprocessed_text:"move the 63 left spore"
+space_matches []
+words: ['', 'move', 'the', '63', 'left', 'spore', '']
+got an exception while looking for words invalid literal for int() with base 10: 'spore'
+words: ['', 'move', 'the', '63', 'left', 'spore', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '63', 'left', 'spore', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '63', 'left', 'spore', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '63', 'left', 'spore', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '63', 'left', 'spore', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '63', 'left', 'spore', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '63', 'left', 'spore', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 63) -> (None)
+prepreprocessed text:"move"
+post_preprocessed_text:"move"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"what does 60 left 7"
+post_preprocessed_text:"what does 60 left 7"
+space_matches []
+words: ['', 'what', 'does', '60', 'left', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'what', 'does', '60', 'left', '7', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'what', 'does', '60', 'left', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'what', 'does', '60', 'left', '7', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'what', 'does', '60', 'left', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'what', 'does', '60', 'left', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'what', 'does', '60', 'left', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 7 spaces), (None/group: 60) -> (None)
+prepreprocessed text:"move the"
+post_preprocessed_text:"move the"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the 60 left to"
+post_preprocessed_text:"move the 60 left 2"
+space_matches []
+words: ['', 'move', 'the', '60', 'left', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '60', 'left', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '60', 'left', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '60', 'left', '2', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '60', 'left', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '60', 'left', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '60', 'left', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 2 spaces), (None/group: 60) -> (None)
+prepreprocessed text:"move the 60 down one"
+post_preprocessed_text:"move the 60 down 1"
+space_matches []
+words: ['', 'move', 'the', '60', 'down', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '60', 'down', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '60', 'down', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '60', 'down', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '60', 'down', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '60', 'down', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '60', 'down', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/group: 60) -> (None)
+prepreprocessed text:"move the 58 right one"
+post_preprocessed_text:"move the 58 right 1"
+space_matches []
+words: ['', 'move', 'the', '58', 'right', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '58', 'right', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '58', 'right', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '58', 'right', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '58', 'right', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '58', 'right', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '58', 'right', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 58) -> (None)
+prepreprocessed text:"move the 42 down 3"
+post_preprocessed_text:"move the 42 down 3"
+space_matches []
+words: ['', 'move', 'the', '42', 'down', '3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '42', 'down', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '42', 'down', '3', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '42', 'down', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '42', 'down', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '42', 'down', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '42', 'down', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 3 spaces), (None/group: 42) -> (None)
+prepreprocessed text:"move the 36 left one"
+post_preprocessed_text:"move the 36 left 1"
+space_matches []
+words: ['', 'move', 'the', '36', 'left', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '36', 'left', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '36', 'left', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '36', 'left', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '36', 'left', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '36', 'left', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '36', 'left', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 36) -> (None)
+prepreprocessed text:"move the 120 up one move the"
+post_preprocessed_text:"move the 120 up 1 move the"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 120) -> (None)
+prepreprocessed text:"left one"
+post_preprocessed_text:"left 1"
+space_matches []
+words: ['', 'left', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'left', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'left', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'left', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'left', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'left', '1', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'left', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move 140 up one"
+post_preprocessed_text:"move 140 up 1"
+space_matches []
+words: ['', 'move', '140', 'up', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', '140', 'up', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', '140', 'up', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', '140', 'up', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', '140', 'up', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', '140', 'up', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', '140', 'up', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 140) -> (None)
+prepreprocessed text:"move that to 11 left 3"
+post_preprocessed_text:"move that to 11 left 3"
+space_matches []
+words: ['', 'move', 'that', 'to', '11', 'left', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'that', 'to', '11', 'left', '3', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'that', 'to', '11', 'left', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'that', 'to', '11', 'left', '3', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'that', 'to', '11', 'left', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'that', 'to', '11', 'left', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'that', 'to', '11', 'left', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 3 spaces), (None/group: 11) -> (None)
+prepreprocessed text:"move the 211 left 3"
+post_preprocessed_text:"move the 211 left 3"
+space_matches []
+words: ['', 'move', 'the', '211', 'left', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '211', 'left', '3', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '211', 'left', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '211', 'left', '3', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '211', 'left', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '211', 'left', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '211', 'left', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 3 spaces), (None/group: 211) -> (None)
+prepreprocessed text:"move the 24"
+post_preprocessed_text:"move the 24"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 24) -> (None)
+prepreprocessed text:"move the 241 down to"
+post_preprocessed_text:"move the 241 down 2"
+space_matches []
+words: ['', 'move', 'the', '241', 'down', '2', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '241', 'down', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '241', 'down', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '241', 'down', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '241', 'down', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '241', 'down', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '241', 'down', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/group: 241) -> (None)
+prepreprocessed text:"move the 255 left 7"
+post_preprocessed_text:"move the 255 left 7"
+space_matches []
+words: ['', 'move', 'the', '255', 'left', '7', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '255', 'left', '7', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '255', 'left', '7', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '255', 'left', '7', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '255', 'left', '7', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '255', 'left', '7', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '255', 'left', '7', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 7 spaces), (None/group: 255) -> (None)
+prepreprocessed text:"move the 276 down 3"
+post_preprocessed_text:"move the 276 down 3"
+space_matches []
+words: ['', 'move', 'the', '276', 'down', '3', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '276', 'down', '3', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '276', 'down', '3', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '276', 'down', '3', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '276', 'down', '3', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '276', 'down', '3', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '276', 'down', '3', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 3 spaces), (None/group: 276) -> (None)
+prepreprocessed text:"move the 269 to f"
+post_preprocessed_text:"move the 269 to f"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 269) -> (None)
+prepreprocessed text:"move the 269 to F10"
+post_preprocessed_text:"move the 269 to f10"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 269) -> (Point: 10, 5)
+prepreprocessed text:"move the 140 Left 4"
+post_preprocessed_text:"move the 140 left 4"
+space_matches []
+words: ['', 'move', 'the', '140', 'left', '4', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '140', 'left', '4', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '140', 'left', '4', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '140', 'left', '4', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '140', 'left', '4', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '140', 'left', '4', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '140', 'left', '4', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 4 spaces), (None/group: 140) -> (None)
+prepreprocessed text:"move the 151 down 4"
+post_preprocessed_text:"move the 151 down 4"
+space_matches []
+words: ['', 'move', 'the', '151', 'down', '4', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '151', 'down', '4', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '151', 'down', '4', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '151', 'down', '4', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '151', 'down', '4', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '151', 'down', '4', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '151', 'down', '4', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.DOWN 4 spaces), (None/group: 151) -> (None)
+prepreprocessed text:"move the 127 left to"
+post_preprocessed_text:"move the 127 left 2"
+space_matches []
+words: ['', 'move', 'the', '127', 'left', '2', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '127', 'left', '2', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '127', 'left', '2', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '127', 'left', '2', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '127', 'left', '2', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '127', 'left', '2', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'move', 'the', '127', 'left', '2', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 2 spaces), (None/group: 127) -> (None)
+prepreprocessed text:"move the 120 up one"
+post_preprocessed_text:"move the 120 up 1"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 120) -> (None)
+prepreprocessed text:"move the 105 up one"
+post_preprocessed_text:"move the 105 up 1"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 105) -> (None)
+prepreprocessed text:"move the 106 up one"
+post_preprocessed_text:"move the 106 up 1"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 106) -> (None)
+prepreprocessed text:"ordering six up one"
+post_preprocessed_text:"ordering 6 up 1"
+space_matches []
+words: ['', 'ordering', '6', 'up', '1', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'ordering', '6', 'up', '1', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'ordering', '6', 'up', '1', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'ordering', '6', 'up', '1', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'ordering', '6', 'up', '1', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'ordering', '6', 'up', '1', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'ordering', '6', 'up', '1', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 6) -> (None)
+prepreprocessed text:"move the 107 up one"
+post_preprocessed_text:"move the 107 up 1"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 107) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+space_matches []
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the 111 up to"
+post_preprocessed_text:"move the 111 up 2"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 111) -> (None)
+prepreprocessed text:"move the 112 up to spaces"
+post_preprocessed_text:"move the 112 up to spaces"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 112) -> (None)
+prepreprocessed text:"move the 112"
+post_preprocessed_text:"move the 112"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 112) -> (None)
+prepreprocessed text:"112 up 12"
+post_preprocessed_text:"112 up 12"
+space_matches []
+words: ['', '112', 'up', '12', '']
+got an exception while looking for words 'left' is not in list
+words: ['', '112', 'up', '12', '']
+got an exception while looking for words 'west' is not in list
+words: ['', '112', 'up', '12', '']
+got an exception while looking for words 'right' is not in list
+words: ['', '112', 'up', '12', '']
+got an exception while looking for words 'east' is not in list
+words: ['', '112', 'up', '12', '']
+got an exception while looking for words 'down' is not in list
+words: ['', '112', 'up', '12', '']
+got an exception while looking for words 'south' is not in list
+words: ['', '112', 'up', '12', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.UP 12 spaces), (None/group: 112) -> (None)
+prepreprocessed text:"a death"
+post_preprocessed_text:"a death"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"from action classifier import classified"
+post_preprocessed_text:"from action classifier import classified"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the 112 up to spaces"
+post_preprocessed_text:"move the 112 up to spaces"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 112) -> (None)
+prepreprocessed text:"move the 112 up to spaces"
+post_preprocessed_text:"move the 112 up to spaces"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 112) -> (None)
+prepreprocessed text:"none why is that"
+post_preprocessed_text:"n1 why is that"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (Point: 1, 13)
+prepreprocessed text:"move the 112 up to spaces"
+post_preprocessed_text:"move the 112 up to spaces"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 112) -> (None)
+prepreprocessed text:"64"
+post_preprocessed_text:"64"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 64) -> (None)
+prepreprocessed text:"move the 112 up to spaces"
+post_preprocessed_text:"move the 112 up to spaces"
+space_matches []
+words: ['', 'move', 'the', '112', 'up', 'to', 'spaces', '']
+got an exception while looking for words 'left' is not in list
+words: ['', 'move', 'the', '112', 'up', 'to', 'spaces', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'move', 'the', '112', 'up', 'to', 'spaces', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'move', 'the', '112', 'up', 'to', 'spaces', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'move', 'the', '112', 'up', 'to', 'spaces', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'move', 'the', '112', 'up', 'to', 'spaces', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'move', 'the', '112', 'up', 'to', 'spaces', '']
+got an exception while looking for words invalid literal for int() with base 10: 'to'
+words: ['', 'move', 'the', '112', 'up', 'to', 'spaces', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 112) -> (None)
+prepreprocessed text:"if I make it 63"
+post_preprocessed_text:"if i make it 63"
+space_matches []
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 63) -> (None)
+prepreprocessed text:"left it says left"
+post_preprocessed_text:"left it says left"
+space_matches []
+words: ['', 'left', 'it', 'says', 'left', '']
+got an exception while looking for words invalid literal for int() with base 10: 'it'
+words: ['', 'left', 'it', 'says', 'left', '']
+got an exception while looking for words 'west' is not in list
+words: ['', 'left', 'it', 'says', 'left', '']
+got an exception while looking for words 'right' is not in list
+words: ['', 'left', 'it', 'says', 'left', '']
+got an exception while looking for words 'east' is not in list
+words: ['', 'left', 'it', 'says', 'left', '']
+got an exception while looking for words 'down' is not in list
+words: ['', 'left', 'it', 'says', 'left', '']
+got an exception while looking for words 'south' is not in list
+words: ['', 'left', 'it', 'says', 'left', '']
+got an exception while looking for words 'up' is not in list
+words: ['', 'left', 'it', 'says', 'left', '']
+got an exception while looking for words 'north' is not in list
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move left for"
+post_preprocessed_text:"move left 4"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 4 spaces), (None/None) -> (None)
+prepreprocessed text:"move right five"
+post_preprocessed_text:"move right 5"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 5 spaces), (None/None) -> (None)
+prepreprocessed text:"move the three right"
+post_preprocessed_text:"move the 3 right"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 3) -> (None)
+prepreprocessed text:"move 10 down 7"
+post_preprocessed_text:"move 10 down 7"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 7 spaces), (None/group: 10) -> (None)
+prepreprocessed text:"move the 20 down 7"
+post_preprocessed_text:"move the 20 down 7"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 7 spaces), (None/group: 20) -> (None)
+prepreprocessed text:"move the 2"
+post_preprocessed_text:"move the 2"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 2) -> (None)
+prepreprocessed text:"move"
+post_preprocessed_text:"move"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"left one move the 23 left one"
+post_preprocessed_text:"left 1 move the 23 left 1"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 1) -> (None)
+prepreprocessed text:"move the 23 left one"
+post_preprocessed_text:"move the 23 left 1"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 23) -> (None)
+prepreprocessed text:"move the 24 down to"
+post_preprocessed_text:"move the 24 down 2"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/group: 24) -> (None)
+prepreprocessed text:"move the 47 right 6"
+post_preprocessed_text:"move the 47 right 6"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 6 spaces), (None/group: 47) -> (None)
+prepreprocessed text:"move the 71 up one"
+post_preprocessed_text:"move the 71 up 1"
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 71) -> (None)
+prepreprocessed text:"move the 71 right to"
+post_preprocessed_text:"move the 71 right 2"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 2 spaces), (None/group: 71) -> (None)
+prepreprocessed text:"m02 k0"
+post_preprocessed_text:"m02 k0"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (Point: 2, 12/None) -> (Point: 0, 10)
+prepreprocessed text:"m0 down to sorry k0 down to"
+post_preprocessed_text:"m0 down to sorry k0 down 2"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (Point: 0, 12/group: 2) -> (Point: 0, 10)
+prepreprocessed text:"K zero down to"
+post_preprocessed_text:"k0 down 2"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (Point: 0, 10/None) -> (None)
+prepreprocessed text:"move to 73 down one"
+post_preprocessed_text:"move to 73 down 1"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/group: 73) -> (None)
+prepreprocessed text:"move the 73 right 6"
+post_preprocessed_text:"move the 73 right 6"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 6 spaces), (None/group: 73) -> (None)
+prepreprocessed text:"move the 67 right 3"
+post_preprocessed_text:"move the 67 right 3"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 3 spaces), (None/group: 67) -> (None)
+prepreprocessed text:"move the 64 down to"
+post_preprocessed_text:"move the 64 down 2"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/group: 64) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the nine down for"
+post_preprocessed_text:"move the 9 down 4"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 4 spaces), (None/group: 9) -> (None)
+prepreprocessed text:"move the six left five"
+post_preprocessed_text:"move the 6 left 5"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 5 spaces), (None/group: 6) -> (None)
+prepreprocessed text:"oh really sexy move the six left five"
+post_preprocessed_text:"oh really 6y move the 6 left 5"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 5 spaces), (None/group: 6) -> (None)
+prepreprocessed text:"move the six left five"
+post_preprocessed_text:"move the 6 left 5"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 5 spaces), (None/group: 6) -> (None)
+prepreprocessed text:"move the 110 down to"
+post_preprocessed_text:"move the 110 down 2"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/group: 110) -> (None)
+prepreprocessed text:"moved 116 right 12"
+post_preprocessed_text:"moved 116 right 12"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 12 spaces), (None/group: 116) -> (None)
+prepreprocessed text:"move the 71 down 12"
+post_preprocessed_text:"move the 71 down 12"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 12 spaces), (None/group: 71) -> (None)
+prepreprocessed text:"move the 102 down six"
+post_preprocessed_text:"move the 102 down 6"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 6 spaces), (None/group: 102) -> (None)
+prepreprocessed text:"146 to q6"
+post_preprocessed_text:"146 to q6"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/group: 146) -> (Point: 6, 16)
+prepreprocessed text:"text down for"
+post_preprocessed_text:"text down 4"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 4 spaces), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the 217 down to"
+post_preprocessed_text:"move the 217 down 2"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/group: 217) -> (None)
+prepreprocessed text:"move the 86 left to"
+post_preprocessed_text:"move the 86 left 2"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 2 spaces), (None/group: 86) -> (None)
+prepreprocessed text:"move the 120 down 7"
+post_preprocessed_text:"move the 120 down 7"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 7 spaces), (None/group: 120) -> (None)
+prepreprocessed text:"move the 150 left one"
+post_preprocessed_text:"move the 150 left 1"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 150) -> (None)
+prepreprocessed text:"move the 51 down one"
+post_preprocessed_text:"move the 51 down 1"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/group: 51) -> (None)
+prepreprocessed text:"move the 117 down to"
+post_preprocessed_text:"move the 117 down 2"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/group: 117) -> (None)
+prepreprocessed text:"move the 147 down 3"
+post_preprocessed_text:"move the 147 down 3"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 3 spaces), (None/group: 147) -> (None)
+prepreprocessed text:"move the 178 down to"
+post_preprocessed_text:"move the 178 down 2"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/group: 178) -> (None)
+prepreprocessed text:"move the 233 left one"
+post_preprocessed_text:"move the 233 left 1"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/group: 233) -> (None)
+prepreprocessed text:"move the 222 down one"
+post_preprocessed_text:"move the 222 down 1"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/group: 222) -> (None)
+prepreprocessed text:"221 down one"
+post_preprocessed_text:"221 down 1"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/group: 221) -> (None)
+prepreprocessed text:"move the 221 right one"
+post_preprocessed_text:"move the 221 right 1"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 221) -> (None)
+prepreprocessed text:"move the 220 left 3"
+post_preprocessed_text:"move the 220 left 3"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 3 spaces), (None/group: 220) -> (None)
+prepreprocessed text:"move the 218 down to"
+post_preprocessed_text:"move the 218 down 2"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/group: 218) -> (None)
+prepreprocessed text:"move the 217 right 12"
+post_preprocessed_text:"move the 217 right 12"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 12 spaces), (None/group: 217) -> (None)
+prepreprocessed text:"move the 209 down to"
+post_preprocessed_text:"move the 209 down 2"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 2 spaces), (None/group: 209) -> (None)
+prepreprocessed text:"move the 207 right for"
+post_preprocessed_text:"move the 207 right 4"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 4 spaces), (None/group: 207) -> (None)
+prepreprocessed text:"move the 194 down one"
+post_preprocessed_text:"move the 194 down 1"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/group: 194) -> (None)
+prepreprocessed text:"95 down one there it is move the 148 right 3"
+post_preprocessed_text:"95 down 1 there it is move the 148 right 3"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 95) -> (None)
+prepreprocessed text:"movie 18 up one"
+post_preprocessed_text:"movie 18 up 1"
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 18) -> (None)
+prepreprocessed text:"move the 19 up one"
+post_preprocessed_text:"move the 19 up 1"
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 19) -> (None)
+prepreprocessed text:"I moved the nine down to lots of"
+post_preprocessed_text:"i moved the 9 down to lots of"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/group: 9) -> (None)
+prepreprocessed text:"u16"
+post_preprocessed_text:"u16"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (Point: 16, 20)
+prepreprocessed text:"Heritage 150 right for"
+post_preprocessed_text:"heritage 150 right 4"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 4 spaces), (None/group: 150) -> (None)
+prepreprocessed text:"125 right one"
+post_preprocessed_text:"125 right 1"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 1 spaces), (None/group: 125) -> (None)
+prepreprocessed text:"123 down one"
+post_preprocessed_text:"123 down 1"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/group: 123) -> (None)
+prepreprocessed text:"300 right three"
+post_preprocessed_text:"300 right 3"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 3 spaces), (None/group: 300) -> (None)
+prepreprocessed text:"215 down 3"
+post_preprocessed_text:"215 down 3"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 3 spaces), (None/group: 215) -> (None)
+prepreprocessed text:"206 right to"
+post_preprocessed_text:"206 right 2"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 2 spaces), (None/group: 206) -> (None)
+prepreprocessed text:"199 down one"
+post_preprocessed_text:"199 down 1"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 1 spaces), (None/group: 199) -> (None)
