@@ -4705,3 +4705,78 @@ action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
 prepreprocessed text:"yeah I'll get up now"
 post_preprocessed_text:"yeah i'll get up now"
 action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move left to spaces"
+post_preprocessed_text:"move left 2 spaces"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 2 spaces), (None/None) -> (None)
+prepreprocessed text:"move left"
+post_preprocessed_text:"move left"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the seven up two spaces"
+post_preprocessed_text:"move the 7 up 2 spaces"
+action classified as:Action (Goal.MOVE), (Direction.UP 2 spaces), (None/group: 7) -> (None)
+prepreprocessed text:"move the five left two spices"
+post_preprocessed_text:"move the 5 left 2 spices"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 2 spaces), (None/group: 5) -> (None)
+prepreprocessed text:"move the four up one"
+post_preprocessed_text:"move the 4 up 1"
+action classified as:Action (Goal.MOVE), (Direction.UP 1 spaces), (None/group: 4) -> (None)
+prepreprocessed text:"move the 30 left 5"
+post_preprocessed_text:"move the 30 left 5"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 5 spaces), (None/group: 30) -> (None)
+prepreprocessed text:"move the five left five"
+post_preprocessed_text:"move the 5 left 5"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 5 spaces), (None/group: 5) -> (None)
+prepreprocessed text:"move the left side left"
+post_preprocessed_text:"move the left side left"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move left free spaces"
+post_preprocessed_text:"move left free spaces"
+action classified as:Action (Goal.MOVE), (Direction.LEFT 1 spaces), (None/None) -> (None)
+prepreprocessed text:"F3"
+post_preprocessed_text:"f3"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (Point: 3, 5)
+prepreprocessed text:"F3"
+post_preprocessed_text:"f3"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (Point: 3, 5)
+prepreprocessed text:"F3"
+post_preprocessed_text:"f3"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (Point: 3, 5)
+prepreprocessed text:"F3"
+post_preprocessed_text:"f3"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (Point: 3, 5)
+prepreprocessed text:"F3 there we go"
+post_preprocessed_text:"f3 there we go"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (Point: 3, 5)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"spread out"
+post_preprocessed_text:"spread out"
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"that's also command that we can use"
+post_preprocessed_text:"that's also commn that we can use"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"baba baba baba baba baba put out"
+post_preprocessed_text:"baba baba baba baba baba put out"
+action classified as:Action (Goal.SPREAD_OUT), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"random"
+post_preprocessed_text:"rnom"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)
+prepreprocessed text:"move the 50 down 6"
+post_preprocessed_text:"move the 50 down 6"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 6 spaces), (None/group: 50) -> (None)
+prepreprocessed text:"move the 50 down three"
+post_preprocessed_text:"move the 50 down 3"
+action classified as:Action (Goal.MOVE), (Direction.DOWN 3 spaces), (None/group: 50) -> (None)
+prepreprocessed text:"move the 50 right five"
+post_preprocessed_text:"move the 50 right 5"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 5 spaces), (None/group: 50) -> (None)
+prepreprocessed text:"move the 45 up to"
+post_preprocessed_text:"move the 45 up 2"
+action classified as:Action (Goal.MOVE), (Direction.UP 2 spaces), (None/group: 45) -> (None)
+prepreprocessed text:"move the 43 right 7"
+post_preprocessed_text:"move the 43 right 7"
+action classified as:Action (Goal.MOVE), (Direction.RIGHT 7 spaces), (None/group: 43) -> (None)
+prepreprocessed text:"move the"
+post_preprocessed_text:"move the"
+action classified as:Action (Goal.MOVE), (None 1 spaces), (None/None) -> (None)

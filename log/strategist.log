@@ -6511,3 +6511,114 @@ Moving from Point: 8, 10 to Point: 8, 11
 a group exists on the point. It's at Point: 8, 18
 a group exists on the point. It's at Point: 8, 18
 Moving from Point: 14, 20 to Point: 13, 20
+Moving from Point: 16, 5 to Point: 16, 4
+Moving from Point: 16, 4 to Point: 16, 3
+Moving from Point: 16, 3 to Point: 16, 2
+a group exists on the point. It's at Point: 16, 2
+Moving from Point: 16, 2 to Point: 15, 2
+Moving from Point: 15, 2 to Point: 14, 2
+a group exists on the point. It's at Point: 14, 2
+Moving from Point: 14, 2 to Point: 14, 1
+Moving from Point: 14, 1 to Point: 14, 0
+a group exists on the point. It's at Point: 14, 0
+Moving from Point: 14, 0 to Point: 13, 0
+a group exists on the point. It's at Point: 16, 5
+Moving from Point: 16, 5 to Point: 16, 4
+Moving from Point: 16, 4 to Point: 16, 3
+Moving from Point: 16, 3 to Point: 16, 2
+Moving from Point: 16, 2 to Point: 16, 1
+Moving from Point: 16, 1 to Point: 16, 0
+a group exists on the point. It's at Point: 13, 0
+Moving from Point: 13, 0 to Point: 13, -1
+Moving from Point: 13, -1 to Point: 13, -2
+Moving from Point: 13, -2 to Point: 13, -3
+Moving from Point: 13, -3 to Point: 13, -4
+Moving from Point: 13, -4 to Point: 13, -5
+Moving from Point: 16, 5 to Point: 16, 4
+Moving from Point: 4, 6 to Point: 4, 5
+Moving from Point: 4, 5 to Point: 3, 5
+Moving from Point: 4, 6 to Point: 3, 6
+Moving from Point: 3, 6 to Point: 3, 5
+Moving from Point: 4, 6 to Point: 3, 6
+Moving from Point: 3, 6 to Point: 3, 5
+Moving from Point: 4, 6 to Point: 3, 6
+Moving from Point: 3, 6 to Point: 3, 5
+spreading out...
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fb5db8ab290> -> Point: 3, 4
+Moving from Point: 3, 5 to Point: 3, 4
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fb5db700710> -> Point: 4, 6
+Moving from Point: 3, 6 to Point: 4, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fb5db6b0110> -> Point: 3, 5
+Moving from Point: 4, 5 to Point: 3, 5
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fb5db6f1810> -> Point: 4, 7
+Moving from Point: 4, 6 to Point: 4, 7
+spreading out...
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fb5db6b0110> -> Point: 4, 4
+Moving from Point: 3, 4 to Point: 4, 4
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fb5db2f10d0> -> Point: 3, 6
+Moving from Point: 3, 5 to Point: 3, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fb5db2f39d0> -> Point: 3, 6
+Moving from Point: 4, 6 to Point: 3, 6
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fb5db6f2610> -> Point: 4, 8
+Moving from Point: 4, 7 to Point: 4, 8
+spreading out...
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fb5db8ab290> -> Point: 3, 5
+Moving from Point: 3, 4 to Point: 3, 5
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fb5ea88fd10> -> Point: 3, 6
+Moving from Point: 3, 5 to Point: 3, 6
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fb5db6f30d0> -> Point: 3, 5
+Moving from Point: 3, 6 to Point: 3, 5
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fb5db6b0110> -> Point: 4, 3
+Moving from Point: 4, 4 to Point: 4, 3
+direction = Direction.DOWN
+pushing attack: <action.Location object at 0x7fb5db8df850> -> Point: 5, 5
+Moving from Point: 4, 5 to Point: 5, 5
+direction = Direction.RIGHT
+pushing attack: <action.Location object at 0x7fb5db7039d0> -> Point: 4, 7
+Moving from Point: 4, 6 to Point: 4, 7
+direction = Direction.LEFT
+pushing attack: <action.Location object at 0x7fb5db3d6a10> -> Point: 4, 6
+Moving from Point: 4, 7 to Point: 4, 6
+direction = Direction.UP
+pushing attack: <action.Location object at 0x7fb5db3d66d0> -> Point: 3, 8
+Moving from Point: 4, 8 to Point: 3, 8
+a group exists on the point. It's at Point: 3, 5
+Moving from Point: 3, 5 to Point: 4, 5
+Moving from Point: 4, 5 to Point: 5, 5
+Moving from Point: 5, 5 to Point: 6, 5
+Moving from Point: 6, 5 to Point: 7, 5
+Moving from Point: 7, 5 to Point: 8, 5
+Moving from Point: 8, 5 to Point: 9, 5
+a group exists on the point. It's at Point: 9, 5
+Moving from Point: 9, 5 to Point: 10, 5
+Moving from Point: 10, 5 to Point: 11, 5
+Moving from Point: 11, 5 to Point: 12, 5
+a group exists on the point. It's at Point: 12, 5
+Moving from Point: 12, 5 to Point: 12, 6
+Moving from Point: 12, 6 to Point: 12, 7
+Moving from Point: 12, 7 to Point: 12, 8
+Moving from Point: 12, 8 to Point: 12, 9
+Moving from Point: 12, 9 to Point: 12, 10
+a group exists on the point. It's at Point: 12, 10
+Moving from Point: 12, 10 to Point: 11, 10
+Moving from Point: 11, 10 to Point: 10, 10
+a group exists on the point. It's at Point: 10, 10
+Moving from Point: 10, 10 to Point: 10, 11
+Moving from Point: 10, 11 to Point: 10, 12
+Moving from Point: 10, 12 to Point: 10, 13
+Moving from Point: 10, 13 to Point: 10, 14
+Moving from Point: 10, 14 to Point: 10, 15
+Moving from Point: 10, 15 to Point: 10, 16
+Moving from Point: 10, 16 to Point: 10, 17

@@ -9,6 +9,7 @@ from listener import Listener
 
 from strategist import Strategist
 from voice_pipeline import VoicePipeline
+from word_lists import INSTRUCTIONS
 
 class GameManager:
     def __init__(self,
@@ -60,6 +61,7 @@ class GameManager:
             self.voice_pipeline_thread = threading.Thread(target=self.voice_pipeline.run)
             self.voice_pipeline_thread.start()
             for update in update_generator:
+                print(INSTRUCTIONS)
                 print(f"{self._client._map}")
                 update_handler(self._client._map)
                 if not self.action_queue.empty():

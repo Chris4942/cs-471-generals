@@ -3,7 +3,7 @@ from action import Action, Direction, Goal, Group, Point
 import numpy as np
 from fuzzywuzzy import process
 from re import compile
-from my_regex import spaces_regex, group_regex, coord_regex
+from my_regex import spaces_regex, group_regex, coord_regex, tile_words
 
 from word_lists import DIRECTION_WORDS, DOWN_WORDS, LEFT_WORDS, RIGHT_WORDS, SPREAD_OUT_WORDS, UP_WORDS
 
@@ -22,6 +22,7 @@ letter_o_matcher = compile('(^| )0(?=\d)')
 ignore_matcher = compile('[-]')
 a_fix_matcher = compile('^8(?=\d\d?)')
 to_at_end_matcher = compile(' to$')
+to_spaces_matcher = compile(f"to(?= {tile_words})")
 
 action_classifier_log_file = os.environ['ACTION_CLASSIFIER_LOG_FILE']
 
@@ -58,6 +59,7 @@ def preprocess(text: str):
     text = ignore_matcher.sub('', text)
     text = a_fix_matcher.sub('a', text)
     text = to_at_end_matcher.sub(' 2', text)
+    text = to_spaces_matcher.sub('2', text)
     log(f"post_preprocessed_text:\"{text}\"")
     return ' ' + text + ' '
 
@@ -70,7 +72,6 @@ def find_direction(text) -> Direction:
         process.extractOne(text, UP_WORDS)[1],
     ]
     m = np.max(options)
-    print(m)
     if m > 80:
         return action_dirs[np.argmax(options)]
 
